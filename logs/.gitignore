@@ -1,0 +1,5 @@
+# ignores everything except '.gitignore' within "data" subfolder, as it will contain a generated file
+# provides a level of selectivity, not everything needs to be version-controlled
+
+*
+!.gitignore
