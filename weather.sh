@@ -1,2 +1,3 @@
 #!/bin/bash
-# fetch an API, get coordinates, other relevant data etc.
+
+API_BASE_URL="https://api.met.no/weatherapi/nowcast/2.0/"
