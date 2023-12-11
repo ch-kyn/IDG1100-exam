@@ -20,7 +20,6 @@ SITE_NAME="assignment.whoami"
 ADMIN_EMAIL="whoami@ntnu.no"
 DEST_DIR="/var/www/main-assignment"
 
-
 # create function to configure apache, access template.apache.conf
 function config_apache() {
     # copy .conf in /etc/apache2/sites-available; while also customizing it
@@ -31,7 +30,7 @@ function config_apache() {
         sudo tee "/etc/apache2/sites-available/${SITE_NAME}.conf" > "/dev/null"
     # make sure the site is Apache-enabled
     sudo a2ensite "${SITE_NAME}.conf"
-    # make sure /etc/hosts has our URL for testing
+    # make sure it is configured in /etc/hosts 
     if ! grep -q "$SITE_NAME" /etc/hosts; then
         echo "127.0.0.1 $SITE_NAME" | sudo tee -a /etc/hosts
     fi
