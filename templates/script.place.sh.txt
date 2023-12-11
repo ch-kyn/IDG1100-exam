@@ -17,6 +17,7 @@ query_string="$(printf '%b' ${QUERY_STRING//%/\\x})"
 # extracting the value of the 'place' parameter by matches any sequenece after 'place=' except for '&' and '?'
 place=$(sed -E 's|place=([^&?]*)|\1|' <<< "$query_string")
 
+# checks the 'place' field in the two documents to generate description/weather forecast for a page of a requested if it exists
 body=$(
     awk -F '\t' -v place="${place}" '
     $1 == place {
