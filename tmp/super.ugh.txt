@@ -1,0 +1,356 @@
+Oslo	702,543	454.03	Marianne Borgen	SV
+Eigersund	14,860	431.66	Leif Erik Egaas	H
+Stavanger	144,515	262.52	Kari Nessa Nordtun	Ap
+Haugesund	37,444	72.72	Petter Steen jr	H
+Sandnes	81,305	304.46	Stanley Wirak	Ap
+Sokndal	3,281	294.79	Trond Arne Pedersen	KrF
+Lund	3,178	408.51	Pål Anker Ravndal	KrF
+Bjerkreim	2,789	650.58	Marthon Skårland	H
+Hå	19,296	258.22	Mons Skrettingland	H
+Klepp	20,163	113.49	Sigmund Rolfsen	Sp
+Time	19,353	183.19	Reinert Kverneland	H
+Gjesdal	12,131	617.98	Frode Fjeldsbø	Ap
+Sola	27,568	69.04	Tom Henning Slethei	Frp
+Randaberg	11,454	24.71	Jarle Bø	Sp
+Strand	13,268	261.69	Irene Heng Lauvsnes	H
+Hjelmeland	2,534	1,067.78	Bjørn Laugaland	Sp
+Suldal	3,784	1,736.89	Gerd Helen Bø	Sp
+Sauda	4,525	546.32	Asbjørn Birkeland	Sp
+Kvitsøy	523	6.29	Stian Bjørsvik	KrF
+Bokn	855	47.16	Osmund Våga	Sp
+Tysvær	11,283	425.41	Sigmund Lier	Ap
+Karmøy	42,541	229.95	Jarle Nilsen	Ap
+Utsira	188	6.33	Marte Eide Klovning	Ap
+Vindafjord	8,775	620.59	Ole Johan Vierdal	Sp
+Kristiansund	24,442	87.44	Kjell Neergaard	Ap
+Molde	26,822	362.69	Torgeir Dahl	H
+Ålesund	66,258	632.42	Eva Vinje Aurdal	Ap
+Vanylven	3,203	385.21	Lena M. Landsverk Sande	V
+Sande	2,540	93.21	Olav Myklebust	Sp
+Herøy	8,957	119.53	Bjørn-Halvor Prytz	Ap
+Ulstein	8,457	97.19	Knut Erik Engh	Frp
+Hareid	5,185	82.26	Bernt Brandal	LL
+Ørsta	10,744	804.43	Stein Aam	Sp
+Stranda	4,623	865.86	Jan Ove Tryggestad	Sp
+Sykkylven	7,695	337.80	Odd Jostein Drotninghaug	Sp
+Sula	9,007	58.50	Jim Arve Røssevoll	Ap
+Giske	8,176	40.53	Harry Valderhaug	KrF
+Vestnes	6,577	352.02	Geir Inge Lien	Sp
+Rauma	7,503	1,502.15	Yvonne Wold	SV
+Aukra	3,547	59.08	Odd Jørgen Nilssen	H
+Averøy	5,856	175.68	Ingrid Ovidie Rangønes	Ap
+Gjemnes	2,611	381.63	Knut Sjømæling	Sp
+Tingvoll	3,109	336.76	Milly Bente Nørsett	Ap
+Sunndal	7,126	1,713.44	Ståle Refstie	Ap
+Surnadal	5,986	1,366.05	Margrethe Svinvik	Sp
+Smøla	2,160	271.91	Svein Roksvåg	Sp
+Aure	3,590	641.38	Hanne Berit Brekken	Ap
+Volda	9,102	547.24	Sølvi Dimmen	Sp
+Fjord	2,642	94.6	Eva Hove	Ap
+Hustadvika	13,215	521.83	Tove Henøen	Sp
+Bodø	51,022	1,395.28	Ida Maria Pinnerød	Ap
+Narvik	18,756	3,432.17	Rune Edvardsen	Ap
+Bindal	1,473	1,264.25	Britt Helstad	Ap
+Sømna	2,047	195.26	Hans Gunnar Holand	Sp
+Brønnøy	7,956	1,046.44	Eilif Kristian Trælnes	Sp
+Vega	1,234	164.79	Andre Møller	Ap
+Vevelstad	528	538.90	Torhild Haugann	LL
+Herøy	1,788	64.40	Eldbjørg Larsen	Ap
+Alstahaug	7,428	187.61	Peter Talseth	Sp
+Leirfjord	2,278	465.22	Ivan Haugland	Ap
+Vefsn	13,465	1,929.10	Berit Hundåla	Sp
+Grane	1,469	2,004.15	Ellen Schjølberg	Sp
+Hattfjelldal	1,414	2,684.31	Harald Lie	Sp
+Dønna	1,410	191.94	Nils Olav Jenssen	Sp
+Nesna	1,837	183.18	Hanne Davidsen	Ap
+Hemnes	4,524	1,589.42	Paul Asphaug	SP
+Rana	26,101	4,459.98	Geir Waage	Ap
+Lurøy	1,920	265.19	Håkon Lund	H
+Træna	465	16.52	Jan Helge Andersen	Ap
+Rødøy	1,267	711.29	Inger Dagmar Monsen	LL
+Meløy	6,435	873.83	Sigurd Stormo	Ap
+Gildeskål	2,024	664.68	Bjørn Magne Pedersen	H
+Beiarn	1,043	1,222.32	Monika Sande	Sp
+Saltdal	4,702	2,216.17	Rune Berg	Sp
+Fauske	9,729	1,201.37	Marlen Rendall Berg	Sp
+Sørfold	1,958	1,637.35	Gisle Erik Hansen	Sp
+Steigen	2,543	1,009.08	Aase Refsnes	SV
+Lødingen	2,134	527.49	Hugo Bongard Jacobsen	Ap
+Evenes	1,402	252.78	Terje Bartholsen	Ap
+Røst	535	10.13	Elisabeth Kristin Mikalsen	LL
+Værøy	744	18.64	Susan Berg Kristiansen	LL
+Flakstad	1,349	178.38	Trond Kroken	Sp
+Vestvågøy	11,294	424.55	Remi Solberg	Ap
+Vågan	9,444	479.15	Frank Gudmund Johnsen	Sp
+Hadsel	8,009	566.56	Kurt Eirik Jenssen	Sp
+Bø	2,624	246.69	Sture Pedersen	H
+Øksnes	4,580	319.51	John Danielsen	Sp
+Sortland	10,378	721.92	Karl-Erling Nordlund	Sp
+Andøy	4,908	656.12	Knut Andreas Nordmo	Sp
+Moskenes	1,073	118.79	Lillian Rasmussen	LL
+Hamarøy	1,810	2,020.45	Britt Kristoffersen	Sp
+Halden	31,444	642.30	Thor Edquist	H
+Moss	50,290	63.57	Hanne Tollerud	Ap
+Sarpsborg	58,182	405.61	Sindre Martinsen-Evje	Ap
+Fredrikstad	83,892	292.55	Jon-Ivar Nygård	Ap
+Drammen	102,449	317.68	Monica Myrvold Berg	Ap
+Kongsberg	27,879	793.09	Kari Anne Sand	Sp
+Ringerike	31 011	1,555.08	Kirsten Orebråten	Ap
+Hvaler	4,741	90.12	Eivind N. Borge	Frp
+Aremark	1 315	319.27	Geir Aarbu	Sp
+Marker	3,578	412.90	Kjersti Nythe Nilsen	Ap
+Indre Østfold	45,608	791.93	Svend Saxe Frøshaug	Sp
+Skiptvet	3,846	101.21	Anne-Grethe Larsen	Sp
+Rakkestad	8,312	434.71	Karoline Fjelstad	Sp
+Råde	7,633	118.77	René Rafshol	H
+Våler	5,913	256.96	Reidar Kaabbel	Sp
+Vestby	18,699	133.97	Tom Anders Ludvigsen	Ap
+Nordre Follo	61,032	133.97	Hanne Opdan	Ap
+Ås	20,780	102.68	Ola Nordal	Ap
+Frogn	16,084	85.70	Odd Haktor Slåke	H
+Nesodden	19,939	61.46	Truls Wickholm	Ap
+Bærum	129,073	192.26	Lisbeth Hammer Krog	H
+Asker	96,088	100.71	Lene Conradi	H
+Aurskog-Høland	17,754	961.66	Gudbrand Kvaal	Sp
+Rælingen	19,024	71.68	Ståle Grøtte	Ap
+Enebakk	11,249	232.58	Hans Kristian Solberg	Sp
+Lørenskog	44,693	70.55	Ragnhild Bergheim	Ap
+Lillestrøm	89,095	456.61	Jørgen Vik	Ap
+Nittedal	24,947	186.22	Hilde Thorkildsen	Ap
+Gjerdrum	6,989	83.19	Anders Østensen	Ap
+Ullensaker	41,565	252.47	Eyvind Jørgensen Schumacher	Ap
+Nes	23,898	637.35	Grete Sjøli	Ap
+Eidsvoll	26,716	456.49	John-Erik Vika	Sp
+Nannestad	15,074	340.99	Hans Thue	Ap
+Hurdal	2,905	284.96	Paul Johan Moltzau	Sp
+Hole	6,859	192.69	Syver Leivestad	H
+Flå	1,057	704.41	Merete Høntorp Gandrud	Ap
+Nesbyen	3,273	809.67	Tore Haraldset	LL
+Gol	4,667	532.49	Heidi Granli	Ap
+Hemsedal	2,611	753.54	Pål Terje Rørby	Sp
+Ål	4,719	1,174.92	Solveig Vestenfor	Ap
+Hol	4,504	1,854.62	Petter Rukke	Ap
+Sigdal	3,502	842.28	Anne Kristin Norman	Sp
+Krødsherad	2 189	374.51	Knut Martin Glesne	LL
+Modum	14,273	517.18	Sunni G. Aamodt	Sp
+Øvre Eiker	20,044	456.69	Knut Kvale	Sp
+Lier	27,584	301.67	Gunn Cecilie Ringdal	H
+Flesberg	2,720	561.91	Oddvar Garaas	Sp
+Rollag	1,370	449.29	Viel Jaren Heitmann	Sp
+Nore og Uvdal	2,455	2,502.29	Jan Gaute Bjerke	Ap
+Jevnaker	6,908	225.72	Morten Lafton	Ap
+Lunner	9,144	291.84	Harald Tyrdal	Ap
+Kongsvinger	17,857	1,036.45	Margrethe Haarr	Sp
+Hamar	30,598	350.94	Einar Busterud	LL
+Lillehammer	27,781	478.17	Ingunn Trosholmen	Ap
+Gjøvik	30,319	672.25	Torvild Sveen	Sp
+Ringsaker	33,842	1,280.09	Anita Ihle Steen	Ap
+Løten	7,633	369.44	Marte Larsen Tønseth	Sp
+Stange	20,317	724.28	Nils A. Røhne	Ap
+Nord-Odal	5,100	508.14	Lise Selnes	Ap
+Sør-Odal	7,866	516.74	Knut Hvithammer	Ap
+Eidskog	6,127	640.39	Kamilla Thue	Ap
+Grue	4,777	837.17	Rune Grenberg	Ap
+Åsnes	7,329	1,040.94	Kari Heggelund	Sp
+Våler	3,743	705.28	Ola Cato Lie	Sp
+Elverum	21,086	1,229.29	Lilian Skjærvik	Ap
+Trysil	6,550	3,014.37	Erik Sletten	Sp
+Åmot	4,518	1,339.92	Ole Erik Hørstad	H
+Stor-Elvdal	2,530	2,165.78	Even Moen	Sp
+Rendalen	1,858	3,179.52	Linda Døsen	Ap
+Engerdal	1,274	2,196.54	Line Storsnes	LL
+Tolga	1,620	1,122.59	Bjørnar Tollan Jordet	SV
+Tynset	5,584	1,880.51	Merete Myhre Moen	Sp
+Alvdal	2,441	942.15	Mona Murud	Sp
+Folldal	1,577	1,276.88	Kristin Langtjernet	Ap
+Os	1,963	1,040.40	Runa Finborud	Sp
+Dovre	2,675	1,364.39	Astrid Skomakerstuen Ruste	Ap
+Lesja	2,048	2,259.50	Mariann Skotte	Sp
+Skjåk	2,202	2,075.52	Edel Kveen	Sp
+Lom	2,360	1,968.55	Bjarne Eiolf Holø	Sp
+Vågå	3,640	1,330.00	Harald Sve Bjørndal	LL
+Nord-Fron	5,723	1,141.48	Rune Støstad	Ap
+Sel	5,916	904.93	Eldri Siem	Sp
+Sør-Fron	3,163	742.18	Ole Tvete Muriteigen	Sp
+Ringebu	4,502	1,247.53	Arne Fossmo	Ap
+Øyer	5,082	639.90	Jon Halvor Midtmagerli	Sp
+Gausdal	6,204	1,191.16	Anette Musdalslien	Sp
+Østre Toten	14,887	562.57	Bror Helgestad	Sp
+Vestre Toten	13,179	249.52	Stian Olafsen	Ap
+Gran	13,707	756.65	Randi Eek Thorsen	Ap
+Søndre Land	5,717	728.36	Anne Hagenborg	Ap
+Nordre Land	6,773	955.31	Ola Tore Dokken	Sp
+Sør-Aurdal	3,026	1,109.04	Marit Hougsrud	Sp
+Etnedal	1,351	459.15	Linda Mæhlum Robøle	Sp
+Nord-Aurdal	6,490	906.52	Knut Arne Fjelltun	Sp
+Vestre Slidre	2,114	463.25	Haldor Ødegård	Sp
+Øystre Slidre	3,248	963.11	Odd Erik Holden	Sp
+Vang	1,596	1,505.45	Vidar Eltun	Ap
+Horten	27,202	70.96	Are Karlsen	Ap
+Holmestrand	14,037	432.36	Elin Weggesrud	Ap
+Tønsberg	44,922	110.03	Anne Rygh Pedersen	Ap
+Sandefjord	62,019	422.26	Bjørn Ole Gleditsch	H
+Larvik	46,557	812.88	Erik Bringedal	H
+Porsgrunn	36,198	164.45	Robin Martin Kåss	Ap
+Skien	54,316	779.20	Hedda Foss Five	Ap
+Notodden	12,757	983.89	Gry Fuglestveit	Ap
+Færder	26,676	99.96	Jon Sanness Andersen	Ap
+Siljan	2,357	213.96	Kjell Abraham Sølverød	Sp
+Bamble	14,138	304.37	Hallgeir Kjeldal	Ap
+Kragerø	10,586	305.46	Grunde Knudsen	Sp
+Drangedal	4,148	1,062.78	Tor Peder Lohne	Sp
+Nome	6,585	429.69	Bjørg Tveito Lundefaret	Ap
+Midt-Telemark	10,439	518.51	Siri Blichfeldt Dyrland	Sp
+Tinn	5,894	2,045.14	Steinar Bergsland	H
+Hjartdal	1,593	791.60	Bengt Halvard Odden	Ap
+Seljord	2,979	715.09	Beate Marie Dahl Eide	Sp
+Kviteseid	2,442	708.46	Bjørn Nordskog	Sp
+Nissedal	1,476	905.18	Halvor Homme	Ap
+Fyresdal	1,319	1,280.14	Erik Skjervagen	Ap
+Tokke	2,228	984.48	Jarand Felland	Sp
+Vinje	3,726	3,105.84	Jon Rikard Kleven	Sp
+Risør	6,935	192.98	Per Kristian Lunden	Ap
+Grimstad	22,692	303.58	Beate Skretting	H
+Arendal	44,576	270.21	Robert Nordli	Ap
+Kristiansand	113,920	276.88	Jan Oddvar Skisland	Ap
+Lindesnes	23,025	934.32	Even Sagebakken	Ap
+Farsund	9,769	262.55	Arnt Abrahamsen	Ap
+Flekkefjord	9,090	543.53	Torbjørn Klungland	Frp
+Gjerstad	2,511	322.14	Inger Haldis Løite	Ap
+Vegårshei	2,104	355.65	Kjetil Torp	KrF
+Tvedestrand	6,051	215.05	Marianne Landsaas	H
+Froland	5,713	644.54	Ove Gundersen	KrF
+Lillesand	10,702	190.43	Einar Holmen-Hoven	H
+Birkenes	5,178	637.36	Gyro Heia	Sp
+Åmli	1,856	1,130.61	Bjørn Gunnar Baas	Sp
+Iveland	1,342	261.63	Gro Anita Mykjåland	Sp
+Evje og Hornnes	3,614	587.08	Svein Arne Haugen	Ap
+Bygland	1,200	1,311.66	Sigbjørn Åge Fossdal	Ap
+Valle	1,246	1,265.31	Steinar Kyrvestad	Ap
+Bykle	952	1,467.13	Jon-Rolf Næss	Ap
+Vennesla	14,425	384.47	Nils Olav Larsen	KrF
+Åseral	937	887.52	Inger Lise Lund Stulien	Ap
+Lyngdal	10,368	642.80	Jan Kristensen	H
+Hægebostad	1,702	461.33	Margrethe Handeland	Sp
+Kvinesdal	5,988	963.22	Per Sverre Kvinlaug	KrF
+Sirdal	1,836	1,554.83	Jonny Liland	Ap
+Bergen	287,428	464.70	Marte Mjøs Persen	Ap
+Kinn	17,131	870.00	Ola Teigen	Ap
+Etne	4,043	735.28	Mette Ekrheim Bergsvåg	Sp
+Sveio	5,775	246.14	Linn Therese Erve	Ap
+Bømlo	12,061	246.56	Sammy Olsen	Sp
+Stord	18,919	143.69	Gaute Straume Epland	Ap
+Fitjar	3,117	142.43	Harald Rydland	KrF
+Tysnes	2,883	255.11	Kåre Martin Kleppe	H
+Kvinnherad	13,017	1,090.74	Hans Inge Myrvold	Sp
+Ullensvang	10,881	3,236.63	Roald Aga Haug	Ap
+Eidfjord	937	1,491.46	Anders Vatle	Sp
+Ulvik	1,051	722.00	Hans Petter Thorbjørnsen	Ap
+Voss	15,875	1,805.81	Hans-Erik Ringkjøb	Ap
+Kvam	8,497	616.50	Torgeir Næss	Ap
+Samnanger	2,501	269.07	Knut Harald Frøland	LL
+Bjørnafjorden	25,213	517.41	Trine Lindborg	Ap
+Austevoll	5,282	117.18	Morten Storebø	H
+Øygarden	39,032	314.51	Tom Georg Indrevik	H
+Askøy	29,032	101.12	Siv Høgtun	H
+Vaksdal	3,867	715.37	Hege Eide Vik	Sp
+Modalen	378	411.99	Kjetil Eikefet	LL
+Osterøy	8,131	255.12	Lars Fjeldstad	Sp
+Alver	29,816	679.00	Sara Sekkingstad	Ap
+Austrheim	2,889	57.56	Per Lerøy	Ap
+Fedje	502	9.28	Stian Herøy	H
+Masfjorden	1,629	556.07	Karstein Totland	H
+Gulen	2,230	597.21	Hallvard Oppedal	Sp
+Solund	768	228.25	Gunn Åmdal Mongstad	Sp
+Hyllestad	1,290	258.91	Kjell	Ap
+Høyanger	3,965	1,003.04	Petter Sortland	Ap
+Vik	2,560	833.33	Roy Egil Stadheim	Ap
+Sogndal	12,097	1,257.89	Arnstein Menes	Sp
+Aurland	1,766	1,467.69	Trygve Skjerdal	Sp
+Lærdal	2,117	1,342.48	Jan Geir Solheim	Sp
+Årdal	5,204	976.58	Ap
+Luster	5,246	2,706.22	Ivar Kvalen	Sp
+Askvoll	2,951	326.17	Ole André Klausen	H
+Fjaler	2,901	416.59	Kjetil Høgseth Felde	H
+Sunnfjord	22,116	2,208.13	Olve Grotle	H
+Bremanger	3,521	832.85	Anne Kristin Førde	Ap
+Stad	9,527	752.78	Alfred Bjørlo	V
+Gloppen	5,875	1,030.51	Leidulf Gloppestad	Sp
+Stryn	7,207	1,377.21	Per Kjøllesdal	Sp
+Trondheim	211,246	342.21	Kent Ranum	Høyre
+Steinkjer	24,357	2,122.06	Bjørn Arild Gram	Sp
+Namsos	13,051	2132.63	Arnhild Holstad	Ap
+Frøya	4,937	241.31	Kristin Furunes Strømskog	H
+Osen	978	387.18	John Einar Høvik	Ap
+Oppdal	6,973	2,274.11	Geir Arild Espnes	Sp
+Rennebu	2,556	947.97	Ola Øie	Ap
+Røros	5,623	1,956.46	Isak Veierud Busch	Ap
+Holtålen	2,046	1,209.50	Arve Hitterdal	LL
+Midtre Gauldal	6,319	1,860.51	Sivert Moen	Sp
+Melhus	16,213	694.40	Jorid Jagtøyen	Sp
+Skaun	8,000	224.21	Gunn Iversen Stokke	Sp
+Malvik	13,820	168.44	Trond Hoseth	Ap
+Selbu	4,098	1,234.84	Ole Morten Balstad	Ap
+Tydal	861	1,329.21	Kvello, Jens Arne	Sp
+Meråker	2,508	1,273.42	Kjersti Kjenes	LL
+Stjørdal	23,625	938.28	Ivar Vigdenes	Sp
+Frosta	2,630	76.32	Frode Revhaug	H
+Levanger	19,892	645.80	Anita Ravlo Sand	Sp
+Verdal	14,849	1,547.78	Pål Sverre Fikse	Sp
+Snåsa	2,159	2,342.66	Arnt Einar Bardal	Sp
+Lierne	1,389	2,961.70	Bente Estil	Ap
+Røyrvik	469	1,584.76	Hans Oskar Devik	LL
+Namsskogan	872	1,417.16	Stian Brekkvassmo	Ap
+Grong	2,467	1,136.17	Borgny Grande	Sp
+Høylandet	1,264	754.68	Hege Nordheim-Viken	Sp
+Overhalla	3,840	729.79	Per Olav Tyldum	Sp
+Flatanger	1,090	458.71	Olav Jørgen Bjørkås	Sp
+Leka	584	110.02	Elisabeth Helmersen	Ap
+Inderøy	6,800	365.67	Ida Stuberg	Sp
+Indre Fosen	10,108	1,095.98	Bjørnar Buhaug	Sp
+Heim	5,963	1,024.58	Odd Jarle Svanem	Sp
+Hitra	4,659	755.89	Ole Haugen	Ap
+Ørland	5,291	457.07	Tom Myrvold	H
+Åfjord	3,263	1,329.42	Vibeke Stjern	Ap
+Orkland	11,891	1,906.26	Oddbjørn Bang	Sp
+Nærøysund	9,623	1,346.16	Amund Hellesø	Ap
+Rindal	2,026	631.95	Vibeke Langli	Sp
+Tromsø	74,541	2,521.28	Gunnar Wilhelmsen	Ap
+Harstad	24,845	445.17	Kari-Anne Opsal	Ap
+Alta	20,446	3,849.47	Ap
+Vardø	2,104	600.61	Ørjan Jensen	Mdg
+Vadsø	6,154	1,257.84	Wenche Pedersen	Ap
+Hammerfest	10,527	2,692.57	Marianne Sivertsen Næss	Ap
+Kvæfjord	2,986	512.58	Torbjørn Larsen	Ap
+Tjeldsund	4,243	319.26	Helene Berg Nilsen	Ap
+Ibestad	1,394	241.06	Dag Brustind	H
+Gratangen	1,121	312.74	Anita Karlsen	Sp
+Lavangen	1,076	301.64	Hege Beate Rollmoen	Ap
+Bardu	3,994	2,703.88	Toralf Heimdal	Sp
+Salangen	2,220	457.88	Sigrun W. Prestbakmo	Sp
+Målselv	6,781	3,326.21	Bengt-Magne Luneng	Sp
+Sørreisa	3,496	361.17	Jan-Eirik Nordahl	Ap
+Dyrøy	1,138	288.54	Marit Alvig Espenes	Ap
+Senja	14,930	1,953.81	Tom Rune Eliseussen	Sp
+Balsfjord	5,685	1,496.91	Gunda Johansen	Ap
+Karlsøy	2,273	1,091.59	Mona Pedersen	LL
+Lyngen	2,876	812.56	Dan Håvard Johnsen	LL
+Storfjord	1,890	1,542.83	Geir Varvik	H
+Kåfjord	2,132	991.18	Bernt E. Isaksen Lyngstad	Ap
+Skjervøy	2,912	473.70	Ørjan Albrigtsen	KrF
+Nordreisa	4,919	3,437.46	Hilde Anita Nyvoll	Ap
+Kvænangen	1,233	2,109.48	Eirik Losnegaard Mevik	Ap
+Kautokeino	2,938	9,707.33	Hans Isak Olsen	LL
+Loppa	968	688.87	Stein Thomassen	Ap
+Hasvik	1,037	555.56	Eva D. Husby	Ap
+Måsøy	1,204	1,135.82	Bernth R. Sjursen	Ap
+Nordkapp	3,276	925.70	Jan Olsen	SV
+Porsanger	3,971	4,872.58	Aina Borch	Ap
+Karasjok	2,696	5,452.95	Svein Atle Somby	Ap
+Lebesby	1,330	3,459.41	Sigurd Kvammen Rafaelsen	Ap
+Gamvik	1,137	1416.34	Alf N. Hansen	SV
+Berlevåg	991	1121.78	Rolf Laupstad	Ap
+Tana	2,911	4,051.35	Helga Pedersen	Ap
+Nesseby	951	1,434.72	Knut Inge Store	Ap
+Båtsfjord	2,267	1,434.72	Ronald Wærnes	Sp
+Sør-Varanger	10,199	3,971.58	Rune Rafaelsen	Ap

@@ -1,0 +1,356 @@
+<p><a href='/place.sh?place=Oslo'>Oslo</a> ★ Population: 702,543</p>	Oslo
+<p><a href='/place.sh?place=Eigersund'>Eigersund</a> ★ Population: 14,860</p>	Rogaland
+<p><a href='/place.sh?place=Stavanger'>Stavanger</a> ★ Population: 144,515</p>	Rogaland
+<p><a href='/place.sh?place=Haugesund'>Haugesund</a> ★ Population: 37,444</p>	Rogaland
+<p><a href='/place.sh?place=Sandnes'>Sandnes</a> ★ Population: 81,305</p>	Rogaland
+<p><a href='/place.sh?place=Sokndal'>Sokndal</a> ★ Population: 3,281</p>	Rogaland
+<p><a href='/place.sh?place=Lund'>Lund</a> ★ Population: 3,178</p>	Rogaland
+<p><a href='/place.sh?place=Bjerkreim'>Bjerkreim</a> ★ Population: 2,789</p>	Rogaland
+<p><a href='/place.sh?place=Hå'>Hå</a> ★ Population: 19,296</p>	Rogaland
+<p><a href='/place.sh?place=Klepp'>Klepp</a> ★ Population: 20,163</p>	Rogaland
+<p><a href='/place.sh?place=Time'>Time</a> ★ Population: 19,353</p>	Rogaland
+<p><a href='/place.sh?place=Gjesdal'>Gjesdal</a> ★ Population: 12,131</p>	Rogaland
+<p><a href='/place.sh?place=Sola'>Sola</a> ★ Population: 27,568</p>	Rogaland
+<p><a href='/place.sh?place=Randaberg'>Randaberg</a> ★ Population: 11,454</p>	Rogaland
+<p><a href='/place.sh?place=Strand'>Strand</a> ★ Population: 13,268</p>	Rogaland
+<p><a href='/place.sh?place=Hjelmeland'>Hjelmeland</a> ★ Population: 2,534</p>	Rogaland
+<p><a href='/place.sh?place=Suldal'>Suldal</a> ★ Population: 3,784</p>	Rogaland
+<p><a href='/place.sh?place=Sauda'>Sauda</a> ★ Population: 4,525</p>	Rogaland
+<p><a href='/place.sh?place=Kvitsøy'>Kvitsøy</a> ★ Population: 523</p>	Rogaland
+<p><a href='/place.sh?place=Bokn'>Bokn</a> ★ Population: 855</p>	Rogaland
+<p><a href='/place.sh?place=Tysvær'>Tysvær</a> ★ Population: 11,283</p>	Rogaland
+<p><a href='/place.sh?place=Karmøy'>Karmøy</a> ★ Population: 42,541</p>	Rogaland
+<p><a href='/place.sh?place=Utsira'>Utsira</a> ★ Population: 188</p>	Rogaland
+<p><a href='/place.sh?place=Vindafjord'>Vindafjord</a> ★ Population: 8,775</p>	Rogaland
+<p><a href='/place.sh?place=Kristiansund'>Kristiansund</a> ★ Population: 24,442</p>	Møre og Romsdal
+<p><a href='/place.sh?place=Molde'>Molde</a> ★ Population: 26,822</p>	Møre og Romsdal
+<p><a href='/place.sh?place=Ålesund'>Ålesund</a> ★ Population: 66,258</p>	Møre og Romsdal
+<p><a href='/place.sh?place=Vanylven'>Vanylven</a> ★ Population: 3,203</p>	Møre og Romsdal
+<p><a href='/place.sh?place=Sande'>Sande</a> ★ Population: 2,540</p>	Møre og Romsdal
+<p><a href='/place.sh?place=Herøy'>Herøy</a> ★ Population: 8,957</p>	Møre og Romsdal
+<p><a href='/place.sh?place=Ulstein'>Ulstein</a> ★ Population: 8,457</p>	Møre og Romsdal
+<p><a href='/place.sh?place=Hareid'>Hareid</a> ★ Population: 5,185</p>	Møre og Romsdal
+<p><a href='/place.sh?place=Ørsta'>Ørsta</a> ★ Population: 10,744</p>	Møre og Romsdal
+<p><a href='/place.sh?place=Stranda'>Stranda</a> ★ Population: 4,623</p>	Møre og Romsdal
+<p><a href='/place.sh?place=Sykkylven'>Sykkylven</a> ★ Population: 7,695</p>	Møre og Romsdal
+<p><a href='/place.sh?place=Sula'>Sula</a> ★ Population: 9,007</p>	Møre og Romsdal
+<p><a href='/place.sh?place=Giske'>Giske</a> ★ Population: 8,176</p>	Møre og Romsdal
+<p><a href='/place.sh?place=Vestnes'>Vestnes</a> ★ Population: 6,577</p>	Møre og Romsdal
+<p><a href='/place.sh?place=Rauma'>Rauma</a> ★ Population: 7,503</p>	Møre og Romsdal
+<p><a href='/place.sh?place=Aukra'>Aukra</a> ★ Population: 3,547</p>	Møre og Romsdal
+<p><a href='/place.sh?place=Averøy'>Averøy</a> ★ Population: 5,856</p>	Møre og Romsdal
+<p><a href='/place.sh?place=Gjemnes'>Gjemnes</a> ★ Population: 2,611</p>	Møre og Romsdal
+<p><a href='/place.sh?place=Tingvoll'>Tingvoll</a> ★ Population: 3,109</p>	Møre og Romsdal
+<p><a href='/place.sh?place=Sunndal'>Sunndal</a> ★ Population: 7,126</p>	Møre og Romsdal
+<p><a href='/place.sh?place=Surnadal'>Surnadal</a> ★ Population: 5,986</p>	Møre og Romsdal
+<p><a href='/place.sh?place=Smøla'>Smøla</a> ★ Population: 2,160</p>	Møre og Romsdal
+<p><a href='/place.sh?place=Aure'>Aure</a> ★ Population: 3,590</p>	Møre og Romsdal
+<p><a href='/place.sh?place=Volda'>Volda</a> ★ Population: 9,102</p>	Møre og Romsdal
+<p><a href='/place.sh?place=Fjord'>Fjord</a> ★ Population: 2,642</p>	Møre og Romsdal
+<p><a href='/place.sh?place=Hustadvika'>Hustadvika</a> ★ Population: 13,215</p>	Møre og Romsdal
+<p><a href='/place.sh?place=Bodø'>Bodø</a> ★ Population: 51,022</p>	Nordland
+<p><a href='/place.sh?place=Narvik'>Narvik</a> ★ Population: 18,756</p>	Nordland
+<p><a href='/place.sh?place=Bindal'>Bindal</a> ★ Population: 1,473</p>	Nordland
+<p><a href='/place.sh?place=Sømna'>Sømna</a> ★ Population: 2,047</p>	Nordland
+<p><a href='/place.sh?place=Brønnøy'>Brønnøy</a> ★ Population: 7,956</p>	Nordland
+<p><a href='/place.sh?place=Vega'>Vega</a> ★ Population: 1,234</p>	Nordland
+<p><a href='/place.sh?place=Vevelstad'>Vevelstad</a> ★ Population: 528</p>	Nordland
+<p><a href='/place.sh?place=Herøy'>Herøy</a> ★ Population: 1,788</p>	Nordland
+<p><a href='/place.sh?place=Alstahaug'>Alstahaug</a> ★ Population: 7,428</p>	Nordland
+<p><a href='/place.sh?place=Leirfjord'>Leirfjord</a> ★ Population: 2,278</p>	Nordland
+<p><a href='/place.sh?place=Vefsn'>Vefsn</a> ★ Population: 13,465</p>	Nordland
+<p><a href='/place.sh?place=Grane'>Grane</a> ★ Population: 1,469</p>	Nordland
+<p><a href='/place.sh?place=Hattfjelldal'>Hattfjelldal</a> ★ Population: 1,414</p>	Nordland
+<p><a href='/place.sh?place=Dønna'>Dønna</a> ★ Population: 1,410</p>	Nordland
+<p><a href='/place.sh?place=Nesna'>Nesna</a> ★ Population: 1,837</p>	Nordland
+<p><a href='/place.sh?place=Hemnes'>Hemnes</a> ★ Population: 4,524</p>	Nordland
+<p><a href='/place.sh?place=Rana'>Rana</a> ★ Population: 26,101</p>	Nordland
+<p><a href='/place.sh?place=Lurøy'>Lurøy</a> ★ Population: 1,920</p>	Nordland
+<p><a href='/place.sh?place=Træna'>Træna</a> ★ Population: 465</p>	Nordland
+<p><a href='/place.sh?place=Rødøy'>Rødøy</a> ★ Population: 1,267</p>	Nordland
+<p><a href='/place.sh?place=Meløy'>Meløy</a> ★ Population: 6,435</p>	Nordland
+<p><a href='/place.sh?place=Gildeskål'>Gildeskål</a> ★ Population: 2,024</p>	Nordland
+<p><a href='/place.sh?place=Beiarn'>Beiarn</a> ★ Population: 1,043</p>	Nordland
+<p><a href='/place.sh?place=Saltdal'>Saltdal</a> ★ Population: 4,702</p>	Nordland
+<p><a href='/place.sh?place=Fauske'>Fauske</a> ★ Population: 9,729</p>	Nordland
+<p><a href='/place.sh?place=Sørfold'>Sørfold</a> ★ Population: 1,958</p>	Nordland
+<p><a href='/place.sh?place=Steigen'>Steigen</a> ★ Population: 2,543</p>	Nordland
+<p><a href='/place.sh?place=Lødingen'>Lødingen</a> ★ Population: 2,134</p>	Nordland
+<p><a href='/place.sh?place=Evenes'>Evenes</a> ★ Population: 1,402</p>	Nordland
+<p><a href='/place.sh?place=Røst'>Røst</a> ★ Population: 535</p>	Nordland
+<p><a href='/place.sh?place=Værøy'>Værøy</a> ★ Population: 744</p>	Nordland
+<p><a href='/place.sh?place=Flakstad'>Flakstad</a> ★ Population: 1,349</p>	Nordland
+<p><a href='/place.sh?place=Vestvågøy'>Vestvågøy</a> ★ Population: 11,294</p>	Nordland
+<p><a href='/place.sh?place=Vågan'>Vågan</a> ★ Population: 9,444</p>	Nordland
+<p><a href='/place.sh?place=Hadsel'>Hadsel</a> ★ Population: 8,009</p>	Nordland
+<p><a href='/place.sh?place=Bø'>Bø</a> ★ Population: 2,624</p>	Nordland
+<p><a href='/place.sh?place=Øksnes'>Øksnes</a> ★ Population: 4,580</p>	Nordland
+<p><a href='/place.sh?place=Sortland'>Sortland</a> ★ Population: 10,378</p>	Nordland
+<p><a href='/place.sh?place=Andøy'>Andøy</a> ★ Population: 4,908</p>	Nordland
+<p><a href='/place.sh?place=Moskenes'>Moskenes</a> ★ Population: 1,073</p>	Nordland
+<p><a href='/place.sh?place=Hamarøy'>Hamarøy</a> ★ Population: 1,810</p>	Nordland
+<p><a href='/place.sh?place=Halden'>Halden</a> ★ Population: 31,444</p>	Viken
+<p><a href='/place.sh?place=Moss'>Moss</a> ★ Population: 50,290</p>	Viken
+<p><a href='/place.sh?place=Sarpsborg'>Sarpsborg</a> ★ Population: 58,182</p>	Viken
+<p><a href='/place.sh?place=Fredrikstad'>Fredrikstad</a> ★ Population: 83,892</p>	Viken
+<p><a href='/place.sh?place=Drammen'>Drammen</a> ★ Population: 102,449</p>	Viken
+<p><a href='/place.sh?place=Kongsberg'>Kongsberg</a> ★ Population: 27,879</p>	Viken
+<p><a href='/place.sh?place=Ringerike'>Ringerike</a> ★ Population: 31 011</p>	Viken
+<p><a href='/place.sh?place=Hvaler'>Hvaler</a> ★ Population: 4,741</p>	Viken
+<p><a href='/place.sh?place=Aremark'>Aremark</a> ★ Population: 1 315</p>	Viken
+<p><a href='/place.sh?place=Marker'>Marker</a> ★ Population: 3,578</p>	Viken
+<p><a href='/place.sh?place=Indre Østfold'>Indre Østfold</a> ★ Population: 45,608</p>	Viken
+<p><a href='/place.sh?place=Skiptvet'>Skiptvet</a> ★ Population: 3,846</p>	Viken
+<p><a href='/place.sh?place=Rakkestad'>Rakkestad</a> ★ Population: 8,312</p>	Viken
+<p><a href='/place.sh?place=Råde'>Råde</a> ★ Population: 7,633</p>	Viken
+<p><a href='/place.sh?place=Våler'>Våler</a> ★ Population: 5,913</p>	Viken
+<p><a href='/place.sh?place=Vestby'>Vestby</a> ★ Population: 18,699</p>	Viken
+<p><a href='/place.sh?place=Nordre Follo'>Nordre Follo</a> ★ Population: 61,032</p>	Viken
+<p><a href='/place.sh?place=Ås'>Ås</a> ★ Population: 20,780</p>	Viken
+<p><a href='/place.sh?place=Frogn'>Frogn</a> ★ Population: 16,084</p>	Viken
+<p><a href='/place.sh?place=Nesodden'>Nesodden</a> ★ Population: 19,939</p>	Viken
+<p><a href='/place.sh?place=Bærum'>Bærum</a> ★ Population: 129,073</p>	Viken
+<p><a href='/place.sh?place=Asker'>Asker</a> ★ Population: 96,088</p>	Viken
+<p><a href='/place.sh?place=Aurskog-Høland'>Aurskog-Høland</a> ★ Population: 17,754</p>	Viken
+<p><a href='/place.sh?place=Rælingen'>Rælingen</a> ★ Population: 19,024</p>	Viken
+<p><a href='/place.sh?place=Enebakk'>Enebakk</a> ★ Population: 11,249</p>	Viken
+<p><a href='/place.sh?place=Lørenskog'>Lørenskog</a> ★ Population: 44,693</p>	Viken
+<p><a href='/place.sh?place=Lillestrøm'>Lillestrøm</a> ★ Population: 89,095</p>	Viken
+<p><a href='/place.sh?place=Nittedal'>Nittedal</a> ★ Population: 24,947</p>	Viken
+<p><a href='/place.sh?place=Gjerdrum'>Gjerdrum</a> ★ Population: 6,989</p>	Viken
+<p><a href='/place.sh?place=Ullensaker'>Ullensaker</a> ★ Population: 41,565</p>	Viken
+<p><a href='/place.sh?place=Nes'>Nes</a> ★ Population: 23,898</p>	Viken
+<p><a href='/place.sh?place=Eidsvoll'>Eidsvoll</a> ★ Population: 26,716</p>	Viken
+<p><a href='/place.sh?place=Nannestad'>Nannestad</a> ★ Population: 15,074</p>	Viken
+<p><a href='/place.sh?place=Hurdal'>Hurdal</a> ★ Population: 2,905</p>	Viken
+<p><a href='/place.sh?place=Hole'>Hole</a> ★ Population: 6,859</p>	Viken
+<p><a href='/place.sh?place=Flå'>Flå</a> ★ Population: 1,057</p>	Viken
+<p><a href='/place.sh?place=Nesbyen'>Nesbyen</a> ★ Population: 3,273</p>	Viken
+<p><a href='/place.sh?place=Gol'>Gol</a> ★ Population: 4,667</p>	Viken
+<p><a href='/place.sh?place=Hemsedal'>Hemsedal</a> ★ Population: 2,611</p>	Viken
+<p><a href='/place.sh?place=Ål'>Ål</a> ★ Population: 4,719</p>	Viken
+<p><a href='/place.sh?place=Hol'>Hol</a> ★ Population: 4,504</p>	Viken
+<p><a href='/place.sh?place=Sigdal'>Sigdal</a> ★ Population: 3,502</p>	Viken
+<p><a href='/place.sh?place=Krødsherad'>Krødsherad</a> ★ Population: 2 189</p>	Viken
+<p><a href='/place.sh?place=Modum'>Modum</a> ★ Population: 14,273</p>	Viken
+<p><a href='/place.sh?place=Øvre Eiker'>Øvre Eiker</a> ★ Population: 20,044</p>	Viken
+<p><a href='/place.sh?place=Lier'>Lier</a> ★ Population: 27,584</p>	Viken
+<p><a href='/place.sh?place=Flesberg'>Flesberg</a> ★ Population: 2,720</p>	Viken
+<p><a href='/place.sh?place=Rollag'>Rollag</a> ★ Population: 1,370</p>	Viken
+<p><a href='/place.sh?place=Nore og Uvdal'>Nore og Uvdal</a> ★ Population: 2,455</p>	Viken
+<p><a href='/place.sh?place=Jevnaker'>Jevnaker</a> ★ Population: 6,908</p>	Viken
+<p><a href='/place.sh?place=Lunner'>Lunner</a> ★ Population: 9,144</p>	Viken
+<p><a href='/place.sh?place=Kongsvinger'>Kongsvinger</a> ★ Population: 17,857</p>	Innlandet
+<p><a href='/place.sh?place=Hamar'>Hamar</a> ★ Population: 30,598</p>	Innlandet
+<p><a href='/place.sh?place=Lillehammer'>Lillehammer</a> ★ Population: 27,781</p>	Innlandet
+<p><a href='/place.sh?place=Gjøvik'>Gjøvik</a> ★ Population: 30,319</p>	Innlandet
+<p><a href='/place.sh?place=Ringsaker'>Ringsaker</a> ★ Population: 33,842</p>	Innlandet
+<p><a href='/place.sh?place=Løten'>Løten</a> ★ Population: 7,633</p>	Innlandet
+<p><a href='/place.sh?place=Stange'>Stange</a> ★ Population: 20,317</p>	Innlandet
+<p><a href='/place.sh?place=Nord-Odal'>Nord-Odal</a> ★ Population: 5,100</p>	Innlandet
+<p><a href='/place.sh?place=Sør-Odal'>Sør-Odal</a> ★ Population: 7,866</p>	Innlandet
+<p><a href='/place.sh?place=Eidskog'>Eidskog</a> ★ Population: 6,127</p>	Innlandet
+<p><a href='/place.sh?place=Grue'>Grue</a> ★ Population: 4,777</p>	Innlandet
+<p><a href='/place.sh?place=Åsnes'>Åsnes</a> ★ Population: 7,329</p>	Innlandet
+<p><a href='/place.sh?place=Våler'>Våler</a> ★ Population: 3,743</p>	Innlandet
+<p><a href='/place.sh?place=Elverum'>Elverum</a> ★ Population: 21,086</p>	Innlandet
+<p><a href='/place.sh?place=Trysil'>Trysil</a> ★ Population: 6,550</p>	Innlandet
+<p><a href='/place.sh?place=Åmot'>Åmot</a> ★ Population: 4,518</p>	Innlandet
+<p><a href='/place.sh?place=Stor-Elvdal'>Stor-Elvdal</a> ★ Population: 2,530</p>	Innlandet
+<p><a href='/place.sh?place=Rendalen'>Rendalen</a> ★ Population: 1,858</p>	Innlandet
+<p><a href='/place.sh?place=Engerdal'>Engerdal</a> ★ Population: 1,274</p>	Innlandet
+<p><a href='/place.sh?place=Tolga'>Tolga</a> ★ Population: 1,620</p>	Innlandet
+<p><a href='/place.sh?place=Tynset'>Tynset</a> ★ Population: 5,584</p>	Innlandet
+<p><a href='/place.sh?place=Alvdal'>Alvdal</a> ★ Population: 2,441</p>	Innlandet
+<p><a href='/place.sh?place=Folldal'>Folldal</a> ★ Population: 1,577</p>	Innlandet
+<p><a href='/place.sh?place=Os'>Os</a> ★ Population: 1,963</p>	Innlandet
+<p><a href='/place.sh?place=Dovre'>Dovre</a> ★ Population: 2,675</p>	Innlandet
+<p><a href='/place.sh?place=Lesja'>Lesja</a> ★ Population: 2,048</p>	Innlandet
+<p><a href='/place.sh?place=Skjåk'>Skjåk</a> ★ Population: 2,202</p>	Innlandet
+<p><a href='/place.sh?place=Lom'>Lom</a> ★ Population: 2,360</p>	Innlandet
+<p><a href='/place.sh?place=Vågå'>Vågå</a> ★ Population: 3,640</p>	Innlandet
+<p><a href='/place.sh?place=Nord-Fron'>Nord-Fron</a> ★ Population: 5,723</p>	Innlandet
+<p><a href='/place.sh?place=Sel'>Sel</a> ★ Population: 5,916</p>	Innlandet
+<p><a href='/place.sh?place=Sør-Fron'>Sør-Fron</a> ★ Population: 3,163</p>	Innlandet
+<p><a href='/place.sh?place=Ringebu'>Ringebu</a> ★ Population: 4,502</p>	Innlandet
+<p><a href='/place.sh?place=Øyer'>Øyer</a> ★ Population: 5,082</p>	Innlandet
+<p><a href='/place.sh?place=Gausdal'>Gausdal</a> ★ Population: 6,204</p>	Innlandet
+<p><a href='/place.sh?place=Østre Toten'>Østre Toten</a> ★ Population: 14,887</p>	Innlandet
+<p><a href='/place.sh?place=Vestre Toten'>Vestre Toten</a> ★ Population: 13,179</p>	Innlandet
+<p><a href='/place.sh?place=Gran'>Gran</a> ★ Population: 13,707</p>	Innlandet
+<p><a href='/place.sh?place=Søndre Land'>Søndre Land</a> ★ Population: 5,717</p>	Innlandet
+<p><a href='/place.sh?place=Nordre Land'>Nordre Land</a> ★ Population: 6,773</p>	Innlandet
+<p><a href='/place.sh?place=Sør-Aurdal'>Sør-Aurdal</a> ★ Population: 3,026</p>	Innlandet
+<p><a href='/place.sh?place=Etnedal'>Etnedal</a> ★ Population: 1,351</p>	Innlandet
+<p><a href='/place.sh?place=Nord-Aurdal'>Nord-Aurdal</a> ★ Population: 6,490</p>	Innlandet
+<p><a href='/place.sh?place=Vestre Slidre'>Vestre Slidre</a> ★ Population: 2,114</p>	Innlandet
+<p><a href='/place.sh?place=Øystre Slidre'>Øystre Slidre</a> ★ Population: 3,248</p>	Innlandet
+<p><a href='/place.sh?place=Vang'>Vang</a> ★ Population: 1,596</p>	Innlandet
+<p><a href='/place.sh?place=Horten'>Horten</a> ★ Population: 27,202</p>	Vestfold og Telemark
+<p><a href='/place.sh?place=Holmestrand'>Holmestrand</a> ★ Population: 14,037</p>	Vestfold og Telemark
+<p><a href='/place.sh?place=Tønsberg'>Tønsberg</a> ★ Population: 44,922</p>	Vestfold og Telemark
+<p><a href='/place.sh?place=Sandefjord'>Sandefjord</a> ★ Population: 62,019</p>	Vestfold og Telemark
+<p><a href='/place.sh?place=Larvik'>Larvik</a> ★ Population: 46,557</p>	Vestfold og Telemark
+<p><a href='/place.sh?place=Porsgrunn'>Porsgrunn</a> ★ Population: 36,198</p>	Vestfold og Telemark
+<p><a href='/place.sh?place=Skien'>Skien</a> ★ Population: 54,316</p>	Vestfold og Telemark
+<p><a href='/place.sh?place=Notodden'>Notodden</a> ★ Population: 12,757</p>	Vestfold og Telemark
+<p><a href='/place.sh?place=Færder'>Færder</a> ★ Population: 26,676</p>	Vestfold og Telemark
+<p><a href='/place.sh?place=Siljan'>Siljan</a> ★ Population: 2,357</p>	Vestfold og Telemark
+<p><a href='/place.sh?place=Bamble'>Bamble</a> ★ Population: 14,138</p>	Vestfold og Telemark
+<p><a href='/place.sh?place=Kragerø'>Kragerø</a> ★ Population: 10,586</p>	Vestfold og Telemark
+<p><a href='/place.sh?place=Drangedal'>Drangedal</a> ★ Population: 4,148</p>	Vestfold og Telemark
+<p><a href='/place.sh?place=Nome'>Nome</a> ★ Population: 6,585</p>	Vestfold og Telemark
+<p><a href='/place.sh?place=Midt-Telemark'>Midt-Telemark</a> ★ Population: 10,439</p>	Vestfold og Telemark
+<p><a href='/place.sh?place=Tinn'>Tinn</a> ★ Population: 5,894</p>	Vestfold og Telemark
+<p><a href='/place.sh?place=Hjartdal'>Hjartdal</a> ★ Population: 1,593</p>	Vestfold og Telemark
+<p><a href='/place.sh?place=Seljord'>Seljord</a> ★ Population: 2,979</p>	Vestfold og Telemark
+<p><a href='/place.sh?place=Kviteseid'>Kviteseid</a> ★ Population: 2,442</p>	Vestfold og Telemark
+<p><a href='/place.sh?place=Nissedal'>Nissedal</a> ★ Population: 1,476</p>	Vestfold og Telemark
+<p><a href='/place.sh?place=Fyresdal'>Fyresdal</a> ★ Population: 1,319</p>	Vestfold og Telemark
+<p><a href='/place.sh?place=Tokke'>Tokke</a> ★ Population: 2,228</p>	Vestfold og Telemark
+<p><a href='/place.sh?place=Vinje'>Vinje</a> ★ Population: 3,726</p>	Vestfold og Telemark
+<p><a href='/place.sh?place=Risør'>Risør</a> ★ Population: 6,935</p>	Agder
+<p><a href='/place.sh?place=Grimstad'>Grimstad</a> ★ Population: 22,692</p>	Agder
+<p><a href='/place.sh?place=Arendal'>Arendal</a> ★ Population: 44,576</p>	Agder
+<p><a href='/place.sh?place=Kristiansand'>Kristiansand</a> ★ Population: 113,920</p>	Agder
+<p><a href='/place.sh?place=Lindesnes'>Lindesnes</a> ★ Population: 23,025</p>	Agder
+<p><a href='/place.sh?place=Farsund'>Farsund</a> ★ Population: 9,769</p>	Agder
+<p><a href='/place.sh?place=Flekkefjord'>Flekkefjord</a> ★ Population: 9,090</p>	Agder
+<p><a href='/place.sh?place=Gjerstad'>Gjerstad</a> ★ Population: 2,511</p>	Agder
+<p><a href='/place.sh?place=Vegårshei'>Vegårshei</a> ★ Population: 2,104</p>	Agder
+<p><a href='/place.sh?place=Tvedestrand'>Tvedestrand</a> ★ Population: 6,051</p>	Agder
+<p><a href='/place.sh?place=Froland'>Froland</a> ★ Population: 5,713</p>	Agder
+<p><a href='/place.sh?place=Lillesand'>Lillesand</a> ★ Population: 10,702</p>	Agder
+<p><a href='/place.sh?place=Birkenes'>Birkenes</a> ★ Population: 5,178</p>	Agder
+<p><a href='/place.sh?place=Åmli'>Åmli</a> ★ Population: 1,856</p>	Agder
+<p><a href='/place.sh?place=Iveland'>Iveland</a> ★ Population: 1,342</p>	Agder
+<p><a href='/place.sh?place=Evje og Hornnes'>Evje og Hornnes</a> ★ Population: 3,614</p>	Agder
+<p><a href='/place.sh?place=Bygland'>Bygland</a> ★ Population: 1,200</p>	Agder
+<p><a href='/place.sh?place=Valle'>Valle</a> ★ Population: 1,246</p>	Agder
+<p><a href='/place.sh?place=Bykle'>Bykle</a> ★ Population: 952</p>	Agder
+<p><a href='/place.sh?place=Vennesla'>Vennesla</a> ★ Population: 14,425</p>	Agder
+<p><a href='/place.sh?place=Åseral'>Åseral</a> ★ Population: 937</p>	Agder
+<p><a href='/place.sh?place=Lyngdal'>Lyngdal</a> ★ Population: 10,368</p>	Agder
+<p><a href='/place.sh?place=Hægebostad'>Hægebostad</a> ★ Population: 1,702</p>	Agder
+<p><a href='/place.sh?place=Kvinesdal'>Kvinesdal</a> ★ Population: 5,988</p>	Agder
+<p><a href='/place.sh?place=Sirdal'>Sirdal</a> ★ Population: 1,836</p>	Agder
+<p><a href='/place.sh?place=Bergen'>Bergen</a> ★ Population: 287,428</p>	Vestland
+<p><a href='/place.sh?place=Kinn'>Kinn</a> ★ Population: 17,131</p>	Vestland
+<p><a href='/place.sh?place=Etne'>Etne</a> ★ Population: 4,043</p>	Vestland
+<p><a href='/place.sh?place=Sveio'>Sveio</a> ★ Population: 5,775</p>	Vestland
+<p><a href='/place.sh?place=Bømlo'>Bømlo</a> ★ Population: 12,061</p>	Vestland
+<p><a href='/place.sh?place=Stord'>Stord</a> ★ Population: 18,919</p>	Vestland
+<p><a href='/place.sh?place=Fitjar'>Fitjar</a> ★ Population: 3,117</p>	Vestland
+<p><a href='/place.sh?place=Tysnes'>Tysnes</a> ★ Population: 2,883</p>	Vestland
+<p><a href='/place.sh?place=Kvinnherad'>Kvinnherad</a> ★ Population: 13,017</p>	Vestland
+<p><a href='/place.sh?place=Ullensvang'>Ullensvang</a> ★ Population: 10,881</p>	Vestland
+<p><a href='/place.sh?place=Eidfjord'>Eidfjord</a> ★ Population: 937</p>	Vestland
+<p><a href='/place.sh?place=Ulvik'>Ulvik</a> ★ Population: 1,051</p>	Vestland
+<p><a href='/place.sh?place=Voss'>Voss</a> ★ Population: 15,875</p>	Vestland
+<p><a href='/place.sh?place=Kvam'>Kvam</a> ★ Population: 8,497</p>	Vestland
+<p><a href='/place.sh?place=Samnanger'>Samnanger</a> ★ Population: 2,501</p>	Vestland
+<p><a href='/place.sh?place=Bjørnafjorden'>Bjørnafjorden</a> ★ Population: 25,213</p>	Vestland
+<p><a href='/place.sh?place=Austevoll'>Austevoll</a> ★ Population: 5,282</p>	Vestland
+<p><a href='/place.sh?place=Øygarden'>Øygarden</a> ★ Population: 39,032</p>	Vestland
+<p><a href='/place.sh?place=Askøy'>Askøy</a> ★ Population: 29,032</p>	Vestland
+<p><a href='/place.sh?place=Vaksdal'>Vaksdal</a> ★ Population: 3,867</p>	Vestland
+<p><a href='/place.sh?place=Modalen'>Modalen</a> ★ Population: 378</p>	Vestland
+<p><a href='/place.sh?place=Osterøy'>Osterøy</a> ★ Population: 8,131</p>	Vestland
+<p><a href='/place.sh?place=Alver'>Alver</a> ★ Population: 29,816</p>	Vestland
+<p><a href='/place.sh?place=Austrheim'>Austrheim</a> ★ Population: 2,889</p>	Vestland
+<p><a href='/place.sh?place=Fedje'>Fedje</a> ★ Population: 502</p>	Vestland
+<p><a href='/place.sh?place=Masfjorden'>Masfjorden</a> ★ Population: 1,629</p>	Vestland
+<p><a href='/place.sh?place=Gulen'>Gulen</a> ★ Population: 2,230</p>	Vestland
+<p><a href='/place.sh?place=Solund'>Solund</a> ★ Population: 768</p>	Vestland
+<p><a href='/place.sh?place=Hyllestad'>Hyllestad</a> ★ Population: 1,290</p>	Vestland
+<p><a href='/place.sh?place=Høyanger'>Høyanger</a> ★ Population: 3,965</p>	Vestland
+<p><a href='/place.sh?place=Vik'>Vik</a> ★ Population: 2,560</p>	Vestland
+<p><a href='/place.sh?place=Sogndal'>Sogndal</a> ★ Population: 12,097</p>	Vestland
+<p><a href='/place.sh?place=Aurland'>Aurland</a> ★ Population: 1,766</p>	Vestland
+<p><a href='/place.sh?place=Lærdal'>Lærdal</a> ★ Population: 2,117</p>	Vestland
+<p><a href='/place.sh?place=Årdal'>Årdal</a> ★ Population: 5,204</p>	Vestland
+<p><a href='/place.sh?place=Luster'>Luster</a> ★ Population: 5,246</p>	Vestland
+<p><a href='/place.sh?place=Askvoll'>Askvoll</a> ★ Population: 2,951</p>	Vestland
+<p><a href='/place.sh?place=Fjaler'>Fjaler</a> ★ Population: 2,901</p>	Vestland
+<p><a href='/place.sh?place=Sunnfjord'>Sunnfjord</a> ★ Population: 22,116</p>	Vestland
+<p><a href='/place.sh?place=Bremanger'>Bremanger</a> ★ Population: 3,521</p>	Vestland
+<p><a href='/place.sh?place=Stad'>Stad</a> ★ Population: 9,527</p>	Vestland
+<p><a href='/place.sh?place=Gloppen'>Gloppen</a> ★ Population: 5,875</p>	Vestland
+<p><a href='/place.sh?place=Stryn'>Stryn</a> ★ Population: 7,207</p>	Vestland
+<p><a href='/place.sh?place=Trondheim'>Trondheim</a> ★ Population: 211,246</p>	Trøndelag
+<p><a href='/place.sh?place=Steinkjer'>Steinkjer</a> ★ Population: 24,357</p>	Trøndelag
+<p><a href='/place.sh?place=Namsos'>Namsos</a> ★ Population: 13,051</p>	Trøndelag
+<p><a href='/place.sh?place=Frøya'>Frøya</a> ★ Population: 4,937</p>	Trøndelag
+<p><a href='/place.sh?place=Osen'>Osen</a> ★ Population: 978</p>	Trøndelag
+<p><a href='/place.sh?place=Oppdal'>Oppdal</a> ★ Population: 6,973</p>	Trøndelag
+<p><a href='/place.sh?place=Rennebu'>Rennebu</a> ★ Population: 2,556</p>	Trøndelag
+<p><a href='/place.sh?place=Røros'>Røros</a> ★ Population: 5,623</p>	Trøndelag
+<p><a href='/place.sh?place=Holtålen'>Holtålen</a> ★ Population: 2,046</p>	Trøndelag
+<p><a href='/place.sh?place=Midtre Gauldal'>Midtre Gauldal</a> ★ Population: 6,319</p>	Trøndelag
+<p><a href='/place.sh?place=Melhus'>Melhus</a> ★ Population: 16,213</p>	Trøndelag
+<p><a href='/place.sh?place=Skaun'>Skaun</a> ★ Population: 8,000</p>	Trøndelag
+<p><a href='/place.sh?place=Malvik'>Malvik</a> ★ Population: 13,820</p>	Trøndelag
+<p><a href='/place.sh?place=Selbu'>Selbu</a> ★ Population: 4,098</p>	Trøndelag
+<p><a href='/place.sh?place=Tydal'>Tydal</a> ★ Population: 861</p>	Trøndelag
+<p><a href='/place.sh?place=Meråker'>Meråker</a> ★ Population: 2,508</p>	Trøndelag
+<p><a href='/place.sh?place=Stjørdal'>Stjørdal</a> ★ Population: 23,625</p>	Trøndelag
+<p><a href='/place.sh?place=Frosta'>Frosta</a> ★ Population: 2,630</p>	Trøndelag
+<p><a href='/place.sh?place=Levanger'>Levanger</a> ★ Population: 19,892</p>	Trøndelag
+<p><a href='/place.sh?place=Verdal'>Verdal</a> ★ Population: 14,849</p>	Trøndelag
+<p><a href='/place.sh?place=Snåsa'>Snåsa</a> ★ Population: 2,159</p>	Trøndelag
+<p><a href='/place.sh?place=Lierne'>Lierne</a> ★ Population: 1,389</p>	Trøndelag
+<p><a href='/place.sh?place=Røyrvik'>Røyrvik</a> ★ Population: 469</p>	Trøndelag
+<p><a href='/place.sh?place=Namsskogan'>Namsskogan</a> ★ Population: 872</p>	Trøndelag
+<p><a href='/place.sh?place=Grong'>Grong</a> ★ Population: 2,467</p>	Trøndelag
+<p><a href='/place.sh?place=Høylandet'>Høylandet</a> ★ Population: 1,264</p>	Trøndelag
+<p><a href='/place.sh?place=Overhalla'>Overhalla</a> ★ Population: 3,840</p>	Trøndelag
+<p><a href='/place.sh?place=Flatanger'>Flatanger</a> ★ Population: 1,090</p>	Trøndelag
+<p><a href='/place.sh?place=Leka'>Leka</a> ★ Population: 584</p>	Trøndelag
+<p><a href='/place.sh?place=Inderøy'>Inderøy</a> ★ Population: 6,800</p>	Trøndelag
+<p><a href='/place.sh?place=Indre Fosen'>Indre Fosen</a> ★ Population: 10,108</p>	Trøndelag
+<p><a href='/place.sh?place=Heim'>Heim</a> ★ Population: 5,963</p>	Trøndelag
+<p><a href='/place.sh?place=Hitra'>Hitra</a> ★ Population: 4,659</p>	Trøndelag
+<p><a href='/place.sh?place=Ørland'>Ørland</a> ★ Population: 5,291</p>	Trøndelag
+<p><a href='/place.sh?place=Åfjord'>Åfjord</a> ★ Population: 3,263</p>	Trøndelag
+<p><a href='/place.sh?place=Orkland'>Orkland</a> ★ Population: 11,891</p>	Trøndelag
+<p><a href='/place.sh?place=Nærøysund'>Nærøysund</a> ★ Population: 9,623</p>	Trøndelag
+<p><a href='/place.sh?place=Rindal'>Rindal</a> ★ Population: 2,026</p>	Trøndelag
+<p><a href='/place.sh?place=Tromsø'>Tromsø</a> ★ Population: 74,541</p>	Troms og Finnmark
+<p><a href='/place.sh?place=Harstad'>Harstad</a> ★ Population: 24,845</p>	Troms og Finnmark
+<p><a href='/place.sh?place=Alta'>Alta</a> ★ Population: 20,446</p>	Troms og Finnmark
+<p><a href='/place.sh?place=Vardø'>Vardø</a> ★ Population: 2,104</p>	Troms og Finnmark
+<p><a href='/place.sh?place=Vadsø'>Vadsø</a> ★ Population: 6,154</p>	Troms og Finnmark
+<p><a href='/place.sh?place=Hammerfest'>Hammerfest</a> ★ Population: 10,527</p>	Troms og Finnmark
+<p><a href='/place.sh?place=Kvæfjord'>Kvæfjord</a> ★ Population: 2,986</p>	Troms og Finnmark
+<p><a href='/place.sh?place=Tjeldsund'>Tjeldsund</a> ★ Population: 4,243</p>	Troms og Finnmark
+<p><a href='/place.sh?place=Ibestad'>Ibestad</a> ★ Population: 1,394</p>	Troms og Finnmark
+<p><a href='/place.sh?place=Gratangen'>Gratangen</a> ★ Population: 1,121</p>	Troms og Finnmark
+<p><a href='/place.sh?place=Lavangen'>Lavangen</a> ★ Population: 1,076</p>	Troms og Finnmark
+<p><a href='/place.sh?place=Bardu'>Bardu</a> ★ Population: 3,994</p>	Troms og Finnmark
+<p><a href='/place.sh?place=Salangen'>Salangen</a> ★ Population: 2,220</p>	Troms og Finnmark
+<p><a href='/place.sh?place=Målselv'>Målselv</a> ★ Population: 6,781</p>	Troms og Finnmark
+<p><a href='/place.sh?place=Sørreisa'>Sørreisa</a> ★ Population: 3,496</p>	Troms og Finnmark
+<p><a href='/place.sh?place=Dyrøy'>Dyrøy</a> ★ Population: 1,138</p>	Troms og Finnmark
+<p><a href='/place.sh?place=Senja'>Senja</a> ★ Population: 14,930</p>	Troms og Finnmark
+<p><a href='/place.sh?place=Balsfjord'>Balsfjord</a> ★ Population: 5,685</p>	Troms og Finnmark
+<p><a href='/place.sh?place=Karlsøy'>Karlsøy</a> ★ Population: 2,273</p>	Troms og Finnmark
+<p><a href='/place.sh?place=Lyngen'>Lyngen</a> ★ Population: 2,876</p>	Troms og Finnmark
+<p><a href='/place.sh?place=Storfjord'>Storfjord</a> ★ Population: 1,890</p>	Troms og Finnmark
+<p><a href='/place.sh?place=Kåfjord'>Kåfjord</a> ★ Population: 2,132</p>	Troms og Finnmark
+<p><a href='/place.sh?place=Skjervøy'>Skjervøy</a> ★ Population: 2,912</p>	Troms og Finnmark
+<p><a href='/place.sh?place=Nordreisa'>Nordreisa</a> ★ Population: 4,919</p>	Troms og Finnmark
+<p><a href='/place.sh?place=Kvænangen'>Kvænangen</a> ★ Population: 1,233</p>	Troms og Finnmark
+<p><a href='/place.sh?place=Kautokeino'>Kautokeino</a> ★ Population: 2,938</p>	Troms og Finnmark
+<p><a href='/place.sh?place=Loppa'>Loppa</a> ★ Population: 968</p>	Troms og Finnmark
+<p><a href='/place.sh?place=Hasvik'>Hasvik</a> ★ Population: 1,037</p>	Troms og Finnmark
+<p><a href='/place.sh?place=Måsøy'>Måsøy</a> ★ Population: 1,204</p>	Troms og Finnmark
+<p><a href='/place.sh?place=Nordkapp'>Nordkapp</a> ★ Population: 3,276</p>	Troms og Finnmark
+<p><a href='/place.sh?place=Porsanger'>Porsanger</a> ★ Population: 3,971</p>	Troms og Finnmark
+<p><a href='/place.sh?place=Karasjok'>Karasjok</a> ★ Population: 2,696</p>	Troms og Finnmark
+<p><a href='/place.sh?place=Lebesby'>Lebesby</a> ★ Population: 1,330</p>	Troms og Finnmark
+<p><a href='/place.sh?place=Gamvik'>Gamvik</a> ★ Population: 1,137</p>	Troms og Finnmark
+<p><a href='/place.sh?place=Berlevåg'>Berlevåg</a> ★ Population: 991</p>	Troms og Finnmark
+<p><a href='/place.sh?place=Tana'>Tana</a> ★ Population: 2,911</p>	Troms og Finnmark
+<p><a href='/place.sh?place=Nesseby'>Nesseby</a> ★ Population: 951</p>	Troms og Finnmark
+<p><a href='/place.sh?place=Båtsfjord'>Båtsfjord</a> ★ Population: 2,267</p>	Troms og Finnmark
+<p><a href='/place.sh?place=Sør-Varanger'>Sør-Varanger</a> ★ Population: 10,199</p>	Troms og Finnmark

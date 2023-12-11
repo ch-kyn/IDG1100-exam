@@ -1,0 +1,1780 @@
+<td><a href="/wiki/Oslo" title="Oslo">Oslo</a></td>
+<td>702,543</td>
+<td>454.03</td>
+<td><span data-sort-value="Borgen, Marianne &#160;!"><a href="/wiki/Marianne_Borgen" title="Marianne Borgen">Marianne Borgen</a></span></td>
+<td><a href="/wiki/Socialist_Left_Party_(Norway)" title="Socialist Left Party (Norway)">SV</a></td>
+<td><a href="/wiki/Eigersund" title="Eigersund">Eigersund</a></td>
+<td>14,860</td>
+<td>431.66</td>
+<td><span data-sort-value="Egaas, Leif Erik&#160;!">Leif Erik Egaas</span></td>
+<td><a href="/wiki/Conservative_Party_(Norway)" title="Conservative Party (Norway)">H</a></td>
+<td><a href="/wiki/Stavanger" title="Stavanger">Stavanger</a></td>
+<td>144,515</td>
+<td>262.52</td>
+<td><span data-sort-value="SKari Nessa Nordtun&#160;!"><a href="/wiki/Kari_Nessa_Nordtun" title="Kari Nessa Nordtun">Kari Nessa Nordtun</a></span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Haugesund" title="Haugesund">Haugesund</a></td>
+<td>37,444</td>
+<td>72.72</td>
+<td><span data-sort-value="Steen jr, Petter&#160;!">Petter Steen jr</span></td>
+<td><a href="/wiki/Conservative_Party_(Norway)" title="Conservative Party (Norway)">H</a></td>
+<td><a href="/wiki/Sandnes" title="Sandnes">Sandnes</a></td>
+<td>81,305</td>
+<td>304.46</td>
+<td><span data-sort-value="Wirak, Stanley&#160;!">Stanley Wirak</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Sokndal" title="Sokndal">Sokndal</a></td>
+<td>3,281</td>
+<td>294.79</td>
+<td><span data-sort-value="Pedersen, Trond Arne&#160;!">Trond Arne Pedersen</span></td>
+<td><a href="/wiki/Christian_Democratic_Party_(Norway)" title="Christian Democratic Party (Norway)">KrF</a></td>
+<td><a href="/wiki/Lund,_Norway" title="Lund, Norway">Lund</a></td>
+<td>3,178</td>
+<td>408.51</td>
+<td><span data-sort-value="Ravndal, Pål Anker&#160;!">Pål Anker Ravndal</span></td>
+<td><a href="/wiki/Christian_Democratic_Party_(Norway)" title="Christian Democratic Party (Norway)">KrF</a></td>
+<td><a href="/wiki/Bjerkreim" title="Bjerkreim">Bjerkreim</a></td>
+<td>2,789</td>
+<td>650.58</td>
+<td><span data-sort-value="Skårland, Marthon&#160;!">Marthon Skårland</span></td>
+<td><a href="/wiki/Conservative_Party_(Norway)" title="Conservative Party (Norway)">H</a></td>
+<td><span data-sort-value="Haa&#160;!"><a href="/wiki/H%C3%A5" title="Hå">Hå</a></span></td>
+<td>19,296</td>
+<td>258.22</td>
+<td><span data-sort-value="Skrettingland, Mons&#160;!">Mons Skrettingland</span></td>
+<td><a href="/wiki/Conservative_Party_(Norway)" title="Conservative Party (Norway)">H</a></td>
+<td><a href="/wiki/Klepp" title="Klepp">Klepp</a></td>
+<td>20,163</td>
+<td>113.49</td>
+<td><span data-sort-value="Rolfsen, Sigmund&#160;!">Sigmund Rolfsen</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><a href="/wiki/Time,_Norway" title="Time, Norway">Time</a></td>
+<td>19,353</td>
+<td>183.19</td>
+<td><span data-sort-value="Kverneland, Reinert&#160;!">Reinert Kverneland</span></td>
+<td><a href="/wiki/Conservative_Party_(Norway)" title="Conservative Party (Norway)">H</a></td>
+<td><a href="/wiki/Gjesdal" title="Gjesdal">Gjesdal</a></td>
+<td>12,131</td>
+<td>617.98</td>
+<td><span data-sort-value="Fjeldsbo, Frode&#160;!">Frode Fjeldsbø</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Sola,_Norway" title="Sola, Norway">Sola</a></td>
+<td>27,568</td>
+<td>69.04</td>
+<td><span data-sort-value="Slethei, Tom Henning&#160;!">Tom Henning Slethei</span></td>
+<td><a href="/wiki/Progress_Party_(Norway)" title="Progress Party (Norway)">Frp</a></td>
+<td><a href="/wiki/Randaberg" title="Randaberg">Randaberg</a></td>
+<td>11,454</td>
+<td>24.71</td>
+<td><span data-sort-value="Bø, Jarle&#160;!">Jarle Bø</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><a href="/wiki/Strand,_Norway" title="Strand, Norway">Strand</a></td>
+<td>13,268</td>
+<td>261.69</td>
+<td><span data-sort-value="Heng Lauvsnes, Irene&#160;!">Irene Heng Lauvsnes</span></td>
+<td><a href="/wiki/Conservative_Party_(Norway)" title="Conservative Party (Norway)">H</a></td>
+<td><a href="/wiki/Hjelmeland" title="Hjelmeland">Hjelmeland</a></td>
+<td>2,534</td>
+<td>1,067.78</td>
+<td><span data-sort-value="Laugaland, Bjorn&#160;!">Bjørn Laugaland</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><a href="/wiki/Suldal" title="Suldal">Suldal</a></td>
+<td>3,784</td>
+<td>1,736.89</td>
+<td><span data-sort-value="Bo, Gerd Helen&#160;!">Gerd Helen Bø</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><a href="/wiki/Sauda" title="Sauda">Sauda</a></td>
+<td>4,525</td>
+<td>546.32</td>
+<td><span data-sort-value="Birkeland, Asbjorn&#160;!">Asbjørn Birkeland</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><span data-sort-value="Kvitsoy&#160;!"><a href="/wiki/Kvits%C3%B8y" title="Kvitsøy">Kvitsøy</a></span></td>
+<td>523</td>
+<td>6.29</td>
+<td><span data-sort-value="Bjørsvik, Stian&#160;!">Stian Bjørsvik</span></td>
+<td><a href="/wiki/Christian_Democratic_Party_(Norway)" title="Christian Democratic Party (Norway)">KrF</a></td>
+<td><a href="/wiki/Bokn" title="Bokn">Bokn</a></td>
+<td>855</td>
+<td>47.16</td>
+<td><span data-sort-value="Vaaga, Osmund&#160;!">Osmund Våga</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><span data-sort-value="Tysvaer&#160;!"><a href="/wiki/Tysv%C3%A6r" title="Tysvær">Tysvær</a></span></td>
+<td>11,283</td>
+<td>425.41</td>
+<td><span data-sort-value="Lier, Sigmund&#160;!">Sigmund Lier</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><span data-sort-value="Karmoy&#160;!"><a href="/wiki/Karm%C3%B8y" title="Karmøy">Karmøy</a></span></td>
+<td>42,541</td>
+<td>229.95</td>
+<td><span data-sort-value="Nilsen, Jarle&#160;!">Jarle Nilsen</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Utsira" title="Utsira">Utsira</a></td>
+<td>188</td>
+<td>6.33</td>
+<td><span data-sort-value="Klovning, Marte&#160;!">Marte Eide Klovning</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Vindafjord" title="Vindafjord">Vindafjord</a></td>
+<td>8,775</td>
+<td>620.59</td>
+<td><span data-sort-value="Vierdal, Ole Johan&#160;!">Ole Johan Vierdal</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><a href="/wiki/Kristiansund" title="Kristiansund">Kristiansund</a></td>
+<td>24,442</td>
+<td>87.44</td>
+<td><span data-sort-value="Neergaard, Kjell&#160;!">Kjell Neergaard</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Molde" title="Molde">Molde</a></td>
+<td>26,822</td>
+<td>362.69</td>
+<td><span data-sort-value="Dahl, Torgeir&#160;!"><a href="/wiki/Torgeir_Dahl" title="Torgeir Dahl">Torgeir Dahl</a></span></td>
+<td><a href="/wiki/Conservative_Party_(Norway)" title="Conservative Party (Norway)">H</a></td>
+<td><a href="/wiki/%C3%85lesund" title="Ålesund">Ålesund</a></td>
+<td>66,258</td>
+<td>632.42</td>
+<td><span data-sort-value="Aurdal, Eva Vinje&#160;!"><a href="/wiki/Eva_Vinje_Aurdal" title="Eva Vinje Aurdal">Eva Vinje Aurdal</a></span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Vanylven" title="Vanylven">Vanylven</a></td>
+<td>3,203</td>
+<td>385.21</td>
+<td><span data-sort-value="Landsverk Sande, Lena M.&#160;!">Lena M. Landsverk Sande</span></td>
+<td><a href="/wiki/Liberal_Party_(Norway)" title="Liberal Party (Norway)">V</a></td>
+<td><a href="/wiki/Sande,_M%C3%B8re_og_Romsdal" title="Sande, Møre og Romsdal">Sande</a></td>
+<td>2,540</td>
+<td>93.21</td>
+<td><span data-sort-value="Myklebust, Olav&#160;!">Olav Myklebust</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><span data-sort-value="Heroy&#160;!"><a href="/wiki/Her%C3%B8y,_M%C3%B8re_og_Romsdal" title="Herøy, Møre og Romsdal">Herøy</a></span></td>
+<td>8,957</td>
+<td>119.53</td>
+<td><span data-sort-value="Prytz, Bjørn-Halvor&#160;!">Bjørn-Halvor Prytz</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Ulstein" title="Ulstein">Ulstein</a></td>
+<td>8,457</td>
+<td>97.19</td>
+<td><span data-sort-value="Engh, Knut Erik&#160;!">Knut Erik Engh</span></td>
+<td><a href="/wiki/Progress_Party_(Norway)" title="Progress Party (Norway)">Frp</a></td>
+<td><a href="/wiki/Hareid" title="Hareid">Hareid</a></td>
+<td>5,185</td>
+<td>82.26</td>
+<td><span data-sort-value="Brandal, Bernt&#160;!">Bernt Brandal</span></td>
+<td><a href="/wiki/Bygdelista" class="mw-redirect" title="Bygdelista">LL</a></td>
+<td><span data-sort-value="Orsta&#160;!"><a href="/wiki/%C3%98rsta" title="Ørsta">Ørsta</a></span></td>
+<td>10,744</td>
+<td>804.43</td>
+<td><span data-sort-value="Aam, Stein&#160;!">Stein Aam</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><a href="/wiki/Stranda" title="Stranda">Stranda</a></td>
+<td>4,623</td>
+<td>865.86</td>
+<td><span data-sort-value="Tryggestad, Jan Ove&#160;!">Jan Ove Tryggestad</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><a href="/wiki/Sykkylven" title="Sykkylven">Sykkylven</a></td>
+<td>7,695</td>
+<td>337.80</td>
+<td><span data-sort-value="Drotninghaug, Odd Jostein&#160;!">Odd Jostein Drotninghaug</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><a href="/wiki/Sula,_M%C3%B8re_og_Romsdal" title="Sula, Møre og Romsdal">Sula</a></td>
+<td>9,007</td>
+<td>58.50</td>
+<td><span data-sort-value="Rossevoll, Jim Arve&#160;!">Jim Arve Røssevoll</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Giske" title="Giske">Giske</a></td>
+<td>8,176</td>
+<td>40.53</td>
+<td><span data-sort-value="Valderhaug, Harry&#160;!">Harry Valderhaug</span></td>
+<td><a href="/wiki/Christian_Democratic_Party_(Norway)" title="Christian Democratic Party (Norway)">KrF</a></td>
+<td><a href="/wiki/Vestnes" title="Vestnes">Vestnes</a></td>
+<td>6,577</td>
+<td>352.02</td>
+<td><span data-sort-value="Lien, Geir Inge&#160;!">Geir Inge Lien</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><a href="/wiki/Rauma,_Norway" title="Rauma, Norway">Rauma</a></td>
+<td>7,503</td>
+<td>1,502.15</td>
+<td><span data-sort-value="Wold, Yvonne&#160;!">Yvonne Wold</span></td>
+<td><a href="/wiki/Socialist_Left_Party_(Norway)" title="Socialist Left Party (Norway)">SV</a></td>
+<td><a href="/wiki/Aukra" title="Aukra">Aukra</a></td>
+<td>3,547</td>
+<td>59.08</td>
+<td><span data-sort-value="Nilssen, Odd Jørgen&#160;!">Odd Jørgen Nilssen</span></td>
+<td><a href="/wiki/Conservative_Party_(Norway)" title="Conservative Party (Norway)">H</a></td>
+<td><span data-sort-value="Averoy&#160;!"><a href="/wiki/Aver%C3%B8y" title="Averøy">Averøy</a></span></td>
+<td>5,856</td>
+<td>175.68</td>
+<td><span data-sort-value="Rangones, Ingrid Ovidie&#160;!">Ingrid Ovidie Rangønes</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Gjemnes" title="Gjemnes">Gjemnes</a></td>
+<td>2,611</td>
+<td>381.63</td>
+<td><span data-sort-value="Sjomaeling, Knut&#160;!">Knut Sjømæling</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><a href="/wiki/Tingvoll" title="Tingvoll">Tingvoll</a></td>
+<td>3,109</td>
+<td>336.76</td>
+<td><span data-sort-value="Norsett, Milly Bente&#160;!">Milly Bente Nørsett</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Sunndal" title="Sunndal">Sunndal</a></td>
+<td>7,126</td>
+<td>1,713.44</td>
+<td><span data-sort-value="Refstie, Staale&#160;!">Ståle Refstie</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Surnadal" title="Surnadal">Surnadal</a></td>
+<td>5,986</td>
+<td>1,366.05</td>
+<td><span data-sort-value="Svinvik, Margrethe&#160;!">Margrethe Svinvik</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><span data-sort-value="Smola&#160;!"><a href="/wiki/Sm%C3%B8la" title="Smøla">Smøla</a></span></td>
+<td>2,160</td>
+<td>271.91</td>
+<td><span data-sort-value="Roksvåg, Svein&#160;!">Svein Roksvåg</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><a href="/wiki/Aure,_Norway" title="Aure, Norway">Aure</a></td>
+<td>3,590</td>
+<td>641.38</td>
+<td><span data-sort-value="Brekken, Hanne Berit&#160;!">Hanne Berit Brekken</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Volda" title="Volda">Volda</a></td>
+<td>9,102</td>
+<td>547.24</td>
+<td><span data-sort-value="Dimmen, Sølvi&#160;!">Sølvi Dimmen</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><a href="/wiki/Fjord_(municipality)" title="Fjord (municipality)">Fjord</a></td>
+<td>2,642</td>
+<td>94.6</td>
+<td><span data-sort-value="Hove, Eva&#160;!">Eva Hove</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Hustadvika_(municipality)" title="Hustadvika (municipality)">Hustadvika</a></td>
+<td>13,215</td>
+<td>521.83</td>
+<td><span data-sort-value="Henøen, Tove&#160;!">Tove Henøen</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><span data-sort-value="Bodo&#160;!"><a href="/wiki/Bod%C3%B8" title="Bodø">Bodø</a></span></td>
+<td>51,022</td>
+<td>1,395.28</td>
+<td><span data-sort-value="Pinnerod, Ida Maria&#160;!">Ida Maria Pinnerød</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Narvik" title="Narvik">Narvik</a></td>
+<td>18,756</td>
+<td>3,432.17</td>
+<td><span data-sort-value="Edvardsen, Rune&#160;!">Rune Edvardsen</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Bindal" title="Bindal">Bindal</a></td>
+<td>1,473</td>
+<td>1,264.25</td>
+<td><span data-sort-value="Helstad, Britt&#160;!">Britt Helstad</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><span data-sort-value="Somna&#160;!"><a href="/wiki/S%C3%B8mna" title="Sømna">Sømna</a></span></td>
+<td>2,047</td>
+<td>195.26</td>
+<td><span data-sort-value="Holand, Hans Gunnar&#160;!">Hans Gunnar Holand</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><span data-sort-value="Bronnoy&#160;!"><a href="/wiki/Br%C3%B8nn%C3%B8y" title="Brønnøy">Brønnøy</a></span></td>
+<td>7,956</td>
+<td>1,046.44</td>
+<td><span data-sort-value="Trælnes, Eilif Kristian&#160;!">Eilif Kristian Trælnes</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><a href="/wiki/Vega,_Norway" title="Vega, Norway">Vega</a></td>
+<td>1,234</td>
+<td>164.79</td>
+<td><span data-sort-value="Moller, Andre&#160;!">Andre Møller</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Vevelstad" title="Vevelstad">Vevelstad</a></td>
+<td>528</td>
+<td>538.90</td>
+<td><span data-sort-value="Haugann, Torhild&#160;!">Torhild Haugann</span></td>
+<td><a href="/wiki/Bygdeliste" title="Bygdeliste">LL</a></td>
+<td><span data-sort-value="Heroy&#160;!"><a href="/wiki/Her%C3%B8y,_Nordland" title="Herøy, Nordland">Herøy</a></span></td>
+<td>1,788</td>
+<td>64.40</td>
+<td><span data-sort-value="Larsen, Eldbjørg&#160;!">Eldbjørg Larsen</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Alstahaug" title="Alstahaug">Alstahaug</a></td>
+<td>7,428</td>
+<td>187.61</td>
+<td><span data-sort-value="Talseth, Peter&#160;!">Peter Talseth</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><a href="/wiki/Leirfjord" title="Leirfjord">Leirfjord</a></td>
+<td>2,278</td>
+<td>465.22</td>
+<td><span data-sort-value="Haugland, Ivan&#160;!">Ivan Haugland</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Vefsn" title="Vefsn">Vefsn</a></td>
+<td>13,465</td>
+<td>1,929.10</td>
+<td><span data-sort-value="Hundala, Berit&#160;!">Berit Hundåla</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><a href="/wiki/Grane,_Nordland" title="Grane, Nordland">Grane</a></td>
+<td>1,469</td>
+<td>2,004.15</td>
+<td><span data-sort-value="Schjolberg, Ellen&#160;!">Ellen Schjølberg</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><a href="/wiki/Hattfjelldal" title="Hattfjelldal">Hattfjelldal</a></td>
+<td>1,414</td>
+<td>2,684.31</td>
+<td><span data-sort-value="Lie, Harald&#160;!"><a href="/wiki/Harald_Lie" title="Harald Lie">Harald Lie</a></span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><span data-sort-value="Donna&#160;!"><a href="/wiki/D%C3%B8nna" title="Dønna">Dønna</a></span></td>
+<td>1,410</td>
+<td>191.94</td>
+<td><span data-sort-value="Jenssen, Nils Olav&#160;!">Nils Olav Jenssen</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><a href="/wiki/Nesna" title="Nesna">Nesna</a></td>
+<td>1,837</td>
+<td>183.18</td>
+<td><span data-sort-value="Davidsen, Hanne&#160;!">Hanne Davidsen</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Hemnes" title="Hemnes">Hemnes</a></td>
+<td>4,524</td>
+<td>1,589.42</td>
+<td><span data-sort-value="Asphaug, Paul&#160;!">Paul Asphaug</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">SP</a></td>
+<td><a href="/wiki/Rana,_Norway" title="Rana, Norway">Rana</a></td>
+<td>26,101</td>
+<td>4,459.98</td>
+<td><span data-sort-value="Waage, Geir&#160;!"><a href="/wiki/Geir_Waage" title="Geir Waage">Geir Waage</a></span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><span data-sort-value="Luroy&#160;!"><a href="/wiki/Lur%C3%B8y" title="Lurøy">Lurøy</a></span></td>
+<td>1,920</td>
+<td>265.19</td>
+<td><span data-sort-value="Lund, Hakon&#160;!">Håkon Lund</span></td>
+<td><a href="/wiki/Conservative_Party_(Norway)" title="Conservative Party (Norway)">H</a></td>
+<td><span data-sort-value="Traena&#160;!"><a href="/wiki/Tr%C3%A6na" title="Træna">Træna</a></span></td>
+<td>465</td>
+<td>16.52</td>
+<td><span data-sort-value="Andersen, Jan Helge&#160;!">Jan Helge Andersen</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><span data-sort-value="Rodoy&#160;!"><a href="/wiki/R%C3%B8d%C3%B8y" title="Rødøy">Rødøy</a></span></td>
+<td>1,267</td>
+<td>711.29</td>
+<td><span data-sort-value="Monsen, Inger Dagmar&#160;!">Inger Dagmar Monsen</span></td>
+<td><a href="/wiki/Bygdelista" class="mw-redirect" title="Bygdelista">LL</a></td>
+<td><span data-sort-value="Meloy&#160;!"><a href="/wiki/Mel%C3%B8y" title="Meløy">Meløy</a></span></td>
+<td>6,435</td>
+<td>873.83</td>
+<td><span data-sort-value="Stormo, Sigurd&#160;!">Sigurd Stormo</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><span data-sort-value="Gildeskaal&#160;!"><a href="/wiki/Gildesk%C3%A5l" title="Gildeskål">Gildeskål</a></span></td>
+<td>2,024</td>
+<td>664.68</td>
+<td><span data-sort-value="Pedersen, Bjørn Magne&#160;!">Bjørn Magne Pedersen</span></td>
+<td><a href="/wiki/Conservative_Party_(Norway)" title="Conservative Party (Norway)">H</a></td>
+<td><a href="/wiki/Beiarn" title="Beiarn">Beiarn</a></td>
+<td>1,043</td>
+<td>1,222.32</td>
+<td><span data-sort-value="Sande, Monika&#160;!">Monika Sande</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><a href="/wiki/Saltdal" title="Saltdal">Saltdal</a></td>
+<td>4,702</td>
+<td>2,216.17</td>
+<td><span data-sort-value="Berg, Rune&#160;!">Rune Berg</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><a href="/wiki/Fauske" title="Fauske">Fauske</a></td>
+<td>9,729</td>
+<td>1,201.37</td>
+<td><span data-sort-value="Berg, Marlen Rendall&#160;!">Marlen Rendall Berg</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><span data-sort-value="Sorfold&#160;!"><a href="/wiki/S%C3%B8rfold" title="Sørfold">Sørfold</a></span></td>
+<td>1,958</td>
+<td>1,637.35</td>
+<td><span data-sort-value="Hansen, Gisle Erik&#160;!">Gisle Erik Hansen</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><a href="/wiki/Steigen" title="Steigen">Steigen</a></td>
+<td>2,543</td>
+<td>1,009.08</td>
+<td><span data-sort-value="Refsnes, Aase&#160;!">Aase Refsnes</span></td>
+<td><a href="/wiki/Socialist_Left_Party_(Norway)" title="Socialist Left Party (Norway)">SV</a></td>
+<td><span data-sort-value="Lodingen&#160;!"><a href="/wiki/L%C3%B8dingen" title="Lødingen">Lødingen</a></span></td>
+<td>2,134</td>
+<td>527.49</td>
+<td><span data-sort-value="Jacobsen, Hugo Bongard&#160;!">Hugo Bongard Jacobsen</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Evenes" title="Evenes">Evenes</a></td>
+<td>1,402</td>
+<td>252.78</td>
+<td><span data-sort-value="Bartholsen, Terje&#160;!">Terje Bartholsen</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><span data-sort-value="Rost&#160;!"><a href="/wiki/R%C3%B8st" title="Røst">Røst</a></span></td>
+<td>535</td>
+<td>10.13</td>
+<td><span data-sort-value="Mikalsen, Elisabeth Kristin&#160;!">Elisabeth Kristin Mikalsen</span></td>
+<td><a href="/wiki/Bygdelista" class="mw-redirect" title="Bygdelista">LL</a></td>
+<td><span data-sort-value="Vaeroy&#160;!"><a href="/wiki/V%C3%A6r%C3%B8y" title="Værøy">Værøy</a></span></td>
+<td>744</td>
+<td>18.64</td>
+<td><span data-sort-value="Kristiansen, Susan Berg&#160;!">Susan Berg Kristiansen</span></td>
+<td><a href="/wiki/Bygdelista" class="mw-redirect" title="Bygdelista">LL</a></td>
+<td><a href="/wiki/Flakstad" title="Flakstad">Flakstad</a></td>
+<td>1,349</td>
+<td>178.38</td>
+<td><span data-sort-value="Kroken, Trond&#160;!">Trond Kroken</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><span data-sort-value="Vestvagoy&#160;!"><a href="/wiki/Vestv%C3%A5g%C3%B8y" title="Vestvågøy">Vestvågøy</a></span></td>
+<td>11,294</td>
+<td>424.55</td>
+<td><span data-sort-value="Solberg, Remi&#160;!">Remi Solberg</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><span data-sort-value="Vaagan&#160;!"><a href="/wiki/V%C3%A5gan" title="Vågan">Vågan</a></span></td>
+<td>9,444</td>
+<td>479.15</td>
+<td><span data-sort-value="Johnsen, Frank Gudmund&#160;!">Frank Gudmund Johnsen</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><a href="/wiki/Hadsel" title="Hadsel">Hadsel</a></td>
+<td>8,009</td>
+<td>566.56</td>
+<td><span data-sort-value="Jenssen, Kurt Eirik&#160;!">Kurt Eirik Jenssen</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><span data-sort-value="Bo&#160;!"><a href="/wiki/B%C3%B8,_Nordland" title="Bø, Nordland">Bø</a></span></td>
+<td>2,624</td>
+<td>246.69</td>
+<td><span data-sort-value="Pedersen, Sture&#160;!">Sture Pedersen</span></td>
+<td><a href="/wiki/Conservative_Party_(Norway)" title="Conservative Party (Norway)">H</a></td>
+<td><span data-sort-value="Oksnes&#160;!"><a href="/wiki/%C3%98ksnes" title="Øksnes">Øksnes</a></span></td>
+<td>4,580</td>
+<td>319.51</td>
+<td><span data-sort-value="Danielsen, John&#160;!">John Danielsen</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><a href="/wiki/Sortland" title="Sortland">Sortland</a></td>
+<td>10,378</td>
+<td>721.92</td>
+<td><span data-sort-value="Nordlund, Karl Erling&#160;!">Karl-Erling Nordlund</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><span data-sort-value="Andoy&#160;!"><a href="/wiki/And%C3%B8y" title="Andøy">Andøy</a></span></td>
+<td>4,908</td>
+<td>656.12</td>
+<td><span data-sort-value="Nordmo, Knut Andreas&#160;!">Knut Andreas Nordmo</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><a href="/wiki/Moskenes" title="Moskenes">Moskenes</a></td>
+<td>1,073</td>
+<td>118.79</td>
+<td><span data-sort-value="Rasmussen, Lillian&#160;!">Lillian Rasmussen</span></td>
+<td><a href="/wiki/Bygdeliste" title="Bygdeliste">LL</a></td>
+<td><span data-sort-value="Hamaroy&#160;!"><a href="/wiki/Hamar%C3%B8y" title="Hamarøy">Hamarøy</a><br /><span title="Lule Sami-language text"><i lang="smj"><a href="/wiki/Hamar%C3%B8y" title="Hamarøy">Hábmer</a></i></span></span></td>
+<td>1,810</td>
+<td>2,020.45</td>
+<td><span data-sort-value="Kristoffersen, Britt&#160;!">Britt Kristoffersen</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><a href="/wiki/Halden" title="Halden">Halden</a></td>
+<td>31,444</td>
+<td>642.30</td>
+<td><span data-sort-value="Edquist, Thor&#160;!">Thor Edquist</span></td>
+<td><a href="/wiki/Conservative_Party_(Norway)" title="Conservative Party (Norway)">H</a></td>
+<td><a href="/wiki/Moss,_Norway" title="Moss, Norway">Moss</a></td>
+<td>50,290</td>
+<td>63.57</td>
+<td><span data-sort-value="Tollerud, Hanne&#160;!">Hanne Tollerud</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Sarpsborg" title="Sarpsborg">Sarpsborg</a></td>
+<td>58,182</td>
+<td>405.61</td>
+<td><span data-sort-value="Martinsen-Evje, Sindre&#160;!">Sindre Martinsen-Evje</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Fredrikstad" title="Fredrikstad">Fredrikstad</a></td>
+<td>83,892</td>
+<td>292.55</td>
+<td><span data-sort-value="Nygaard, Jon-Ivar&#160;!">Jon-Ivar Nygård</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Drammen" title="Drammen">Drammen</a></td>
+<td>102,449</td>
+<td>317.68</td>
+<td><span data-sort-value="Berg, Monica Myrvold&#160;!">Monica Myrvold Berg</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Kongsberg" title="Kongsberg">Kongsberg</a></td>
+<td>27,879</td>
+<td>793.09</td>
+<td><span data-sort-value="Sand, Kari Anne&#160;!">Kari Anne Sand</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><a href="/wiki/Ringerike_(municipality)" title="Ringerike (municipality)">Ringerike</a></td>
+<td>31 011</td>
+<td>1,555.08</td>
+<td><span data-sort-value="Orebråten, Kirsten&#160;!">Kirsten Orebråten</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Hvaler" title="Hvaler">Hvaler</a></td>
+<td>4,741</td>
+<td>90.12</td>
+<td><span data-sort-value="Borge, Eivind N.&#160;!"><a href="/wiki/Eivind_N._Borge" title="Eivind N. Borge">Eivind N. Borge</a></span></td>
+<td><a href="/wiki/Progress_Party_(Norway)" title="Progress Party (Norway)">Frp</a></td>
+<td><a href="/wiki/Aremark" title="Aremark">Aremark</a></td>
+<td>1 315</td>
+<td>319.27</td>
+<td><span data-sort-value="Aarbu, Geir&#160;!">Geir Aarbu</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><a href="/wiki/Marker,_Norway" title="Marker, Norway">Marker</a></td>
+<td>3,578</td>
+<td>412.90</td>
+<td><span data-sort-value="Nythe Nilsen&#160;!">Kjersti Nythe Nilsen</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Indre_%C3%98stfold_municipality" class="mw-redirect" title="Indre Østfold municipality">Indre Østfold</a></td>
+<td>45,608</td>
+<td>791.93</td>
+<td><span data-sort-value="Froshaug, Svend Saxe&#160;!">Svend Saxe Frøshaug</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><a href="/wiki/Skiptvet" title="Skiptvet">Skiptvet</a></td>
+<td>3,846</td>
+<td>101.21</td>
+<td><span data-sort-value="Larsen, Anne-Grethe&#160;!">Anne-Grethe Larsen</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><a href="/wiki/Rakkestad" title="Rakkestad">Rakkestad</a></td>
+<td>8,312</td>
+<td>434.71</td>
+<td><span data-sort-value="Fjeldstad, Karoline&#160;!">Karoline Fjelstad</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><span data-sort-value="Raade&#160;!"><a href="/wiki/R%C3%A5de" title="Råde">Råde</a></span></td>
+<td>7,633</td>
+<td>118.77</td>
+<td><span data-sort-value="Rafshol, Rene&#160;!">René Rafshol</span></td>
+<td><a href="/wiki/Conservative_Party_(Norway)" title="Conservative Party (Norway)">H</a></td>
+<td><span data-sort-value="Vaaler&#160;!"><a href="/wiki/V%C3%A5ler,_%C3%98stfold" class="mw-redirect" title="Våler, Østfold">Våler</a></span></td>
+<td>5,913</td>
+<td>256.96</td>
+<td><span data-sort-value="Kaabbel, Reidar&#160;!">Reidar Kaabbel</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><a href="/wiki/Vestby" title="Vestby">Vestby</a></td>
+<td>18,699</td>
+<td>133.97</td>
+<td><span data-sort-value="Ludvigsen, Tom Anders&#160;!">Tom Anders Ludvigsen</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Nordre_Follo" title="Nordre Follo">Nordre Follo</a></td>
+<td>61,032</td>
+<td>133.97</td>
+<td><span data-sort-value="Opdan, Hanne&#160;!">Hanne Opdan</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><span data-sort-value="Aas&#160;!"><a href="/wiki/%C3%85s,_Akershus" class="mw-redirect" title="Ås, Akershus">Ås</a></span></td>
+<td>20,780</td>
+<td>102.68</td>
+<td><span data-sort-value="Nordal, Ola&#160;!">Ola Nordal</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Frogn" title="Frogn">Frogn</a></td>
+<td>16,084</td>
+<td>85.70</td>
+<td><span data-sort-value="Slaake, Odd Haktor&#160;!">Odd Haktor Slåke</span></td>
+<td><a href="/wiki/Conservative_Party_(Norway)" title="Conservative Party (Norway)">H</a></td>
+<td><a href="/wiki/Nesodden" title="Nesodden">Nesodden</a></td>
+<td>19,939</td>
+<td>61.46</td>
+<td><span data-sort-value="Wickholm, Truls&#160;!">Truls Wickholm</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><span data-sort-value="Baerum&#160;!"><a href="/wiki/B%C3%A6rum" title="Bærum">Bærum</a></span></td>
+<td>129,073</td>
+<td>192.26</td>
+<td><span data-sort-value="Krog, Lisbeth&#160;!">Lisbeth Hammer Krog</span></td>
+<td><a href="/wiki/Conservative_Party_(Norway)" title="Conservative Party (Norway)">H</a></td>
+<td><a href="/wiki/Asker" title="Asker">Asker</a></td>
+<td>96,088</td>
+<td>100.71</td>
+<td><span data-sort-value="Conradi, Lene&#160;!">Lene Conradi</span></td>
+<td><a href="/wiki/Conservative_Party_(Norway)" title="Conservative Party (Norway)">H</a></td>
+<td><span data-sort-value="Aurskog-Holand&#160;!"><a href="/wiki/Aurskog-H%C3%B8land" title="Aurskog-Høland">Aurskog-Høland</a></span></td>
+<td>17,754</td>
+<td>961.66</td>
+<td><span data-sort-value="Kvaal, Gudbrand&#160;!">Gudbrand Kvaal</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><span data-sort-value="Raelingen&#160;!"><a href="/wiki/R%C3%A6lingen" title="Rælingen">Rælingen</a></span></td>
+<td>19,024</td>
+<td>71.68</td>
+<td><span data-sort-value="Grøtte, Ståle&#160;!">Ståle Grøtte</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Enebakk" title="Enebakk">Enebakk</a></td>
+<td>11,249</td>
+<td>232.58</td>
+<td><span data-sort-value="Solberg, Hans Kristian&#160;!">Hans Kristian Solberg</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><span data-sort-value="Lorenskog&#160;!"><a href="/wiki/L%C3%B8renskog" title="Lørenskog">Lørenskog</a></span></td>
+<td>44,693</td>
+<td>70.55</td>
+<td><span data-sort-value="Ragnhild, Bergheim&#160;!">Ragnhild Bergheim</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><span data-sort-value="Lillestrom&#160;!"><a href="/wiki/Lillestr%C3%B8m" title="Lillestrøm">Lillestrøm</a></span></td>
+<td>89,095</td>
+<td>456.61</td>
+<td><span data-sort-value="Vik, Jørgen&#160;!">Jørgen Vik</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Nittedal" title="Nittedal">Nittedal</a></td>
+<td>24,947</td>
+<td>186.22</td>
+<td><span data-sort-value="Thorkildsen, Hilde&#160;!">Hilde Thorkildsen</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Gjerdrum" title="Gjerdrum">Gjerdrum</a></td>
+<td>6,989</td>
+<td>83.19</td>
+<td><span data-sort-value="Ostensen, Anders&#160;!">Anders Østensen</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Ullensaker" title="Ullensaker">Ullensaker</a></td>
+<td>41,565</td>
+<td>252.47</td>
+<td><span data-sort-value="Schumacher, Eyvind Jørgensen&#160;!">Eyvind Jørgensen Schumacher</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Nes,_Akershus" class="mw-redirect" title="Nes, Akershus">Nes</a></td>
+<td>23,898</td>
+<td>637.35</td>
+<td><span data-sort-value="Sjoli, Grete&#160;!">Grete Sjøli</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Eidsvoll" title="Eidsvoll">Eidsvoll</a></td>
+<td>26,716</td>
+<td>456.49</td>
+<td><span data-sort-value="Vika, John Erik&#160;!">John-Erik Vika</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><a href="/wiki/Nannestad" title="Nannestad">Nannestad</a></td>
+<td>15,074</td>
+<td>340.99</td>
+<td><span data-sort-value="Thue, Hans&#160;!">Hans Thue</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Hurdal" title="Hurdal">Hurdal</a></td>
+<td>2,905</td>
+<td>284.96</td>
+<td><span data-sort-value="Moltzau, Paul Johan&#160;!">Paul Johan Moltzau</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><a href="/wiki/Hole,_Norway" title="Hole, Norway">Hole</a></td>
+<td>6,859</td>
+<td>192.69</td>
+<td><span data-sort-value="Leivestad, Syver&#160;!">Syver Leivestad</span></td>
+<td><a href="/wiki/Conservative_Party_(Norway)" title="Conservative Party (Norway)">H</a></td>
+<td><span data-sort-value="Flaa&#160;!"><a href="/wiki/Fl%C3%A5" title="Flå">Flå</a></span></td>
+<td>1,057</td>
+<td>704.41</td>
+<td><span data-sort-value="Gandrud, Merete Høntorp&#160;!">Merete Høntorp Gandrud</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Nesbyen_(municipality)" title="Nesbyen (municipality)">Nesbyen</a></td>
+<td>3,273</td>
+<td>809.67</td>
+<td><span data-sort-value="Haraldset, Tore&#160;!">Tore Haraldset</span></td>
+<td><a href="/wiki/Bygdeliste" title="Bygdeliste">LL</a></td>
+<td><a href="/wiki/Gol,_Norway" title="Gol, Norway">Gol</a></td>
+<td>4,667</td>
+<td>532.49</td>
+<td><span data-sort-value="Granli, Heidi&#160;!">Heidi Granli</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Hemsedal" title="Hemsedal">Hemsedal</a></td>
+<td>2,611</td>
+<td>753.54</td>
+<td><span data-sort-value="Rørby, Pål Terje&#160;!">Pål Terje Rørby</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><span data-sort-value="Aal&#160;!"><a href="/wiki/%C3%85l" title="Ål">Ål</a></span></td>
+<td>4,719</td>
+<td>1,174.92</td>
+<td><span data-sort-value="Vestenfor, Solveig&#160;!">Solveig Vestenfor</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Hol" title="Hol">Hol</a></td>
+<td>4,504</td>
+<td>1,854.62</td>
+<td><span data-sort-value="Rukke, Petter&#160;!">Petter Rukke</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Sigdal" title="Sigdal">Sigdal</a></td>
+<td>3,502</td>
+<td>842.28</td>
+<td><span data-sort-value="Norman, Anne Kristin&#160;!">Anne Kristin Norman</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><span data-sort-value="Krodsherad&#160;!"><a href="/wiki/Kr%C3%B8dsherad" title="Krødsherad">Krødsherad</a></span></td>
+<td>2 189</td>
+<td>374.51</td>
+<td><span data-sort-value="Glesne, Knut Martin&#160;!">Knut Martin Glesne</span></td>
+<td><a href="/wiki/Bygdeliste" title="Bygdeliste">LL</a></td>
+<td><a href="/wiki/Modum" title="Modum">Modum</a></td>
+<td>14,273</td>
+<td>517.18</td>
+<td><span data-sort-value="Aamodt, Sunni G.&#160;!">Sunni G. Aamodt</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><span data-sort-value="Ovre Eiker&#160;!"><a href="/wiki/%C3%98vre_Eiker" title="Øvre Eiker">Øvre Eiker</a></span></td>
+<td>20,044</td>
+<td>456.69</td>
+<td><span data-sort-value="Kvale, Knut&#160;!">Knut Kvale</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><a href="/wiki/Lier,_Norway" title="Lier, Norway">Lier</a></td>
+<td>27,584</td>
+<td>301.67</td>
+<td><span data-sort-value="Ringdal, Gunn C&#160;!">Gunn Cecilie Ringdal</span></td>
+<td><a href="/wiki/Conservative_Party_(Norway)" title="Conservative Party (Norway)">H</a></td>
+<td><a href="/wiki/Flesberg" title="Flesberg">Flesberg</a></td>
+<td>2,720</td>
+<td>561.91</td>
+<td><span data-sort-value="Garaas, Oddvar&#160;!">Oddvar Garaas</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><a href="/wiki/Rollag" title="Rollag">Rollag</a></td>
+<td>1,370</td>
+<td>449.29</td>
+<td><span data-sort-value="Heitmann, Viel Jaren&#160;!">Viel Jaren Heitmann</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><a href="/wiki/Nore_og_Uvdal" title="Nore og Uvdal">Nore og Uvdal</a></td>
+<td>2,455</td>
+<td>2,502.29</td>
+<td><span data-sort-value="Bjerke, Jan Gaute&#160;!">Jan Gaute Bjerke</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Jevnaker" title="Jevnaker">Jevnaker</a></td>
+<td>6,908</td>
+<td>225.72</td>
+<td><span data-sort-value="Lafton, Morten&#160;!">Morten Lafton</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Lunner" title="Lunner">Lunner</a></td>
+<td>9,144</td>
+<td>291.84</td>
+<td><span data-sort-value="Tyrdal, Harald&#160;!">Harald Tyrdal</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Kongsvinger" title="Kongsvinger">Kongsvinger</a></td>
+<td>17,857</td>
+<td>1,036.45</td>
+<td><span data-sort-value="Haarr, Margrethe&#160;!">Margrethe Haarr</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><a href="/wiki/Hamar_Municipality" title="Hamar Municipality">Hamar</a></td>
+<td>30,598</td>
+<td>350.94</td>
+<td><span data-sort-value="Busterud, Einar&#160;!"><a href="/wiki/Einar_Busterud" title="Einar Busterud">Einar Busterud</a></span></td>
+<td><a href="/wiki/Bygdeliste" title="Bygdeliste">LL</a></td>
+<td><a href="/wiki/Lillehammer" title="Lillehammer">Lillehammer</a></td>
+<td>27,781</td>
+<td>478.17</td>
+<td><span data-sort-value="Trosholmen, Ingunn&#160;!">Ingunn Trosholmen</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><span data-sort-value="Gjovik&#160;!"><a href="/wiki/Gj%C3%B8vik" title="Gjøvik">Gjøvik</a></span></td>
+<td>30,319</td>
+<td>672.25</td>
+<td><span data-sort-value="Sveen, Torvild&#160;!">Torvild Sveen</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><a href="/wiki/Ringsaker" title="Ringsaker">Ringsaker</a></td>
+<td>33,842</td>
+<td>1,280.09</td>
+<td><span data-sort-value="Steen, Anita Ihle&#160;!">Anita Ihle Steen</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><span data-sort-value="Loten&#160;!"><a href="/wiki/L%C3%B8ten" title="Løten">Løten</a></span></td>
+<td>7,633</td>
+<td>369.44</td>
+<td><span data-sort-value="Tønseth, Marte Larsen&#160;!">Marte Larsen Tønseth</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><a href="/wiki/Stange" title="Stange">Stange</a></td>
+<td>20,317</td>
+<td>724.28</td>
+<td><span data-sort-value="Rohne, Nils A.&#160;!"><a href="/wiki/Nils_A._R%C3%B8hne" title="Nils A. Røhne">Nils A. Røhne</a></span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Nord-Odal" title="Nord-Odal">Nord-Odal</a></td>
+<td>5,100</td>
+<td>508.14</td>
+<td><span data-sort-value="Selnes, Lise&#160;!">Lise Selnes</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><span data-sort-value="Sor-Odal&#160;!"><a href="/wiki/S%C3%B8r-Odal" title="Sør-Odal">Sør-Odal</a></span></td>
+<td>7,866</td>
+<td>516.74</td>
+<td><span data-sort-value="Hvithammer, Knut&#160;!">Knut Hvithammer</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Eidskog" title="Eidskog">Eidskog</a></td>
+<td>6,127</td>
+<td>640.39</td>
+<td><span data-sort-value="Thue, Kamilla&#160;!">Kamilla Thue</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Grue,_Norway" title="Grue, Norway">Grue</a></td>
+<td>4,777</td>
+<td>837.17</td>
+<td><span data-sort-value="Grenberg, Rune&#160;!">Rune Grenberg</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><span data-sort-value="Aasnes&#160;!"><a href="/wiki/%C3%85snes" title="Åsnes">Åsnes</a></span></td>
+<td>7,329</td>
+<td>1,040.94</td>
+<td><span data-sort-value="Heggelund, Kari&#160;!">Kari Heggelund</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><span data-sort-value="Vaaler&#160;!"><a href="/wiki/V%C3%A5ler,_Hedmark" class="mw-redirect" title="Våler, Hedmark">Våler</a></span></td>
+<td>3,743</td>
+<td>705.28</td>
+<td><span data-sort-value="Lie, Ola Cato&#160;!">Ola Cato Lie</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><a href="/wiki/Elverum" title="Elverum">Elverum</a></td>
+<td>21,086</td>
+<td>1,229.29</td>
+<td><span data-sort-value="Skjærvik, Lilian&#160;!">Lilian Skjærvik</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Trysil" title="Trysil">Trysil</a></td>
+<td>6,550</td>
+<td>3,014.37</td>
+<td><span data-sort-value="Sletten, Erik&#160;!">Erik Sletten</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><span data-sort-value="Aamot&#160;!"><a href="/wiki/%C3%85mot" title="Åmot">Åmot</a></span></td>
+<td>4,518</td>
+<td>1,339.92</td>
+<td><span data-sort-value="Hørstad, Ole Erik&#160;!">Ole Erik Hørstad</span></td>
+<td><a href="/wiki/Conservative_Party_(Norway)" title="Conservative Party (Norway)">H</a></td>
+<td><a href="/wiki/Stor-Elvdal" title="Stor-Elvdal">Stor-Elvdal</a></td>
+<td>2,530</td>
+<td>2,165.78</td>
+<td><span data-sort-value="Moen, Even&#160;!">Even Moen</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><a href="/wiki/Rendalen" title="Rendalen">Rendalen</a></td>
+<td>1,858</td>
+<td>3,179.52</td>
+<td><span data-sort-value="Døsen, Linda&#160;!">Linda Døsen</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Engerdal" title="Engerdal">Engerdal</a></td>
+<td>1,274</td>
+<td>2,196.54</td>
+<td><span data-sort-value="Storsnes, Line&#160;!">Line Storsnes</span></td>
+<td><a href="/wiki/Bygdeliste" title="Bygdeliste">LL</a></td>
+<td><a href="/wiki/Tolga,_Norway" title="Tolga, Norway">Tolga</a></td>
+<td>1,620</td>
+<td>1,122.59</td>
+<td><span data-sort-value="Jordet, Bjørnar Tollan&#160;!">Bjørnar Tollan Jordet</span></td>
+<td><a href="/wiki/Socialist_Left_Party_(Norway)" title="Socialist Left Party (Norway)">SV</a></td>
+<td><a href="/wiki/Tynset" title="Tynset">Tynset</a></td>
+<td>5,584</td>
+<td>1,880.51</td>
+<td><span data-sort-value="Moen, Merete Myhre&#160;!">Merete Myhre Moen</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><a href="/wiki/Alvdal" title="Alvdal">Alvdal</a></td>
+<td>2,441</td>
+<td>942.15</td>
+<td><span data-sort-value="Murud, Mona&#160;!">Mona Murud</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><a href="/wiki/Folldal" title="Folldal">Folldal</a></td>
+<td>1,577</td>
+<td>1,276.88</td>
+<td><span data-sort-value="Langtjernet, Kristin&#160;!">Kristin Langtjernet</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Os,_Innlandet" title="Os, Innlandet">Os</a></td>
+<td>1,963</td>
+<td>1,040.40</td>
+<td><span data-sort-value="Finborud, Runa&#160;!">Runa Finborud</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><a href="/wiki/Dovre" title="Dovre">Dovre</a></td>
+<td>2,675</td>
+<td>1,364.39</td>
+<td><span data-sort-value="Ruste, Astrid Skomakerstuen&#160;!">Astrid Skomakerstuen Ruste</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Lesja" title="Lesja">Lesja</a></td>
+<td>2,048</td>
+<td>2,259.50</td>
+<td><span data-sort-value="Skotte, Mariann&#160;!">Mariann Skotte</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><span data-sort-value="Skjaak&#160;!"><a href="/wiki/Skj%C3%A5k" title="Skjåk">Skjåk</a></span></td>
+<td>2,202</td>
+<td>2,075.52</td>
+<td><span data-sort-value="Kveen, Edel&#160;!">Edel Kveen</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><a href="/wiki/Lom,_Norway" title="Lom, Norway">Lom</a></td>
+<td>2,360</td>
+<td>1,968.55</td>
+<td><span data-sort-value="Holo, Bjarne, Eiolf&#160;!">Bjarne Eiolf Holø</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><span data-sort-value="Vaagaa&#160;!"><a href="/wiki/V%C3%A5g%C3%A5" title="Vågå">Vågå</a></span></td>
+<td>3,640</td>
+<td>1,330.00</td>
+<td><span data-sort-value="Bjørndal, Harald Sve&#160;!">Harald Sve Bjørndal</span></td>
+<td><a href="/wiki/Bygdeliste" title="Bygdeliste">LL</a></td>
+<td><a href="/wiki/Nord-Fron" title="Nord-Fron">Nord-Fron</a></td>
+<td>5,723</td>
+<td>1,141.48</td>
+<td><span data-sort-value="Stostad, Rune&#160;!">Rune Støstad</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Sel" title="Sel">Sel</a></td>
+<td>5,916</td>
+<td>904.93</td>
+<td><span data-sort-value="Siem, Eldri&#160;!">Eldri Siem</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><span data-sort-value="Sor-Fron&#160;!"><a href="/wiki/S%C3%B8r-Fron" title="Sør-Fron">Sør-Fron</a></span></td>
+<td>3,163</td>
+<td>742.18</td>
+<td><span data-sort-value="Muriteigen, Ole Tvete&#160;!">Ole Tvete Muriteigen</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><a href="/wiki/Ringebu" title="Ringebu">Ringebu</a></td>
+<td>4,502</td>
+<td>1,247.53</td>
+<td><span data-sort-value="Fossmo, Arne&#160;!">Arne Fossmo</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><span data-sort-value="Oyer&#160;!"><a href="/wiki/%C3%98yer" title="Øyer">Øyer</a></span></td>
+<td>5,082</td>
+<td>639.90</td>
+<td><span data-sort-value="Midtmagerli, Jon Halvor&#160;!">Jon Halvor Midtmagerli</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><a href="/wiki/Gausdal" title="Gausdal">Gausdal</a></td>
+<td>6,204</td>
+<td>1,191.16</td>
+<td><span data-sort-value="Musdalslien, Anette&#160;!">Anette Musdalslien</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><span data-sort-value="Ostre Toten&#160;!"><a href="/wiki/%C3%98stre_Toten" title="Østre Toten">Østre Toten</a></span></td>
+<td>14,887</td>
+<td>562.57</td>
+<td><span data-sort-value="Helgestad, Bror&#160;!">Bror Helgestad</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><a href="/wiki/Vestre_Toten" title="Vestre Toten">Vestre Toten</a></td>
+<td>13,179</td>
+<td>249.52</td>
+<td><span data-sort-value="Olafsen, Stian&#160;!">Stian Olafsen</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Gran,_Norway" title="Gran, Norway">Gran</a></td>
+<td>13,707</td>
+<td>756.65</td>
+<td><span data-sort-value="Thorsen, Randi Eek&#160;!">Randi Eek Thorsen</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><span data-sort-value="Sondre Land&#160;!"><a href="/wiki/S%C3%B8ndre_Land" title="Søndre Land">Søndre Land</a></span></td>
+<td>5,717</td>
+<td>728.36</td>
+<td><span data-sort-value="Hagenborg, Anne&#160;!">Anne Hagenborg</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Nordre_Land" title="Nordre Land">Nordre Land</a></td>
+<td>6,773</td>
+<td>955.31</td>
+<td><span data-sort-value="Dokken, Ola Tore&#160;!">Ola Tore Dokken</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><span data-sort-value="Sor-Aurdal&#160;!"><a href="/wiki/S%C3%B8r-Aurdal" title="Sør-Aurdal">Sør-Aurdal</a></span></td>
+<td>3,026</td>
+<td>1,109.04</td>
+<td><span data-sort-value="Hougsrud, Marit&#160;!">Marit Hougsrud</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><a href="/wiki/Etnedal" title="Etnedal">Etnedal</a></td>
+<td>1,351</td>
+<td>459.15</td>
+<td><span data-sort-value="Robøle, Linda Mæhlum&#160;!">Linda Mæhlum Robøle</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><a href="/wiki/Nord-Aurdal" title="Nord-Aurdal">Nord-Aurdal</a></td>
+<td>6,490</td>
+<td>906.52</td>
+<td><span data-sort-value="Fjelltun, Knut Arne&#160;!">Knut Arne Fjelltun</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><a href="/wiki/Vestre_Slidre" title="Vestre Slidre">Vestre Slidre</a></td>
+<td>2,114</td>
+<td>463.25</td>
+<td><span data-sort-value="Ødegård, Haldor&#160;!">Haldor Ødegård</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><span data-sort-value="Oystre Slidre&#160;!"><a href="/wiki/%C3%98ystre_Slidre" title="Øystre Slidre">Øystre Slidre</a></span></td>
+<td>3,248</td>
+<td>963.11</td>
+<td><span data-sort-value="Holden, Odd Erik&#160;!">Odd Erik Holden</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><a href="/wiki/Vang,_Innlandet" title="Vang, Innlandet">Vang</a></td>
+<td>1,596</td>
+<td>1,505.45</td>
+<td><span data-sort-value="Eltun, Vidar&#160;!">Vidar Eltun</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Horten" title="Horten">Horten</a></td>
+<td>27,202</td>
+<td>70.96</td>
+<td><span data-sort-value="Karlsen, Are&#160;!">Are Karlsen</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Holmestrand" title="Holmestrand">Holmestrand</a></td>
+<td>14,037</td>
+<td>432.36</td>
+<td><span data-sort-value="Weggesrud, Elin&#160;!">Elin Weggesrud</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><span data-sort-value="Tonsberg&#160;!"><a href="/wiki/T%C3%B8nsberg" title="Tønsberg">Tønsberg</a></span></td>
+<td>44,922</td>
+<td>110.03</td>
+<td><span data-sort-value="Pedersen, Anne Rygh&#160;!">Anne Rygh Pedersen</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Sandefjord" title="Sandefjord">Sandefjord</a></td>
+<td>62,019</td>
+<td>422.26</td>
+<td><span data-sort-value="Gleditsch, Bjorn Ole&#160;!">Bjørn Ole Gleditsch</span></td>
+<td><a href="/wiki/Conservative_Party_(Norway)" title="Conservative Party (Norway)">H</a></td>
+<td><a href="/wiki/Larvik" title="Larvik">Larvik</a></td>
+<td>46,557</td>
+<td>812.88</td>
+<td><span data-sort-value="Bringedal, Erik&#160;!">Erik Bringedal</span></td>
+<td><a href="/wiki/Conservative_Party_(Norway)" title="Conservative Party (Norway)">H</a></td>
+<td><a href="/wiki/Porsgrunn" title="Porsgrunn">Porsgrunn</a></td>
+<td>36,198</td>
+<td>164.45</td>
+<td><span data-sort-value="Kaass, Robin&#160;!">Robin Martin Kåss</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Skien" title="Skien">Skien</a></td>
+<td>54,316</td>
+<td>779.20</td>
+<td><span data-sort-value="Foss Five, Hedda&#160;!">Hedda Foss Five</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Notodden" title="Notodden">Notodden</a></td>
+<td>12,757</td>
+<td>983.89</td>
+<td><span data-sort-value="Fuglestveit, Gry&#160;!">Gry Fuglestveit</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><span data-sort-value="Faerder&#160;!"><a href="/wiki/F%C3%A6rder" title="Færder">Færder</a></span></td>
+<td>26,676</td>
+<td>99.96</td>
+<td><span data-sort-value="Andersen, Jon Sanness&#160;!">Jon Sanness Andersen</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Siljan,_Norway" title="Siljan, Norway">Siljan</a></td>
+<td>2,357</td>
+<td>213.96</td>
+<td><span data-sort-value="Solverod, Kjell&#160;!">Kjell Abraham Sølverød</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><a href="/wiki/Bamble" title="Bamble">Bamble</a></td>
+<td>14,138</td>
+<td>304.37</td>
+<td><span data-sort-value="Kjelldal, Hallgeir&#160;!">Hallgeir Kjeldal</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><span data-sort-value="Kragero&#160;!"><a href="/wiki/Krager%C3%B8" title="Kragerø">Kragerø</a></span></td>
+<td>10,586</td>
+<td>305.46</td>
+<td><span data-sort-value="Knudsen, Grunde&#160;!">Grunde Knudsen</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><a href="/wiki/Drangedal" title="Drangedal">Drangedal</a></td>
+<td>4,148</td>
+<td>1,062.78</td>
+<td><span data-sort-value="Lohne, Tor&#160;!">Tor Peder Lohne</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><a href="/wiki/Nome,_Norway" title="Nome, Norway">Nome</a></td>
+<td>6,585</td>
+<td>429.69</td>
+<td><span data-sort-value="Tveito Lundefaret, Bjorg&#160;!">Bjørg Tveito Lundefaret</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Midt-Telemark_(municipality)" title="Midt-Telemark (municipality)">Midt-Telemark</a></td>
+<td>10,439</td>
+<td>518.51</td>
+<td><span data-sort-value="Dyrland, Siri Blichfeldt&#160;!">Siri Blichfeldt Dyrland</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><a href="/wiki/Tinn" title="Tinn">Tinn</a></td>
+<td>5,894</td>
+<td>2,045.14</td>
+<td><span data-sort-value="Bergsland, Steinar&#160;!">Steinar Bergsland</span></td>
+<td><a href="/wiki/Conservative_Party_(Norway)" title="Conservative Party (Norway)">H</a></td>
+<td><a href="/wiki/Hjartdal" title="Hjartdal">Hjartdal</a></td>
+<td>1,593</td>
+<td>791.60</td>
+<td><span data-sort-value="Odden, Bengt Halvard&#160;!">Bengt Halvard Odden</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Seljord" title="Seljord">Seljord</a></td>
+<td>2,979</td>
+<td>715.09</td>
+<td><span data-sort-value="Eide, Beate Marie Dahl&#160;!">Beate Marie Dahl Eide</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><a href="/wiki/Kviteseid" title="Kviteseid">Kviteseid</a></td>
+<td>2,442</td>
+<td>708.46</td>
+<td><span data-sort-value="Nordskog, Bjørn&#160;!">Bjørn Nordskog</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><a href="/wiki/Nissedal" title="Nissedal">Nissedal</a></td>
+<td>1,476</td>
+<td>905.18</td>
+<td><span data-sort-value="Homme, Halvor&#160;!">Halvor Homme</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Fyresdal" title="Fyresdal">Fyresdal</a></td>
+<td>1,319</td>
+<td>1,280.14</td>
+<td><span data-sort-value="Skjervagen, Erik&#160;!">Erik Skjervagen</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Tokke" title="Tokke">Tokke</a></td>
+<td>2,228</td>
+<td>984.48</td>
+<td><span data-sort-value="Felland, Jarand&#160;!">Jarand Felland</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><a href="/wiki/Vinje" title="Vinje">Vinje</a></td>
+<td>3,726</td>
+<td>3,105.84</td>
+<td><span data-sort-value="Kleven, Jon Rikard&#160;!">Jon Rikard Kleven</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><span data-sort-value="Risor&#160;!"><a href="/wiki/Ris%C3%B8r" title="Risør">Risør</a></span></td>
+<td>6,935</td>
+<td>192.98</td>
+<td><span data-sort-value="Lunden, Per K&#160;!">Per Kristian Lunden</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Grimstad" title="Grimstad">Grimstad</a></td>
+<td>22,692</td>
+<td>303.58</td>
+<td><span data-sort-value="Skretting, Beate&#160;!">Beate Skretting</span></td>
+<td><a href="/wiki/Conservative_Party_(Norway)" title="Conservative Party (Norway)">H</a></td>
+<td><a href="/wiki/Arendal" title="Arendal">Arendal</a></td>
+<td>44,576</td>
+<td>270.21</td>
+<td><span data-sort-value="Nordli, Robert&#160;!">Robert Nordli</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Kristiansand" title="Kristiansand">Kristiansand</a></td>
+<td>113,920</td>
+<td>276.88</td>
+<td><span data-sort-value="Skisland, Jan Oddvar&#160;!">Jan Oddvar Skisland</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Lindesnes" title="Lindesnes">Lindesnes</a></td>
+<td>23,025</td>
+<td>934.32</td>
+<td><span data-sort-value="Sagebakken, Even&#160;!">Even Sagebakken</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Farsund" title="Farsund">Farsund</a></td>
+<td>9,769</td>
+<td>262.55</td>
+<td><span data-sort-value="Abrahamsen, Arnt&#160;!">Arnt Abrahamsen</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Flekkefjord" title="Flekkefjord">Flekkefjord</a></td>
+<td>9,090</td>
+<td>543.53</td>
+<td><span data-sort-value="Klungland, Torbjørn&#160;!">Torbjørn Klungland</span></td>
+<td><a href="/wiki/Progress_Party_(Norway)" title="Progress Party (Norway)">Frp</a></td>
+<td><a href="/wiki/Gjerstad" title="Gjerstad">Gjerstad</a></td>
+<td>2,511</td>
+<td>322.14</td>
+<td><span data-sort-value="Loite, Inger Haldis&#160;!">Inger Haldis Løite</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><span data-sort-value="Vegaarshei&#160;!"><a href="/wiki/Veg%C3%A5rshei" title="Vegårshei">Vegårshei</a></span></td>
+<td>2,104</td>
+<td>355.65</td>
+<td><span data-sort-value="Torp, Kjetil&#160;!">Kjetil Torp</span></td>
+<td><a href="/wiki/Christian_Democratic_Party_(Norway)" title="Christian Democratic Party (Norway)">KrF</a></td>
+<td><a href="/wiki/Tvedestrand" title="Tvedestrand">Tvedestrand</a></td>
+<td>6,051</td>
+<td>215.05</td>
+<td><span data-sort-value="Landsaas, Marianne&#160;!">Marianne Landsaas</span></td>
+<td><a href="/wiki/Conservative_Party_(Norway)" title="Conservative Party (Norway)">H</a></td>
+<td><a href="/wiki/Froland" title="Froland">Froland</a></td>
+<td>5,713</td>
+<td>644.54</td>
+<td><span data-sort-value="Gundersen, Ove&#160;!">Ove Gundersen</span></td>
+<td><a href="/wiki/Christian_Democratic_Party_(Norway)" title="Christian Democratic Party (Norway)">KrF</a></td>
+<td><a href="/wiki/Lillesand" title="Lillesand">Lillesand</a></td>
+<td>10,702</td>
+<td>190.43</td>
+<td><span data-sort-value="Holmer-Hoven, Einar&#160;!">Einar Holmen-Hoven</span></td>
+<td><a href="/wiki/Conservative_Party_(Norway)" title="Conservative Party (Norway)">H</a></td>
+<td><a href="/wiki/Birkenes" title="Birkenes">Birkenes</a></td>
+<td>5,178</td>
+<td>637.36</td>
+<td><span data-sort-value="Heia, Gyro&#160;!">Gyro Heia</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><span data-sort-value="Aamli&#160;!"><a href="/wiki/%C3%85mli" title="Åmli">Åmli</a></span></td>
+<td>1,856</td>
+<td>1,130.61</td>
+<td><span data-sort-value="Baas, Bjørn Gunnar&#160;!">Bjørn Gunnar Baas</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><a href="/wiki/Iveland" title="Iveland">Iveland</a></td>
+<td>1,342</td>
+<td>261.63</td>
+<td><span data-sort-value="Mykjaaland, Gro Anita&#160;!">Gro Anita Mykjåland</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><a href="/wiki/Evje_og_Hornnes" title="Evje og Hornnes">Evje og Hornnes</a></td>
+<td>3,614</td>
+<td>587.08</td>
+<td><span data-sort-value="Haugen, Svein Arne&#160;!">Svein Arne Haugen</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Bygland" title="Bygland">Bygland</a></td>
+<td>1,200</td>
+<td>1,311.66</td>
+<td><span data-sort-value="Fossdal, Sigbjørn Aage&#160;!">Sigbjørn Åge Fossdal</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Valle,_Norway" title="Valle, Norway">Valle</a></td>
+<td>1,246</td>
+<td>1,265.31</td>
+<td><span data-sort-value="Kyrvestad, Steinar&#160;!">Steinar Kyrvestad</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Bykle" title="Bykle">Bykle</a></td>
+<td>952</td>
+<td>1,467.13</td>
+<td><span data-sort-value="Naess, Jon Rolf&#160;!">Jon-Rolf Næss</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Vennesla" title="Vennesla">Vennesla</a></td>
+<td>14,425</td>
+<td>384.47</td>
+<td><span data-sort-value="Larsen, Nils Olav&#160;!">Nils Olav Larsen</span></td>
+<td><a href="/wiki/Christian_Democratic_Party_(Norway)" title="Christian Democratic Party (Norway)">KrF</a></td>
+<td><span data-sort-value="Aaseral&#160;!"><a href="/wiki/%C3%85seral" title="Åseral">Åseral</a></span></td>
+<td>937</td>
+<td>887.52</td>
+<td><span data-sort-value="Stulien, Inger Lise Lund&#160;!">Inger Lise Lund Stulien</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Lyngdal" title="Lyngdal">Lyngdal</a></td>
+<td>10,368</td>
+<td>642.80</td>
+<td><span data-sort-value="Kristensen, Jan&#160;!">Jan Kristensen</span></td>
+<td><a href="/wiki/Conservative_Party_(Norway)" title="Conservative Party (Norway)">H</a></td>
+<td><span data-sort-value="Haegbostad&#160;!"><a href="/wiki/H%C3%A6gebostad" title="Hægebostad">Hægebostad</a></span></td>
+<td>1,702</td>
+<td>461.33</td>
+<td><span data-sort-value="Handeland, Margrethe&#160;!">Margrethe Handeland</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><a href="/wiki/Kvinesdal" title="Kvinesdal">Kvinesdal</a></td>
+<td>5,988</td>
+<td>963.22</td>
+<td><span data-sort-value="Kvinlaug, Per Sverre&#160;!">Per Sverre Kvinlaug</span></td>
+<td><a href="/wiki/Christian_Democratic_Party_(Norway)" title="Christian Democratic Party (Norway)">KrF</a></td>
+<td><a href="/wiki/Sirdal" title="Sirdal">Sirdal</a></td>
+<td>1,836</td>
+<td>1,554.83</td>
+<td><span data-sort-value="Liland, Jonny&#160;!">Jonny Liland</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Bergen" title="Bergen">Bergen</a></td>
+<td>287,428</td>
+<td>464.70</td>
+<td><span data-sort-value="Persen, Marte Mjos&#160;!">Marte Mjøs Persen</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Kinn" title="Kinn">Kinn</a></td>
+<td>17,131</td>
+<td>870.00</td>
+<td><span data-sort-value="Teigen, Ola&#160;!">Ola Teigen</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Etne" title="Etne">Etne</a></td>
+<td>4,043</td>
+<td>735.28</td>
+<td><span data-sort-value="Bergsvåg, Mette Heidi Ekrheim&#160;!">Mette Ekrheim Bergsvåg</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><a href="/wiki/Sveio" title="Sveio">Sveio</a></td>
+<td>5,775</td>
+<td>246.14</td>
+<td><span data-sort-value="Erve, Linn Therese&#160;!">Linn Therese Erve</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><span data-sort-value="Bomlo&#160;!"><a href="/wiki/B%C3%B8mlo" title="Bømlo">Bømlo</a></span></td>
+<td>12,061</td>
+<td>246.56</td>
+<td><span data-sort-value="Olsen, Sammy&#160;!">Sammy Olsen</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><a href="/wiki/Stord" title="Stord">Stord</a></td>
+<td>18,919</td>
+<td>143.69</td>
+<td><span data-sort-value="Epland, Gaute&#160;!">Gaute Straume Epland</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Fitjar" title="Fitjar">Fitjar</a></td>
+<td>3,117</td>
+<td>142.43</td>
+<td><span data-sort-value="Rydland, Harald&#160;!">Harald Rydland</span></td>
+<td><a href="/wiki/Christian_Democratic_Party_(Norway)" title="Christian Democratic Party (Norway)">KrF</a></td>
+<td><a href="/wiki/Tysnes" title="Tysnes">Tysnes</a></td>
+<td>2,883</td>
+<td>255.11</td>
+<td><span data-sort-value="Kleppe, Kaare Martin&#160;!">Kåre Martin Kleppe</span></td>
+<td><a href="/wiki/Conservative_Party_(Norway)" title="Conservative Party (Norway)">H</a></td>
+<td><a href="/wiki/Kvinnherad" title="Kvinnherad">Kvinnherad</a></td>
+<td>13,017</td>
+<td>1,090.74</td>
+<td><span data-sort-value="Myrvold, Hans Inge&#160;!">Hans Inge Myrvold</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><a href="/wiki/Ullensvang" title="Ullensvang">Ullensvang</a></td>
+<td>10,881</td>
+<td>3,236.63</td>
+<td><span data-sort-value="Haug, Roald Aga&#160;!">Roald Aga Haug</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Eidfjord" title="Eidfjord">Eidfjord</a></td>
+<td>937</td>
+<td>1,491.46</td>
+<td><span data-sort-value="Vatle, Anders&#160;!">Anders Vatle</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><a href="/wiki/Ulvik" title="Ulvik">Ulvik</a></td>
+<td>1,051</td>
+<td>722.00</td>
+<td><span data-sort-value="Thorbjørnsen, Hans Petter&#160;!">Hans Petter Thorbjørnsen</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Voss" title="Voss">Voss</a></td>
+<td>15,875</td>
+<td>1,805.81</td>
+<td><span data-sort-value="Ringkjob, Hans Erik&#160;!">Hans-Erik Ringkjøb</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Kvam" title="Kvam">Kvam</a></td>
+<td>8,497</td>
+<td>616.50</td>
+<td><span data-sort-value="Naess, Torgeir&#160;!">Torgeir Næss</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Samnanger" title="Samnanger">Samnanger</a></td>
+<td>2,501</td>
+<td>269.07</td>
+<td><span data-sort-value="Froland, Knut Harald&#160;!">Knut Harald Frøland</span></td>
+<td><a href="/wiki/Bygdeliste" title="Bygdeliste">LL</a></td>
+<td><a href="/wiki/Bj%C3%B8rnafjorden_(municipality)" title="Bjørnafjorden (municipality)">Bjørnafjorden</a></td>
+<td>25,213</td>
+<td>517.41</td>
+<td><span data-sort-value="Lindborg, Trine&#160;!">Trine Lindborg</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Austevoll" title="Austevoll">Austevoll</a></td>
+<td>5,282</td>
+<td>117.18</td>
+<td><span data-sort-value="Storebo, Morten&#160;!">Morten Storebø</span></td>
+<td><a href="/wiki/Conservative_Party_(Norway)" title="Conservative Party (Norway)">H</a></td>
+<td><span data-sort-value="Oygarden&#160;!"><a href="/wiki/%C3%98ygarden" title="Øygarden">Øygarden</a></span></td>
+<td>39,032</td>
+<td>314.51</td>
+<td><span data-sort-value="Indrevik, Tom Georg&#160;!">Tom Georg Indrevik</span></td>
+<td><a href="/wiki/Conservative_Party_(Norway)" title="Conservative Party (Norway)">H</a></td>
+<td><span data-sort-value="Askoy&#160;!"><a href="/wiki/Ask%C3%B8y" title="Askøy">Askøy</a></span></td>
+<td>29,032</td>
+<td>101.12</td>
+<td><span data-sort-value="Høgtun, Siv&#160;!">Siv Høgtun</span></td>
+<td><a href="/wiki/Conservative_Party_(Norway)" title="Conservative Party (Norway)">H</a></td>
+<td><a href="/wiki/Vaksdal" title="Vaksdal">Vaksdal</a></td>
+<td>3,867</td>
+<td>715.37</td>
+<td><span data-sort-value="Vik, Hege Eide&#160;!">Hege Eide Vik</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><a href="/wiki/Modalen" title="Modalen">Modalen</a></td>
+<td>378</td>
+<td>411.99</td>
+<td><span data-sort-value="Eikefet, Kjetil&#160;!">Kjetil Eikefet</span></td>
+<td><a href="/wiki/Bygdeliste" title="Bygdeliste">LL</a></td>
+<td><span data-sort-value="Osteroy&#160;!"><a href="/wiki/Oster%C3%B8y" title="Osterøy">Osterøy</a></span></td>
+<td>8,131</td>
+<td>255.12</td>
+<td><span data-sort-value="Fjeldstad, Lars&#160;!">Lars Fjeldstad</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><a href="/wiki/Alver_(municipality)" title="Alver (municipality)">Alver</a></td>
+<td>29,816</td>
+<td>679.00</td>
+<td><span data-sort-value="Sekkingstad, Sara&#160;!">Sara Sekkingstad</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Austrheim" title="Austrheim">Austrheim</a></td>
+<td>2,889</td>
+<td>57.56</td>
+<td><span data-sort-value="Lerøy, Per&#160;!">Per Lerøy</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Fedje" title="Fedje">Fedje</a></td>
+<td>502</td>
+<td>9.28</td>
+<td><span data-sort-value="Heroy, Stian&#160;!">Stian Herøy</span></td>
+<td><a href="/wiki/Conservative_Party_(Norway)" title="Conservative Party (Norway)">H</a></td>
+<td><a href="/wiki/Masfjorden" title="Masfjorden">Masfjorden</a></td>
+<td>1,629</td>
+<td>556.07</td>
+<td><span data-sort-value="Totland, Karstein&#160;!">Karstein Totland</span></td>
+<td><a href="/wiki/Conservative_Party_(Norway)" title="Conservative Party (Norway)">H</a></td>
+<td><a href="/wiki/Gulen" title="Gulen">Gulen</a></td>
+<td>2,230</td>
+<td>597.21</td>
+<td><span data-sort-value="Oppedal, Hallvard&#160;!">Hallvard Oppedal</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><a href="/wiki/Solund" title="Solund">Solund</a></td>
+<td>768</td>
+<td>228.25</td>
+<td><span data-sort-value="Mongstad, Gunn Aamdal&#160;!">Gunn Åmdal Mongstad</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><a href="/wiki/Hyllestad" title="Hyllestad">Hyllestad</a></td>
+<td>1,290</td>
+<td>258.91</td>
+<td><span data-sort-value="Eide, Kjell&#160;!">Kjell</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><span data-sort-value="Hoyanger&#160;!"><a href="/wiki/H%C3%B8yanger" title="Høyanger">Høyanger</a></span></td>
+<td>3,965</td>
+<td>1,003.04</td>
+<td><span data-sort-value="Sortland, Petter&#160;!">Petter Sortland</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Vik" title="Vik">Vik</a></td>
+<td>2,560</td>
+<td>833.33</td>
+<td><span data-sort-value="Stadheim, Roy Egil&#160;!">Roy Egil Stadheim</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Sogndal" title="Sogndal">Sogndal</a></td>
+<td>12,097</td>
+<td>1,257.89</td>
+<td><span data-sort-value="Menes, Arnstein&#160;!">Arnstein Menes</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><a href="/wiki/Aurland" title="Aurland">Aurland</a></td>
+<td>1,766</td>
+<td>1,467.69</td>
+<td><span data-sort-value="Skjerdal, Trygve&#160;!">Trygve Skjerdal</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><span data-sort-value="Laerdal&#160;!"><a href="/wiki/L%C3%A6rdal" title="Lærdal">Lærdal</a></span></td>
+<td>2,117</td>
+<td>1,342.48</td>
+<td><span data-sort-value="Solheim, Jan Geir&#160;!">Jan Geir Solheim</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><span data-sort-value="Aardal&#160;!"><a href="/wiki/%C3%85rdal" title="Årdal">Årdal</a></span></td>
+<td>5,204</td>
+<td>976.58</td>
+<td>Hilmar Høl</td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Luster,_Norway" title="Luster, Norway">Luster</a></td>
+<td>5,246</td>
+<td>2,706.22</td>
+<td><span data-sort-value="Kvalen, Ivar&#160;!">Ivar Kvalen</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><a href="/wiki/Askvoll" title="Askvoll">Askvoll</a></td>
+<td>2,951</td>
+<td>326.17</td>
+<td><span data-sort-value="Klausen, Ole André&#160;!">Ole André Klausen</span></td>
+<td><a href="/wiki/Conservative_Party_(Norway)" title="Conservative Party (Norway)">H</a></td>
+<td><a href="/wiki/Fjaler" title="Fjaler">Fjaler</a></td>
+<td>2,901</td>
+<td>416.59</td>
+<td><span data-sort-value="Felde, Kjetil Høgseth&#160;!">Kjetil Høgseth Felde</span></td>
+<td><a href="/wiki/Conservative_Party_(Norway)" title="Conservative Party (Norway)">H</a></td>
+<td><a href="/wiki/Sunnfjord_(municipality)" title="Sunnfjord (municipality)">Sunnfjord</a></td>
+<td>22,116</td>
+<td>2,208.13</td>
+<td><span data-sort-value="Grotle, Olve&#160;!">Olve Grotle</span></td>
+<td><a href="/wiki/Conservative_Party_(Norway)" title="Conservative Party (Norway)">H</a></td>
+<td><a href="/wiki/Bremanger" title="Bremanger">Bremanger</a></td>
+<td>3,521</td>
+<td>832.85</td>
+<td><span data-sort-value="Forde, Anne Kristin&#160;!">Anne Kristin Førde</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Stad,_Norway" title="Stad, Norway">Stad</a></td>
+<td>9,527</td>
+<td>752.78</td>
+<td><span data-sort-value="Bjørlo, Alfred&#160;!">Alfred Bjørlo</span></td>
+<td><a href="/wiki/Liberal_Party_(Norway)" title="Liberal Party (Norway)">V</a></td>
+<td><a href="/wiki/Gloppen" title="Gloppen">Gloppen</a></td>
+<td>5,875</td>
+<td>1,030.51</td>
+<td><span data-sort-value="Gloppestad, Leidulf&#160;!">Leidulf Gloppestad</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><a href="/wiki/Stryn" title="Stryn">Stryn</a></td>
+<td>7,207</td>
+<td>1,377.21</td>
+<td><span data-sort-value="Kjøllesdal, Per&#160;!">Per Kjøllesdal</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><a href="/wiki/Trondheim" title="Trondheim">Trondheim</a></td>
+<td>211,246</td>
+<td>342.21</td>
+<td><span data-sort-value="Ranum, Kent&#160;!"><a href="/w/index.php?title=Kent_Ranum&amp;action=edit&amp;redlink=1" class="new" title="Kent Ranum (page does not exist)">Kent Ranum</a></span></td>
+<td><a href="/wiki/Conservative_Party_(Norway)" title="Conservative Party (Norway)">Høyre</a></td>
+<td><a href="/wiki/Steinkjer" title="Steinkjer">Steinkjer</a></td>
+<td>24,357</td>
+<td>2,122.06</td>
+<td><span data-sort-value="Gram, Bjorn Arild&#160;!"><a href="/wiki/Bj%C3%B8rn_Arild_Gram" title="Bjørn Arild Gram">Bjørn Arild Gram</a></span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><a href="/wiki/Namsos" title="Namsos">Namsos</a></td>
+<td>13,051</td>
+<td>2132.63</td>
+<td><span data-sort-value="Holstad, Arnhild&#160;!">Arnhild Holstad</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><span data-sort-value="Froya&#160;!"><a href="/wiki/Fr%C3%B8ya,_Tr%C3%B8ndelag" title="Frøya, Trøndelag">Frøya</a></span></td>
+<td>4,937</td>
+<td>241.31</td>
+<td><span data-sort-value="Strømskag, Kristin Furunes&#160;!">Kristin Furunes Strømskog</span></td>
+<td><a href="/wiki/Conservative_Party_(Norway)" title="Conservative Party (Norway)">H</a></td>
+<td><a href="/wiki/Osen" title="Osen">Osen</a></td>
+<td>978</td>
+<td>387.18</td>
+<td><span data-sort-value="Hovik, John Einar&#160;!">John Einar Høvik</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Oppdal" title="Oppdal">Oppdal</a></td>
+<td>6,973</td>
+<td>2,274.11</td>
+<td><span data-sort-value="Espnes, Geir Arild&#160;!">Geir Arild Espnes</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><a href="/wiki/Rennebu" title="Rennebu">Rennebu</a></td>
+<td>2,556</td>
+<td>947.97</td>
+<td><span data-sort-value="Oie, Ola&#160;!">Ola Øie</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><span data-sort-value="Roros&#160;!"><a href="/wiki/R%C3%B8ros" title="Røros">Røros</a></span></td>
+<td>5,623</td>
+<td>1,956.46</td>
+<td><span data-sort-value="Busch, Isak Veierud&#160;!">Isak Veierud Busch</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><span data-sort-value="Holtaalen&#160;!"><a href="/wiki/Holt%C3%A5len" title="Holtålen">Holtålen</a></span></td>
+<td>2,046</td>
+<td>1,209.50</td>
+<td><span data-sort-value="Hitterdal, Arve&#160;!">Arve Hitterdal</span></td>
+<td><a href="/wiki/Bygdelista" class="mw-redirect" title="Bygdelista">LL</a></td>
+<td><a href="/wiki/Midtre_Gauldal" title="Midtre Gauldal">Midtre Gauldal</a></td>
+<td>6,319</td>
+<td>1,860.51</td>
+<td><span data-sort-value="Moen, Sivert&#160;!">Sivert Moen</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><a href="/wiki/Melhus" title="Melhus">Melhus</a></td>
+<td>16,213</td>
+<td>694.40</td>
+<td><span data-sort-value="Jagtøyen, Jorid&#160;!">Jorid Jagtøyen</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><a href="/wiki/Skaun" title="Skaun">Skaun</a></td>
+<td>8,000</td>
+<td>224.21</td>
+<td><span data-sort-value="Stokke, Gunn Iversen&#160;!">Gunn Iversen Stokke</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><a href="/wiki/Malvik" title="Malvik">Malvik</a></td>
+<td>13,820</td>
+<td>168.44</td>
+<td><span data-sort-value="Hoseth, Trond&#160;!">Trond Hoseth</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Selbu" title="Selbu">Selbu</a></td>
+<td>4,098</td>
+<td>1,234.84</td>
+<td><span data-sort-value="Balstad, Ole Morten&#160;!">Ole Morten Balstad</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Tydal" title="Tydal">Tydal</a></td>
+<td>861</td>
+<td>1,329.21</td>
+<td><span data-sort-value="Kvello, Jens Arne&#160;!"><a href="/w/index.php?title=Kvello,_Jens_Arne&amp;action=edit&amp;redlink=1" class="new" title="Kvello, Jens Arne (page does not exist)">Kvello, Jens Arne</a></span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><span data-sort-value="Meraaker&#160;!"><a href="/wiki/Mer%C3%A5ker" title="Meråker">Meråker</a></span></td>
+<td>2,508</td>
+<td>1,273.42</td>
+<td><span data-sort-value="Kjenes, Kjersti&#160;!">Kjersti Kjenes</span></td>
+<td><a href="/wiki/Bygdelista" class="mw-redirect" title="Bygdelista">LL</a></td>
+<td><span data-sort-value="Stjordal&#160;!"><a href="/wiki/Stj%C3%B8rdal" title="Stjørdal">Stjørdal</a></span></td>
+<td>23,625</td>
+<td>938.28</td>
+<td><span data-sort-value="Vigdenes, Ivar&#160;!">Ivar Vigdenes</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><a href="/wiki/Frosta" title="Frosta">Frosta</a></td>
+<td>2,630</td>
+<td>76.32</td>
+<td><span data-sort-value="Revhaug, Frode&#160;!">Frode Revhaug</span></td>
+<td><a href="/wiki/Conservative_Party_(Norway)" title="Conservative Party (Norway)">H</a></td>
+<td><a href="/wiki/Levanger" title="Levanger">Levanger</a></td>
+<td>19,892</td>
+<td>645.80</td>
+<td><span data-sort-value="Sand, Anita Ravlo&#160;!">Anita Ravlo Sand</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><a href="/wiki/Verdal" title="Verdal">Verdal</a></td>
+<td>14,849</td>
+<td>1,547.78</td>
+<td><span data-sort-value="Fikse, Pål Sverre&#160;!">Pål Sverre Fikse</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><span data-sort-value="Snaasa&#160;!"><a href="/wiki/Sn%C3%A5sa" title="Snåsa">Snåsa</a><br /><span title="Southern Sami-language text"><i lang="sma"><a href="/wiki/Sn%C3%A5sa" title="Snåsa">Snåase</a></i></span></span></td>
+<td>2,159</td>
+<td>2,342.66</td>
+<td><span data-sort-value="Bardal, Arnt Einar&#160;!">Arnt Einar Bardal</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><a href="/wiki/Lierne" title="Lierne">Lierne</a></td>
+<td>1,389</td>
+<td>2,961.70</td>
+<td><span data-sort-value="Estil, Bente&#160;!">Bente Estil</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><span data-sort-value="Royrvik&#160;!"><a href="/wiki/R%C3%B8yrvik" title="Røyrvik">Røyrvik</a><br /><span title="Southern Sami-language text"><i lang="sma"><a href="/wiki/R%C3%B8yrvik" title="Røyrvik">Raarvihke</a></i></span></span></td>
+<td>469</td>
+<td>1,584.76</td>
+<td><span data-sort-value="Devik, Hans Oskar&#160;!">Hans Oskar Devik</span></td>
+<td><a href="/wiki/Bygdelista" class="mw-redirect" title="Bygdelista">LL</a></td>
+<td><a href="/wiki/Namsskogan" title="Namsskogan">Namsskogan</a></td>
+<td>872</td>
+<td>1,417.16</td>
+<td><span data-sort-value="Brekkvassmo, Stian&#160;!">Stian Brekkvassmo</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Grong" title="Grong">Grong</a></td>
+<td>2,467</td>
+<td>1,136.17</td>
+<td><span data-sort-value="Grande, Borgny&#160;!">Borgny Grande</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><span data-sort-value="Hoylandet&#160;!"><a href="/wiki/H%C3%B8ylandet" title="Høylandet">Høylandet</a></span></td>
+<td>1,264</td>
+<td>754.68</td>
+<td><span data-sort-value="Nordheim Viken, Hege&#160;!">Hege Nordheim-Viken</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><a href="/wiki/Overhalla" title="Overhalla">Overhalla</a></td>
+<td>3,840</td>
+<td>729.79</td>
+<td><span data-sort-value="Tyldum, Per Olav&#160;!"><a href="/wiki/Per_Olav_Tyldum" title="Per Olav Tyldum">Per Olav Tyldum</a></span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><a href="/wiki/Flatanger" title="Flatanger">Flatanger</a></td>
+<td>1,090</td>
+<td>458.71</td>
+<td><span data-sort-value="Bjorkaas, Olav Jorgen&#160;!">Olav Jørgen Bjørkås</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><a href="/wiki/Leka,_Norway" title="Leka, Norway">Leka</a></td>
+<td>584</td>
+<td>110.02</td>
+<td><span data-sort-value="Helmersen, Elisabeth&#160;!">Elisabeth Helmersen</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><span data-sort-value="Inderoy&#160;!"><a href="/wiki/Inder%C3%B8y" title="Inderøy">Inderøy</a></span></td>
+<td>6,800</td>
+<td>365.67</td>
+<td><span data-sort-value="Stuberg, Ida&#160;!">Ida Stuberg</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><a href="/wiki/Indre_Fosen" title="Indre Fosen">Indre Fosen</a></td>
+<td>10,108</td>
+<td>1,095.98</td>
+<td><span data-sort-value="Buhaug, Bjørnar&#160;!">Bjørnar Buhaug</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><a href="/wiki/Heim,_Norway" title="Heim, Norway">Heim</a></td>
+<td>5,963</td>
+<td>1,024.58</td>
+<td><span data-sort-value="Svanem, Odd Jarle&#160;!">Odd Jarle Svanem</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><a href="/wiki/Hitra" title="Hitra">Hitra</a></td>
+<td>4,659</td>
+<td>755.89</td>
+<td><span data-sort-value="Haugen, Ole&#160;!">Ole Haugen</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><span data-sort-value="Orland&#160;!"><a href="/wiki/%C3%98rland" title="Ørland">Ørland</a></span></td>
+<td>5,291</td>
+<td>457.07</td>
+<td><span data-sort-value="Myrvold, Tom&#160;!">Tom Myrvold</span></td>
+<td><a href="/wiki/Conservative_Party_(Norway)" title="Conservative Party (Norway)">H</a></td>
+<td><span data-sort-value="Aafjord&#160;!"><a href="/wiki/%C3%85fjord" title="Åfjord">Åfjord</a></span></td>
+<td>3,263</td>
+<td>1,329.42</td>
+<td><span data-sort-value="Stjern, Vibeke&#160;!">Vibeke Stjern</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Orkland" title="Orkland">Orkland</a></td>
+<td>11,891</td>
+<td>1,906.26</td>
+<td><span data-sort-value="Bang, Oddbjørn&#160;!">Oddbjørn Bang</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><span data-sort-value="Naroysund&#160;!"><a href="/wiki/N%C3%A6r%C3%B8ysund" title="Nærøysund">Nærøysund</a></span></td>
+<td>9,623</td>
+<td>1,346.16</td>
+<td><span data-sort-value="Hellesø, Amund&#160;!">Amund Hellesø</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Rindal" title="Rindal">Rindal</a></td>
+<td>2,026</td>
+<td>631.95</td>
+<td><span data-sort-value="Langli, Vibeke&#160;!">Vibeke Langli</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><span data-sort-value="Tromso&#160;!"><a href="/wiki/Troms%C3%B8" title="Tromsø">Tromsø</a></span></td>
+<td>74,541</td>
+<td>2,521.28</td>
+<td><span data-sort-value="Wilhelmsen, Gunnar&#160;!">Gunnar Wilhelmsen</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Harstad" title="Harstad">Harstad</a></td>
+<td>24,845</td>
+<td>445.17</td>
+<td><span data-sort-value="Opsal, Kari Anne&#160;!">Kari-Anne Opsal</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Alta,_Norway" title="Alta, Norway">Alta</a></td>
+<td>20,446</td>
+<td>3,849.47</td>
+<td>Monica Nielsen</td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><span data-sort-value="Vardo&#160;!"><a href="/wiki/Vard%C3%B8" title="Vardø">Vardø</a></span></td>
+<td>2,104</td>
+<td>600.61</td>
+<td><span data-sort-value="Jensen, Orjan&#160;!">Ørjan Jensen</span></td>
+<td><a href="/wiki/Green_Party_(Norway)" title="Green Party (Norway)">Mdg</a></td>
+<td><span data-sort-value="Vadso&#160;!"><a href="/wiki/Vads%C3%B8" title="Vadsø">Vadsø</a></span></td>
+<td>6,154</td>
+<td>1,257.84</td>
+<td><span data-sort-value="Pedersen, Wenche&#160;!">Wenche Pedersen</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Hammerfest" title="Hammerfest">Hammerfest</a></td>
+<td>10,527</td>
+<td>2,692.57</td>
+<td><span data-sort-value="Naess, Marianne Sivertsen&#160;!">Marianne Sivertsen Næss</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><span data-sort-value="Kvaefjord&#160;!"><a href="/wiki/Kv%C3%A6fjord" title="Kvæfjord">Kvæfjord</a></span></td>
+<td>2,986</td>
+<td>512.58</td>
+<td><span data-sort-value="Larsen, Torbjorn&#160;!">Torbjørn Larsen</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Tjeldsund" title="Tjeldsund">Tjeldsund</a></td>
+<td>4,243</td>
+<td>319.26</td>
+<td><span data-sort-value="Nilsen, Helene Berg&#160;!">Helene Berg Nilsen</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Ibestad" title="Ibestad">Ibestad</a></td>
+<td>1,394</td>
+<td>241.06</td>
+<td><span data-sort-value="Brustind, Dag&#160;!">Dag Brustind</span></td>
+<td><a href="/wiki/Conservative_Party_(Norway)" title="Conservative Party (Norway)">H</a></td>
+<td><a href="/wiki/Gratangen" title="Gratangen">Gratangen</a></td>
+<td>1,121</td>
+<td>312.74</td>
+<td><span data-sort-value="Karlsen, Anita&#160;!">Anita Karlsen</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><span data-sort-value="Lavangen&#160;!"><a href="/wiki/Lavangen" title="Lavangen">Lavangen</a><br /><span title="Northern Sami-language text"><i lang="se"><a href="/wiki/Lavangen" title="Lavangen">Loabák</a></i></span></span></td>
+<td>1,076</td>
+<td>301.64</td>
+<td><span data-sort-value="Rollmoen, Hege Beate&#160;!">Hege Beate Rollmoen</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Bardu" title="Bardu">Bardu</a></td>
+<td>3,994</td>
+<td>2,703.88</td>
+<td><span data-sort-value="Heimdal, Toralf&#160;!">Toralf Heimdal</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><a href="/wiki/Salangen" title="Salangen">Salangen</a></td>
+<td>2,220</td>
+<td>457.88</td>
+<td><span data-sort-value="Prestbakmo, Sigrun&#160;!">Sigrun W. Prestbakmo</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><span data-sort-value="Maalselv&#160;!"><a href="/wiki/M%C3%A5lselv" title="Målselv">Målselv</a></span></td>
+<td>6,781</td>
+<td>3,326.21</td>
+<td><span data-sort-value="Luneng, Bengt Magne&#160;!">Bengt-Magne Luneng</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><span data-sort-value="Sorreisa&#160;!"><a href="/wiki/S%C3%B8rreisa" title="Sørreisa">Sørreisa</a></span></td>
+<td>3,496</td>
+<td>361.17</td>
+<td><span data-sort-value="Nordahl, Jan Eirik&#160;!">Jan-Eirik Nordahl</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><span data-sort-value="Dyroy&#160;!"><a href="/wiki/Dyr%C3%B8y" title="Dyrøy">Dyrøy</a></span></td>
+<td>1,138</td>
+<td>288.54</td>
+<td><span data-sort-value="Espenes, Marit Alvig&#160;!">Marit Alvig Espenes</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Senja_(municipality)" title="Senja (municipality)">Senja</a></td>
+<td>14,930</td>
+<td>1,953.81</td>
+<td><span data-sort-value="Eliseussen, Tom Rune&#160;!">Tom Rune Eliseussen</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><a href="/wiki/Balsfjord" title="Balsfjord">Balsfjord</a></td>
+<td>5,685</td>
+<td>1,496.91</td>
+<td><span data-sort-value="Johansen, Gunda&#160;!"><a href="/wiki/Gunda_Johansen" title="Gunda Johansen">Gunda Johansen</a></span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><span data-sort-value="Karlsoy&#160;!"><a href="/wiki/Karls%C3%B8y" title="Karlsøy">Karlsøy</a></span></td>
+<td>2,273</td>
+<td>1,091.59</td>
+<td><span data-sort-value="Pedersen, Mona&#160;!">Mona Pedersen</span></td>
+<td><a href="/wiki/Bygdeliste" title="Bygdeliste">LL</a></td>
+<td><a href="/wiki/Lyngen" title="Lyngen">Lyngen</a></td>
+<td>2,876</td>
+<td>812.56</td>
+<td><span data-sort-value="Johnsen, Dan Haavard&#160;!">Dan Håvard Johnsen</span></td>
+<td><a href="/wiki/Bygdeliste" title="Bygdeliste">LL</a></td>
+<td><span data-sort-value="Storfjord&#160;!"><a href="/wiki/Storfjord" title="Storfjord">Storfjord</a><br /><span title="Northern Sami-language text"><i lang="se"><a href="/wiki/Storfjord" title="Storfjord">Omasvuotna</a></i></span><br /><span title="Kven-language text"><i lang="fkv"><a href="/wiki/Storfjord" title="Storfjord">Omasvuono</a></i></span></span></td>
+<td>1,890</td>
+<td>1,542.83</td>
+<td><span data-sort-value="Varvik, Geir&#160;!">Geir Varvik</span></td>
+<td><a href="/wiki/Conservative_Party_(Norway)" title="Conservative Party (Norway)">H</a></td>
+<td><span data-sort-value="Kaafjord&#160;!"><a href="/wiki/G%C3%A1ivuotna_%E2%80%93_K%C3%A5fjord_%E2%80%93_Kaivuono" title="Gáivuotna – Kåfjord – Kaivuono">Kåfjord</a><br /><span title="Northern Sami-language text"><i lang="se"><a href="/wiki/G%C3%A1ivuotna_%E2%80%93_K%C3%A5fjord_%E2%80%93_Kaivuono" title="Gáivuotna – Kåfjord – Kaivuono">Gáivuotna</a></i></span><br /><span title="Kven-language text"><i lang="fkv"><a href="/wiki/G%C3%A1ivuotna_%E2%80%93_K%C3%A5fjord_%E2%80%93_Kaivuono" title="Gáivuotna – Kåfjord – Kaivuono">Kaivuono</a></i></span></span></td>
+<td>2,132</td>
+<td>991.18</td>
+<td><span data-sort-value="Lyngstad, Bernt E. Isaksen&#160;!">Bernt E. Isaksen Lyngstad</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><span data-sort-value="Skjervoy&#160;!"><a href="/wiki/Skjerv%C3%B8y" title="Skjervøy">Skjervøy</a></span></td>
+<td>2,912</td>
+<td>473.70</td>
+<td><span data-sort-value="Albrigtsen, Orjan&#160;!">Ørjan Albrigtsen</span></td>
+<td><a href="/wiki/Christian_Democratic_Party_(Norway)" title="Christian Democratic Party (Norway)">KrF</a></td>
+<td><a href="/wiki/Nordreisa" title="Nordreisa">Nordreisa</a></td>
+<td>4,919</td>
+<td>3,437.46</td>
+<td><span data-sort-value="Nyvoll, Hilde Anita&#160;!">Hilde Anita Nyvoll</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><span data-sort-value="Kvaenangen&#160;!"><a href="/wiki/Kv%C3%A6nangen" title="Kvænangen">Kvænangen</a></span></td>
+<td>1,233</td>
+<td>2,109.48</td>
+<td><span data-sort-value="Mevik, Eirik Losnegaard&#160;!">Eirik Losnegaard Mevik</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><span data-sort-value="Kautokeino&#160;!"><a href="/wiki/Kautokeino" title="Kautokeino">Kautokeino</a><br /><span title="Northern Sami-language text"><i lang="se"><a href="/wiki/Kautokeino" title="Kautokeino">Guovdageaidnu</a></i></span></span></td>
+<td>2,938</td>
+<td>9,707.33</td>
+<td><span data-sort-value="Olsen, Hans Isak&#160;!">Hans Isak Olsen</span></td>
+<td><a href="/wiki/Bygdeliste" title="Bygdeliste">LL</a></td>
+<td><a href="/wiki/Loppa" title="Loppa">Loppa</a></td>
+<td>968</td>
+<td>688.87</td>
+<td><span data-sort-value="Thomassen, Stein&#160;!">Stein Thomassen</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Hasvik" title="Hasvik">Hasvik</a></td>
+<td>1,037</td>
+<td>555.56</td>
+<td><span data-sort-value="Husby, Eva D.&#160;!">Eva D. Husby</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><span data-sort-value="Maasoy&#160;!"><a href="/wiki/M%C3%A5s%C3%B8y" title="Måsøy">Måsøy</a></span></td>
+<td>1,204</td>
+<td>1,135.82</td>
+<td><span data-sort-value="Sjursen, Bernth R.&#160;!">Bernth R. Sjursen</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Nordkapp" title="Nordkapp">Nordkapp</a></td>
+<td>3,276</td>
+<td>925.70</td>
+<td><span data-sort-value="Olsen, Jan&#160;!">Jan Olsen</span></td>
+<td><a href="/wiki/Socialist_Left_Party_(Norway)" title="Socialist Left Party (Norway)">SV</a></td>
+<td><span data-sort-value="Porsanger&#160;!"><a href="/wiki/Porsanger" title="Porsanger">Porsanger</a><br /><span title="Northern Sami-language text"><i lang="se"><a href="/wiki/Porsanger" title="Porsanger">Porsáŋgu</a></i></span><br /><span title="Kven-language text"><i lang="fkv"><a href="/wiki/Porsanger" title="Porsanger">Porsanki</a></i></span></span></td>
+<td>3,971</td>
+<td>4,872.58</td>
+<td><span data-sort-value="Borch, Aina&#160;!">Aina Borch</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><span data-sort-value="Karasjok&#160;!"><a href="/wiki/Karasjok" title="Karasjok">Karasjok</a><br /><span title="Northern Sami-language text"><i lang="se"><a href="/wiki/Karasjok" title="Karasjok">Kárášjohka</a></i></span></span></td>
+<td>2,696</td>
+<td>5,452.95</td>
+<td><span data-sort-value="Somby, Svein Atle&#160;!">Svein Atle Somby</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Lebesby" title="Lebesby">Lebesby</a></td>
+<td>1,330</td>
+<td>3,459.41</td>
+<td><span data-sort-value="Rafaelsen, Sigurd Kvammen&#160;!">Sigurd Kvammen Rafaelsen</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><a href="/wiki/Gamvik" title="Gamvik">Gamvik</a></td>
+<td>1,137</td>
+<td>1416.34</td>
+<td><span data-sort-value="Hansen, Alf N.&#160;!">Alf N. Hansen</span></td>
+<td><a href="/wiki/Socialist_Left_Party_(Norway)" title="Socialist Left Party (Norway)">SV</a></td>
+<td><span data-sort-value="Berlevaag&#160;!"><a href="/wiki/Berlev%C3%A5g" title="Berlevåg">Berlevåg</a></span></td>
+<td>991</td>
+<td>1121.78</td>
+<td><span data-sort-value="Laupstad, Rolf&#160;!">Rolf Laupstad</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><span data-sort-value="Tana&#160;!"><a href="/wiki/Tana,_Norway" title="Tana, Norway">Tana</a><br /><span title="Northern Sami-language text"><i lang="se"><a href="/wiki/Tana,_Norway" title="Tana, Norway">Deatnu</a></i></span></span></td>
+<td>2,911</td>
+<td>4,051.35</td>
+<td><span data-sort-value="Pedersen, Helga&#160;!"><a href="/wiki/Helga_Pedersen_(Norway)" title="Helga Pedersen (Norway)">Helga Pedersen</a></span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><span data-sort-value="Nesseby&#160;!"><a href="/wiki/Nesseby" title="Nesseby">Nesseby</a><br /><span title="Northern Sami-language text"><i lang="se"><a href="/wiki/Nesseby" title="Nesseby">Unjárga</a></i></span></span></td>
+<td>951</td>
+<td>1,434.72</td>
+<td><span data-sort-value="Store, Knut Inge&#160;!">Knut Inge Store</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>
+<td><span data-sort-value="Baatsfjord&#160;!"><a href="/wiki/B%C3%A5tsfjord" title="Båtsfjord">Båtsfjord</a></span></td>
+<td>2,267</td>
+<td>1,434.72</td>
+<td><span data-sort-value="Waernes, Ronald&#160;!">Ronald Wærnes</span></td>
+<td><a href="/wiki/Centre_Party_(Norway)" title="Centre Party (Norway)">Sp</a></td>
+<td><span data-sort-value="Sor-Varanger&#160;!"><a href="/wiki/S%C3%B8r-Varanger" title="Sør-Varanger">Sør-Varanger</a></span></td>
+<td>10,199</td>
+<td>3,971.58</td>
+<td><span data-sort-value="Rafaelsen, Rune&#160;!">Rune Rafaelsen</span></td>
+<td><a href="/wiki/Labour_Party_(Norway)" title="Labour Party (Norway)">Ap</a></td>

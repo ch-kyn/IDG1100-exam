@@ -1,0 +1,356 @@
+https://en.wikipedia.org/wiki/Oslo	Oslo	Oslo	702,543
+https://en.wikipedia.org/wiki/Eigersund	Eigersund	Rogaland	14,860
+https://en.wikipedia.org/wiki/Stavanger	Stavanger	Rogaland	144,515
+https://en.wikipedia.org/wiki/Haugesund	Haugesund	Rogaland	37,444
+https://en.wikipedia.org/wiki/Sandnes	Sandnes	Rogaland	81,305
+https://en.wikipedia.org/wiki/Sokndal	Sokndal	Rogaland	3,281
+https://en.wikipedia.org/wiki/Lund,_Norway	Lund	Rogaland	3,178
+https://en.wikipedia.org/wiki/Bjerkreim	Bjerkreim	Rogaland	2,789
+https://en.wikipedia.org/wiki/H%C3%A5	Hå	Rogaland	19,296
+https://en.wikipedia.org/wiki/Klepp	Klepp	Rogaland	20,163
+https://en.wikipedia.org/wiki/Time,_Norway	Time	Rogaland	19,353
+https://en.wikipedia.org/wiki/Gjesdal	Gjesdal	Rogaland	12,131
+https://en.wikipedia.org/wiki/Sola,_Norway	Sola	Rogaland	27,568
+https://en.wikipedia.org/wiki/Randaberg	Randaberg	Rogaland	11,454
+https://en.wikipedia.org/wiki/Strand,_Norway	Strand	Rogaland	13,268
+https://en.wikipedia.org/wiki/Hjelmeland	Hjelmeland	Rogaland	2,534
+https://en.wikipedia.org/wiki/Suldal	Suldal	Rogaland	3,784
+https://en.wikipedia.org/wiki/Sauda	Sauda	Rogaland	4,525
+https://en.wikipedia.org/wiki/Kvits%C3%B8y	Kvitsøy	Rogaland	523
+https://en.wikipedia.org/wiki/Bokn	Bokn	Rogaland	855
+https://en.wikipedia.org/wiki/Tysv%C3%A6r	Tysvær	Rogaland	11,283
+https://en.wikipedia.org/wiki/Karm%C3%B8y	Karmøy	Rogaland	42,541
+https://en.wikipedia.org/wiki/Utsira	Utsira	Rogaland	188
+https://en.wikipedia.org/wiki/Vindafjord	Vindafjord	Rogaland	8,775
+https://en.wikipedia.org/wiki/Kristiansund	Kristiansund	Møre og Romsdal	24,442
+https://en.wikipedia.org/wiki/Molde	Molde	Møre og Romsdal	26,822
+https://en.wikipedia.org/wiki/%C3%85lesund	Ålesund	Møre og Romsdal	66,258
+https://en.wikipedia.org/wiki/Vanylven	Vanylven	Møre og Romsdal	3,203
+https://en.wikipedia.org/wiki/Sande,_M%C3%B8re_og_Romsdal	Sande	Møre og Romsdal	2,540
+https://en.wikipedia.org/wiki/Her%C3%B8y,_M%C3%B8re_og_Romsdal	Herøy	Møre og Romsdal	8,957
+https://en.wikipedia.org/wiki/Ulstein	Ulstein	Møre og Romsdal	8,457
+https://en.wikipedia.org/wiki/Hareid	Hareid	Møre og Romsdal	5,185
+https://en.wikipedia.org/wiki/%C3%98rsta	Ørsta	Møre og Romsdal	10,744
+https://en.wikipedia.org/wiki/Stranda	Stranda	Møre og Romsdal	4,623
+https://en.wikipedia.org/wiki/Sykkylven	Sykkylven	Møre og Romsdal	7,695
+https://en.wikipedia.org/wiki/Sula,_M%C3%B8re_og_Romsdal	Sula	Møre og Romsdal	9,007
+https://en.wikipedia.org/wiki/Giske	Giske	Møre og Romsdal	8,176
+https://en.wikipedia.org/wiki/Vestnes	Vestnes	Møre og Romsdal	6,577
+https://en.wikipedia.org/wiki/Rauma,_Norway	Rauma	Møre og Romsdal	7,503
+https://en.wikipedia.org/wiki/Aukra	Aukra	Møre og Romsdal	3,547
+https://en.wikipedia.org/wiki/Aver%C3%B8y	Averøy	Møre og Romsdal	5,856
+https://en.wikipedia.org/wiki/Gjemnes	Gjemnes	Møre og Romsdal	2,611
+https://en.wikipedia.org/wiki/Tingvoll	Tingvoll	Møre og Romsdal	3,109
+https://en.wikipedia.org/wiki/Sunndal	Sunndal	Møre og Romsdal	7,126
+https://en.wikipedia.org/wiki/Surnadal	Surnadal	Møre og Romsdal	5,986
+https://en.wikipedia.org/wiki/Sm%C3%B8la	Smøla	Møre og Romsdal	2,160
+https://en.wikipedia.org/wiki/Aure,_Norway	Aure	Møre og Romsdal	3,590
+https://en.wikipedia.org/wiki/Volda	Volda	Møre og Romsdal	9,102
+https://en.wikipedia.org/wiki/Fjord_(municipality)	Fjord	Møre og Romsdal	2,642
+https://en.wikipedia.org/wiki/Hustadvika_(municipality)	Hustadvika	Møre og Romsdal	13,215
+https://en.wikipedia.org/wiki/Bod%C3%B8	Bodø	Nordland	51,022
+https://en.wikipedia.org/wiki/Narvik	Narvik	Nordland	18,756
+https://en.wikipedia.org/wiki/Bindal	Bindal	Nordland	1,473
+https://en.wikipedia.org/wiki/S%C3%B8mna	Sømna	Nordland	2,047
+https://en.wikipedia.org/wiki/Br%C3%B8nn%C3%B8y	Brønnøy	Nordland	7,956
+https://en.wikipedia.org/wiki/Vega,_Norway	Vega	Nordland	1,234
+https://en.wikipedia.org/wiki/Vevelstad	Vevelstad	Nordland	528
+https://en.wikipedia.org/wiki/Her%C3%B8y,_Nordland	Herøy	Nordland	1,788
+https://en.wikipedia.org/wiki/Alstahaug	Alstahaug	Nordland	7,428
+https://en.wikipedia.org/wiki/Leirfjord	Leirfjord	Nordland	2,278
+https://en.wikipedia.org/wiki/Vefsn	Vefsn	Nordland	13,465
+https://en.wikipedia.org/wiki/Grane,_Nordland	Grane	Nordland	1,469
+https://en.wikipedia.org/wiki/Hattfjelldal	Hattfjelldal	Nordland	1,414
+https://en.wikipedia.org/wiki/D%C3%B8nna	Dønna	Nordland	1,410
+https://en.wikipedia.org/wiki/Nesna	Nesna	Nordland	1,837
+https://en.wikipedia.org/wiki/Hemnes	Hemnes	Nordland	4,524
+https://en.wikipedia.org/wiki/Rana,_Norway	Rana	Nordland	26,101
+https://en.wikipedia.org/wiki/Lur%C3%B8y	Lurøy	Nordland	1,920
+https://en.wikipedia.org/wiki/Tr%C3%A6na	Træna	Nordland	465
+https://en.wikipedia.org/wiki/R%C3%B8d%C3%B8y	Rødøy	Nordland	1,267
+https://en.wikipedia.org/wiki/Mel%C3%B8y	Meløy	Nordland	6,435
+https://en.wikipedia.org/wiki/Gildesk%C3%A5l	Gildeskål	Nordland	2,024
+https://en.wikipedia.org/wiki/Beiarn	Beiarn	Nordland	1,043
+https://en.wikipedia.org/wiki/Saltdal	Saltdal	Nordland	4,702
+https://en.wikipedia.org/wiki/Fauske	Fauske	Nordland	9,729
+https://en.wikipedia.org/wiki/S%C3%B8rfold	Sørfold	Nordland	1,958
+https://en.wikipedia.org/wiki/Steigen	Steigen	Nordland	2,543
+https://en.wikipedia.org/wiki/L%C3%B8dingen	Lødingen	Nordland	2,134
+https://en.wikipedia.org/wiki/Evenes	Evenes	Nordland	1,402
+https://en.wikipedia.org/wiki/R%C3%B8st	Røst	Nordland	535
+https://en.wikipedia.org/wiki/V%C3%A6r%C3%B8y	Værøy	Nordland	744
+https://en.wikipedia.org/wiki/Flakstad	Flakstad	Nordland	1,349
+https://en.wikipedia.org/wiki/Vestv%C3%A5g%C3%B8y	Vestvågøy	Nordland	11,294
+https://en.wikipedia.org/wiki/V%C3%A5gan	Vågan	Nordland	9,444
+https://en.wikipedia.org/wiki/Hadsel	Hadsel	Nordland	8,009
+https://en.wikipedia.org/wiki/B%C3%B8,_Nordland	Bø	Nordland	2,624
+https://en.wikipedia.org/wiki/%C3%98ksnes	Øksnes	Nordland	4,580
+https://en.wikipedia.org/wiki/Sortland	Sortland	Nordland	10,378
+https://en.wikipedia.org/wiki/And%C3%B8y	Andøy	Nordland	4,908
+https://en.wikipedia.org/wiki/Moskenes	Moskenes	Nordland	1,073
+https://en.wikipedia.org/wiki/Hamar%C3%B8y	Hamarøy	Nordland	1,810
+https://en.wikipedia.org/wiki/Halden	Halden	Viken	31,444
+https://en.wikipedia.org/wiki/Moss,_Norway	Moss	Viken	50,290
+https://en.wikipedia.org/wiki/Sarpsborg	Sarpsborg	Viken	58,182
+https://en.wikipedia.org/wiki/Fredrikstad	Fredrikstad	Viken	83,892
+https://en.wikipedia.org/wiki/Drammen	Drammen	Viken	102,449
+https://en.wikipedia.org/wiki/Kongsberg	Kongsberg	Viken	27,879
+https://en.wikipedia.org/wiki/Ringerike_(municipality)	Ringerike	Viken	31 011
+https://en.wikipedia.org/wiki/Hvaler	Hvaler	Viken	4,741
+https://en.wikipedia.org/wiki/Aremark	Aremark	Viken	1 315
+https://en.wikipedia.org/wiki/Marker,_Norway	Marker	Viken	3,578
+https://en.wikipedia.org/wiki/Indre_%C3%98stfold_municipality	Indre Østfold	Viken	45,608
+https://en.wikipedia.org/wiki/Skiptvet	Skiptvet	Viken	3,846
+https://en.wikipedia.org/wiki/Rakkestad	Rakkestad	Viken	8,312
+https://en.wikipedia.org/wiki/R%C3%A5de	Råde	Viken	7,633
+https://en.wikipedia.org/wiki/V%C3%A5ler,_%C3%98stfold	Våler	Viken	5,913
+https://en.wikipedia.org/wiki/Vestby	Vestby	Viken	18,699
+https://en.wikipedia.org/wiki/Nordre_Follo	Nordre Follo	Viken	61,032
+https://en.wikipedia.org/wiki/%C3%85s,_Akershus	Ås	Viken	20,780
+https://en.wikipedia.org/wiki/Frogn	Frogn	Viken	16,084
+https://en.wikipedia.org/wiki/Nesodden	Nesodden	Viken	19,939
+https://en.wikipedia.org/wiki/B%C3%A6rum	Bærum	Viken	129,073
+https://en.wikipedia.org/wiki/Asker	Asker	Viken	96,088
+https://en.wikipedia.org/wiki/Aurskog-H%C3%B8land	Aurskog-Høland	Viken	17,754
+https://en.wikipedia.org/wiki/R%C3%A6lingen	Rælingen	Viken	19,024
+https://en.wikipedia.org/wiki/Enebakk	Enebakk	Viken	11,249
+https://en.wikipedia.org/wiki/L%C3%B8renskog	Lørenskog	Viken	44,693
+https://en.wikipedia.org/wiki/Lillestr%C3%B8m	Lillestrøm	Viken	89,095
+https://en.wikipedia.org/wiki/Nittedal	Nittedal	Viken	24,947
+https://en.wikipedia.org/wiki/Gjerdrum	Gjerdrum	Viken	6,989
+https://en.wikipedia.org/wiki/Ullensaker	Ullensaker	Viken	41,565
+https://en.wikipedia.org/wiki/Nes,_Akershus	Nes	Viken	23,898
+https://en.wikipedia.org/wiki/Eidsvoll	Eidsvoll	Viken	26,716
+https://en.wikipedia.org/wiki/Nannestad	Nannestad	Viken	15,074
+https://en.wikipedia.org/wiki/Hurdal	Hurdal	Viken	2,905
+https://en.wikipedia.org/wiki/Hole,_Norway	Hole	Viken	6,859
+https://en.wikipedia.org/wiki/Fl%C3%A5	Flå	Viken	1,057
+https://en.wikipedia.org/wiki/Nesbyen_(municipality)	Nesbyen	Viken	3,273
+https://en.wikipedia.org/wiki/Gol,_Norway	Gol	Viken	4,667
+https://en.wikipedia.org/wiki/Hemsedal	Hemsedal	Viken	2,611
+https://en.wikipedia.org/wiki/%C3%85l	Ål	Viken	4,719
+https://en.wikipedia.org/wiki/Hol	Hol	Viken	4,504
+https://en.wikipedia.org/wiki/Sigdal	Sigdal	Viken	3,502
+https://en.wikipedia.org/wiki/Kr%C3%B8dsherad	Krødsherad	Viken	2 189
+https://en.wikipedia.org/wiki/Modum	Modum	Viken	14,273
+https://en.wikipedia.org/wiki/%C3%98vre_Eiker	Øvre Eiker	Viken	20,044
+https://en.wikipedia.org/wiki/Lier,_Norway	Lier	Viken	27,584
+https://en.wikipedia.org/wiki/Flesberg	Flesberg	Viken	2,720
+https://en.wikipedia.org/wiki/Rollag	Rollag	Viken	1,370
+https://en.wikipedia.org/wiki/Nore_og_Uvdal	Nore og Uvdal	Viken	2,455
+https://en.wikipedia.org/wiki/Jevnaker	Jevnaker	Viken	6,908
+https://en.wikipedia.org/wiki/Lunner	Lunner	Viken	9,144
+https://en.wikipedia.org/wiki/Kongsvinger	Kongsvinger	Innlandet	17,857
+https://en.wikipedia.org/wiki/Hamar_Municipality	Hamar	Innlandet	30,598
+https://en.wikipedia.org/wiki/Lillehammer	Lillehammer	Innlandet	27,781
+https://en.wikipedia.org/wiki/Gj%C3%B8vik	Gjøvik	Innlandet	30,319
+https://en.wikipedia.org/wiki/Ringsaker	Ringsaker	Innlandet	33,842
+https://en.wikipedia.org/wiki/L%C3%B8ten	Løten	Innlandet	7,633
+https://en.wikipedia.org/wiki/Stange	Stange	Innlandet	20,317
+https://en.wikipedia.org/wiki/Nord-Odal	Nord-Odal	Innlandet	5,100
+https://en.wikipedia.org/wiki/S%C3%B8r-Odal	Sør-Odal	Innlandet	7,866
+https://en.wikipedia.org/wiki/Eidskog	Eidskog	Innlandet	6,127
+https://en.wikipedia.org/wiki/Grue,_Norway	Grue	Innlandet	4,777
+https://en.wikipedia.org/wiki/%C3%85snes	Åsnes	Innlandet	7,329
+https://en.wikipedia.org/wiki/V%C3%A5ler,_Hedmark	Våler	Innlandet	3,743
+https://en.wikipedia.org/wiki/Elverum	Elverum	Innlandet	21,086
+https://en.wikipedia.org/wiki/Trysil	Trysil	Innlandet	6,550
+https://en.wikipedia.org/wiki/%C3%85mot	Åmot	Innlandet	4,518
+https://en.wikipedia.org/wiki/Stor-Elvdal	Stor-Elvdal	Innlandet	2,530
+https://en.wikipedia.org/wiki/Rendalen	Rendalen	Innlandet	1,858
+https://en.wikipedia.org/wiki/Engerdal	Engerdal	Innlandet	1,274
+https://en.wikipedia.org/wiki/Tolga,_Norway	Tolga	Innlandet	1,620
+https://en.wikipedia.org/wiki/Tynset	Tynset	Innlandet	5,584
+https://en.wikipedia.org/wiki/Alvdal	Alvdal	Innlandet	2,441
+https://en.wikipedia.org/wiki/Folldal	Folldal	Innlandet	1,577
+https://en.wikipedia.org/wiki/Os,_Innlandet	Os	Innlandet	1,963
+https://en.wikipedia.org/wiki/Dovre	Dovre	Innlandet	2,675
+https://en.wikipedia.org/wiki/Lesja	Lesja	Innlandet	2,048
+https://en.wikipedia.org/wiki/Skj%C3%A5k	Skjåk	Innlandet	2,202
+https://en.wikipedia.org/wiki/Lom,_Norway	Lom	Innlandet	2,360
+https://en.wikipedia.org/wiki/V%C3%A5g%C3%A5	Vågå	Innlandet	3,640
+https://en.wikipedia.org/wiki/Nord-Fron	Nord-Fron	Innlandet	5,723
+https://en.wikipedia.org/wiki/Sel	Sel	Innlandet	5,916
+https://en.wikipedia.org/wiki/S%C3%B8r-Fron	Sør-Fron	Innlandet	3,163
+https://en.wikipedia.org/wiki/Ringebu	Ringebu	Innlandet	4,502
+https://en.wikipedia.org/wiki/%C3%98yer	Øyer	Innlandet	5,082
+https://en.wikipedia.org/wiki/Gausdal	Gausdal	Innlandet	6,204
+https://en.wikipedia.org/wiki/%C3%98stre_Toten	Østre Toten	Innlandet	14,887
+https://en.wikipedia.org/wiki/Vestre_Toten	Vestre Toten	Innlandet	13,179
+https://en.wikipedia.org/wiki/Gran,_Norway	Gran	Innlandet	13,707
+https://en.wikipedia.org/wiki/S%C3%B8ndre_Land	Søndre Land	Innlandet	5,717
+https://en.wikipedia.org/wiki/Nordre_Land	Nordre Land	Innlandet	6,773
+https://en.wikipedia.org/wiki/S%C3%B8r-Aurdal	Sør-Aurdal	Innlandet	3,026
+https://en.wikipedia.org/wiki/Etnedal	Etnedal	Innlandet	1,351
+https://en.wikipedia.org/wiki/Nord-Aurdal	Nord-Aurdal	Innlandet	6,490
+https://en.wikipedia.org/wiki/Vestre_Slidre	Vestre Slidre	Innlandet	2,114
+https://en.wikipedia.org/wiki/%C3%98ystre_Slidre	Øystre Slidre	Innlandet	3,248
+https://en.wikipedia.org/wiki/Vang,_Innlandet	Vang	Innlandet	1,596
+https://en.wikipedia.org/wiki/Horten	Horten	Vestfold og Telemark	27,202
+https://en.wikipedia.org/wiki/Holmestrand	Holmestrand	Vestfold og Telemark	14,037
+https://en.wikipedia.org/wiki/T%C3%B8nsberg	Tønsberg	Vestfold og Telemark	44,922
+https://en.wikipedia.org/wiki/Sandefjord	Sandefjord	Vestfold og Telemark	62,019
+https://en.wikipedia.org/wiki/Larvik	Larvik	Vestfold og Telemark	46,557
+https://en.wikipedia.org/wiki/Porsgrunn	Porsgrunn	Vestfold og Telemark	36,198
+https://en.wikipedia.org/wiki/Skien	Skien	Vestfold og Telemark	54,316
+https://en.wikipedia.org/wiki/Notodden	Notodden	Vestfold og Telemark	12,757
+https://en.wikipedia.org/wiki/F%C3%A6rder	Færder	Vestfold og Telemark	26,676
+https://en.wikipedia.org/wiki/Siljan,_Norway	Siljan	Vestfold og Telemark	2,357
+https://en.wikipedia.org/wiki/Bamble	Bamble	Vestfold og Telemark	14,138
+https://en.wikipedia.org/wiki/Krager%C3%B8	Kragerø	Vestfold og Telemark	10,586
+https://en.wikipedia.org/wiki/Drangedal	Drangedal	Vestfold og Telemark	4,148
+https://en.wikipedia.org/wiki/Nome,_Norway	Nome	Vestfold og Telemark	6,585
+https://en.wikipedia.org/wiki/Midt-Telemark_(municipality)	Midt-Telemark	Vestfold og Telemark	10,439
+https://en.wikipedia.org/wiki/Tinn	Tinn	Vestfold og Telemark	5,894
+https://en.wikipedia.org/wiki/Hjartdal	Hjartdal	Vestfold og Telemark	1,593
+https://en.wikipedia.org/wiki/Seljord	Seljord	Vestfold og Telemark	2,979
+https://en.wikipedia.org/wiki/Kviteseid	Kviteseid	Vestfold og Telemark	2,442
+https://en.wikipedia.org/wiki/Nissedal	Nissedal	Vestfold og Telemark	1,476
+https://en.wikipedia.org/wiki/Fyresdal	Fyresdal	Vestfold og Telemark	1,319
+https://en.wikipedia.org/wiki/Tokke	Tokke	Vestfold og Telemark	2,228
+https://en.wikipedia.org/wiki/Vinje	Vinje	Vestfold og Telemark	3,726
+https://en.wikipedia.org/wiki/Ris%C3%B8r	Risør	Agder	6,935
+https://en.wikipedia.org/wiki/Grimstad	Grimstad	Agder	22,692
+https://en.wikipedia.org/wiki/Arendal	Arendal	Agder	44,576
+https://en.wikipedia.org/wiki/Kristiansand	Kristiansand	Agder	113,920
+https://en.wikipedia.org/wiki/Lindesnes	Lindesnes	Agder	23,025
+https://en.wikipedia.org/wiki/Farsund	Farsund	Agder	9,769
+https://en.wikipedia.org/wiki/Flekkefjord	Flekkefjord	Agder	9,090
+https://en.wikipedia.org/wiki/Gjerstad	Gjerstad	Agder	2,511
+https://en.wikipedia.org/wiki/Veg%C3%A5rshei	Vegårshei	Agder	2,104
+https://en.wikipedia.org/wiki/Tvedestrand	Tvedestrand	Agder	6,051
+https://en.wikipedia.org/wiki/Froland	Froland	Agder	5,713
+https://en.wikipedia.org/wiki/Lillesand	Lillesand	Agder	10,702
+https://en.wikipedia.org/wiki/Birkenes	Birkenes	Agder	5,178
+https://en.wikipedia.org/wiki/%C3%85mli	Åmli	Agder	1,856
+https://en.wikipedia.org/wiki/Iveland	Iveland	Agder	1,342
+https://en.wikipedia.org/wiki/Evje_og_Hornnes	Evje og Hornnes	Agder	3,614
+https://en.wikipedia.org/wiki/Bygland	Bygland	Agder	1,200
+https://en.wikipedia.org/wiki/Valle,_Norway	Valle	Agder	1,246
+https://en.wikipedia.org/wiki/Bykle	Bykle	Agder	952
+https://en.wikipedia.org/wiki/Vennesla	Vennesla	Agder	14,425
+https://en.wikipedia.org/wiki/%C3%85seral	Åseral	Agder	937
+https://en.wikipedia.org/wiki/Lyngdal	Lyngdal	Agder	10,368
+https://en.wikipedia.org/wiki/H%C3%A6gebostad	Hægebostad	Agder	1,702
+https://en.wikipedia.org/wiki/Kvinesdal	Kvinesdal	Agder	5,988
+https://en.wikipedia.org/wiki/Sirdal	Sirdal	Agder	1,836
+https://en.wikipedia.org/wiki/Bergen	Bergen	Vestland	287,428
+https://en.wikipedia.org/wiki/Kinn	Kinn	Vestland	17,131
+https://en.wikipedia.org/wiki/Etne	Etne	Vestland	4,043
+https://en.wikipedia.org/wiki/Sveio	Sveio	Vestland	5,775
+https://en.wikipedia.org/wiki/B%C3%B8mlo	Bømlo	Vestland	12,061
+https://en.wikipedia.org/wiki/Stord	Stord	Vestland	18,919
+https://en.wikipedia.org/wiki/Fitjar	Fitjar	Vestland	3,117
+https://en.wikipedia.org/wiki/Tysnes	Tysnes	Vestland	2,883
+https://en.wikipedia.org/wiki/Kvinnherad	Kvinnherad	Vestland	13,017
+https://en.wikipedia.org/wiki/Ullensvang	Ullensvang	Vestland	10,881
+https://en.wikipedia.org/wiki/Eidfjord	Eidfjord	Vestland	937
+https://en.wikipedia.org/wiki/Ulvik	Ulvik	Vestland	1,051
+https://en.wikipedia.org/wiki/Voss	Voss	Vestland	15,875
+https://en.wikipedia.org/wiki/Kvam	Kvam	Vestland	8,497
+https://en.wikipedia.org/wiki/Samnanger	Samnanger	Vestland	2,501
+https://en.wikipedia.org/wiki/Bj%C3%B8rnafjorden_(municipality)	Bjørnafjorden	Vestland	25,213
+https://en.wikipedia.org/wiki/Austevoll	Austevoll	Vestland	5,282
+https://en.wikipedia.org/wiki/%C3%98ygarden	Øygarden	Vestland	39,032
+https://en.wikipedia.org/wiki/Ask%C3%B8y	Askøy	Vestland	29,032
+https://en.wikipedia.org/wiki/Vaksdal	Vaksdal	Vestland	3,867
+https://en.wikipedia.org/wiki/Modalen	Modalen	Vestland	378
+https://en.wikipedia.org/wiki/Oster%C3%B8y	Osterøy	Vestland	8,131
+https://en.wikipedia.org/wiki/Alver_(municipality)	Alver	Vestland	29,816
+https://en.wikipedia.org/wiki/Austrheim	Austrheim	Vestland	2,889
+https://en.wikipedia.org/wiki/Fedje	Fedje	Vestland	502
+https://en.wikipedia.org/wiki/Masfjorden	Masfjorden	Vestland	1,629
+https://en.wikipedia.org/wiki/Gulen	Gulen	Vestland	2,230
+https://en.wikipedia.org/wiki/Solund	Solund	Vestland	768
+https://en.wikipedia.org/wiki/Hyllestad	Hyllestad	Vestland	1,290
+https://en.wikipedia.org/wiki/H%C3%B8yanger	Høyanger	Vestland	3,965
+https://en.wikipedia.org/wiki/Vik	Vik	Vestland	2,560
+https://en.wikipedia.org/wiki/Sogndal	Sogndal	Vestland	12,097
+https://en.wikipedia.org/wiki/Aurland	Aurland	Vestland	1,766
+https://en.wikipedia.org/wiki/L%C3%A6rdal	Lærdal	Vestland	2,117
+https://en.wikipedia.org/wiki/%C3%85rdal	Årdal	Vestland	5,204
+https://en.wikipedia.org/wiki/Luster,_Norway	Luster	Vestland	5,246
+https://en.wikipedia.org/wiki/Askvoll	Askvoll	Vestland	2,951
+https://en.wikipedia.org/wiki/Fjaler	Fjaler	Vestland	2,901
+https://en.wikipedia.org/wiki/Sunnfjord_(municipality)	Sunnfjord	Vestland	22,116
+https://en.wikipedia.org/wiki/Bremanger	Bremanger	Vestland	3,521
+https://en.wikipedia.org/wiki/Stad,_Norway	Stad	Vestland	9,527
+https://en.wikipedia.org/wiki/Gloppen	Gloppen	Vestland	5,875
+https://en.wikipedia.org/wiki/Stryn	Stryn	Vestland	7,207
+https://en.wikipedia.org/wiki/Trondheim	Trondheim	Trøndelag	211,246
+https://en.wikipedia.org/wiki/Steinkjer	Steinkjer	Trøndelag	24,357
+https://en.wikipedia.org/wiki/Namsos	Namsos	Trøndelag	13,051
+https://en.wikipedia.org/wiki/Fr%C3%B8ya,_Tr%C3%B8ndelag	Frøya	Trøndelag	4,937
+https://en.wikipedia.org/wiki/Osen	Osen	Trøndelag	978
+https://en.wikipedia.org/wiki/Oppdal	Oppdal	Trøndelag	6,973
+https://en.wikipedia.org/wiki/Rennebu	Rennebu	Trøndelag	2,556
+https://en.wikipedia.org/wiki/R%C3%B8ros	Røros	Trøndelag	5,623
+https://en.wikipedia.org/wiki/Holt%C3%A5len	Holtålen	Trøndelag	2,046
+https://en.wikipedia.org/wiki/Midtre_Gauldal	Midtre Gauldal	Trøndelag	6,319
+https://en.wikipedia.org/wiki/Melhus	Melhus	Trøndelag	16,213
+https://en.wikipedia.org/wiki/Skaun	Skaun	Trøndelag	8,000
+https://en.wikipedia.org/wiki/Malvik	Malvik	Trøndelag	13,820
+https://en.wikipedia.org/wiki/Selbu	Selbu	Trøndelag	4,098
+https://en.wikipedia.org/wiki/Tydal	Tydal	Trøndelag	861
+https://en.wikipedia.org/wiki/Mer%C3%A5ker	Meråker	Trøndelag	2,508
+https://en.wikipedia.org/wiki/Stj%C3%B8rdal	Stjørdal	Trøndelag	23,625
+https://en.wikipedia.org/wiki/Frosta	Frosta	Trøndelag	2,630
+https://en.wikipedia.org/wiki/Levanger	Levanger	Trøndelag	19,892
+https://en.wikipedia.org/wiki/Verdal	Verdal	Trøndelag	14,849
+https://en.wikipedia.org/wiki/Sn%C3%A5sa	Snåsa	Trøndelag	2,159
+https://en.wikipedia.org/wiki/Lierne	Lierne	Trøndelag	1,389
+https://en.wikipedia.org/wiki/R%C3%B8yrvik	Røyrvik	Trøndelag	469
+https://en.wikipedia.org/wiki/Namsskogan	Namsskogan	Trøndelag	872
+https://en.wikipedia.org/wiki/Grong	Grong	Trøndelag	2,467
+https://en.wikipedia.org/wiki/H%C3%B8ylandet	Høylandet	Trøndelag	1,264
+https://en.wikipedia.org/wiki/Overhalla	Overhalla	Trøndelag	3,840
+https://en.wikipedia.org/wiki/Flatanger	Flatanger	Trøndelag	1,090
+https://en.wikipedia.org/wiki/Leka,_Norway	Leka	Trøndelag	584
+https://en.wikipedia.org/wiki/Inder%C3%B8y	Inderøy	Trøndelag	6,800
+https://en.wikipedia.org/wiki/Indre_Fosen	Indre Fosen	Trøndelag	10,108
+https://en.wikipedia.org/wiki/Heim,_Norway	Heim	Trøndelag	5,963
+https://en.wikipedia.org/wiki/Hitra	Hitra	Trøndelag	4,659
+https://en.wikipedia.org/wiki/%C3%98rland	Ørland	Trøndelag	5,291
+https://en.wikipedia.org/wiki/%C3%85fjord	Åfjord	Trøndelag	3,263
+https://en.wikipedia.org/wiki/Orkland	Orkland	Trøndelag	11,891
+https://en.wikipedia.org/wiki/N%C3%A6r%C3%B8ysund	Nærøysund	Trøndelag	9,623
+https://en.wikipedia.org/wiki/Rindal	Rindal	Trøndelag	2,026
+https://en.wikipedia.org/wiki/Troms%C3%B8	Tromsø	Troms og Finnmark	74,541
+https://en.wikipedia.org/wiki/Harstad	Harstad	Troms og Finnmark	24,845
+https://en.wikipedia.org/wiki/Alta,_Norway	Alta	Troms og Finnmark	20,446
+https://en.wikipedia.org/wiki/Vard%C3%B8	Vardø	Troms og Finnmark	2,104
+https://en.wikipedia.org/wiki/Vads%C3%B8	Vadsø	Troms og Finnmark	6,154
+https://en.wikipedia.org/wiki/Hammerfest	Hammerfest	Troms og Finnmark	10,527
+https://en.wikipedia.org/wiki/Kv%C3%A6fjord	Kvæfjord	Troms og Finnmark	2,986
+https://en.wikipedia.org/wiki/Tjeldsund	Tjeldsund	Troms og Finnmark	4,243
+https://en.wikipedia.org/wiki/Ibestad	Ibestad	Troms og Finnmark	1,394
+https://en.wikipedia.org/wiki/Gratangen	Gratangen	Troms og Finnmark	1,121
+https://en.wikipedia.org/wiki/Lavangen	Lavangen	Troms og Finnmark	1,076
+https://en.wikipedia.org/wiki/Bardu	Bardu	Troms og Finnmark	3,994
+https://en.wikipedia.org/wiki/Salangen	Salangen	Troms og Finnmark	2,220
+https://en.wikipedia.org/wiki/M%C3%A5lselv	Målselv	Troms og Finnmark	6,781
+https://en.wikipedia.org/wiki/S%C3%B8rreisa	Sørreisa	Troms og Finnmark	3,496
+https://en.wikipedia.org/wiki/Dyr%C3%B8y	Dyrøy	Troms og Finnmark	1,138
+https://en.wikipedia.org/wiki/Senja_(municipality)	Senja	Troms og Finnmark	14,930
+https://en.wikipedia.org/wiki/Balsfjord	Balsfjord	Troms og Finnmark	5,685
+https://en.wikipedia.org/wiki/Karls%C3%B8y	Karlsøy	Troms og Finnmark	2,273
+https://en.wikipedia.org/wiki/Lyngen	Lyngen	Troms og Finnmark	2,876
+https://en.wikipedia.org/wiki/Storfjord	Storfjord	Troms og Finnmark	1,890
+https://en.wikipedia.org/wiki/G%C3%A1ivuotna_%E2%80%93_K%C3%A5fjord_%E2%80%93_Kaivuono	Kåfjord	Troms og Finnmark	2,132
+https://en.wikipedia.org/wiki/Skjerv%C3%B8y	Skjervøy	Troms og Finnmark	2,912
+https://en.wikipedia.org/wiki/Nordreisa	Nordreisa	Troms og Finnmark	4,919
+https://en.wikipedia.org/wiki/Kv%C3%A6nangen	Kvænangen	Troms og Finnmark	1,233
+https://en.wikipedia.org/wiki/Kautokeino	Kautokeino	Troms og Finnmark	2,938
+https://en.wikipedia.org/wiki/Loppa	Loppa	Troms og Finnmark	968
+https://en.wikipedia.org/wiki/Hasvik	Hasvik	Troms og Finnmark	1,037
+https://en.wikipedia.org/wiki/M%C3%A5s%C3%B8y	Måsøy	Troms og Finnmark	1,204
+https://en.wikipedia.org/wiki/Nordkapp	Nordkapp	Troms og Finnmark	3,276
+https://en.wikipedia.org/wiki/Porsanger	Porsanger	Troms og Finnmark	3,971
+https://en.wikipedia.org/wiki/Karasjok	Karasjok	Troms og Finnmark	2,696
+https://en.wikipedia.org/wiki/Lebesby	Lebesby	Troms og Finnmark	1,330
+https://en.wikipedia.org/wiki/Gamvik	Gamvik	Troms og Finnmark	1,137
+https://en.wikipedia.org/wiki/Berlev%C3%A5g	Berlevåg	Troms og Finnmark	991
+https://en.wikipedia.org/wiki/Tana,_Norway	Tana	Troms og Finnmark	2,911
+https://en.wikipedia.org/wiki/Nesseby	Nesseby	Troms og Finnmark	951
+https://en.wikipedia.org/wiki/B%C3%A5tsfjord	Båtsfjord	Troms og Finnmark	2,267
+https://en.wikipedia.org/wiki/S%C3%B8r-Varanger	Sør-Varanger	Troms og Finnmark	10,199
