@@ -6,7 +6,6 @@
 ++ sudo cp main.css /var/www/main-assignment/main.css
 ++ sudo cp -r assets /var/www/main-assignment/assets
 ++ create_index_page
-++ sudo tee /var/www/main-assignment/index.html
 ++ html_index_template=/home/chriskng/main-assignment/templates/template.index.html
 ++ index_page=/home/chriskng/main-assignment/tmp/index.txt
 ++ main_page=/home/chriskng/main-assignment/tmp/main.page.txt
@@ -14,6 +13,7 @@
 ++ IFS='	'
 ++ read -r _ place county population
 ++ html_line='<p><a href='\''/place.sh?place=Oslo'\''>Oslo</a> ★ Population: 702,543</p>'
+++ sudo tee /var/www/main-assignment/index.html
 +++ printf '%s\t%s\n' '<p><a href='\''/place.sh?place=Oslo'\''>Oslo</a> ★ Population: 702,543</p>' Oslo
 +++ sed 's/href=\'\''/href="/; s/\'\''>/">/'
 ++ modified_template='<p><a href='\''/place.sh?place=Oslo'\''>Oslo</a> ★ Population: 702,543</p>	Oslo'
@@ -21,8 +21,8 @@
 ++ IFS='	'
 ++ read -r _ place county population
 ++ html_line='<p><a href='\''/place.sh?place=Eigersund'\''>Eigersund</a> ★ Population: 14,860</p>'
-+++ sed 's/href=\'\''/href="/; s/\'\''>/">/'
 +++ printf '%s\t%s\n' '<p><a href='\''/place.sh?place=Eigersund'\''>Eigersund</a> ★ Population: 14,860</p>' Rogaland
++++ sed 's/href=\'\''/href="/; s/\'\''>/">/'
 ++ modified_template='<p><a href='\''/place.sh?place=Eigersund'\''>Eigersund</a> ★ Population: 14,860</p>	Rogaland'
 ++ echo '<p><a href='\''/place.sh?place=Eigersund'\''>Eigersund</a> ★ Population: 14,860</p>	Rogaland'
 ++ IFS='	'
@@ -182,8 +182,8 @@
 ++ IFS='	'
 ++ read -r _ place county population
 ++ html_line='<p><a href='\''/place.sh?place=Kristiansund'\''>Kristiansund</a> ★ Population: 24,442</p>'
-+++ printf '%s\t%s\n' '<p><a href='\''/place.sh?place=Kristiansund'\''>Kristiansund</a> ★ Population: 24,442</p>' 'Møre og Romsdal'
 +++ sed 's/href=\'\''/href="/; s/\'\''>/">/'
++++ printf '%s\t%s\n' '<p><a href='\''/place.sh?place=Kristiansund'\''>Kristiansund</a> ★ Population: 24,442</p>' 'Møre og Romsdal'
 ++ modified_template='<p><a href='\''/place.sh?place=Kristiansund'\''>Kristiansund</a> ★ Population: 24,442</p>	Møre og Romsdal'
 ++ echo '<p><a href='\''/place.sh?place=Kristiansund'\''>Kristiansund</a> ★ Population: 24,442</p>	Møre og Romsdal'
 ++ IFS='	'
@@ -1057,8 +1057,8 @@
 ++ IFS='	'
 ++ read -r _ place county population
 ++ html_line='<p><a href='\''/place.sh?place=Nord-Odal'\''>Nord-Odal</a> ★ Population: 5,100</p>'
-+++ printf '%s\t%s\n' '<p><a href='\''/place.sh?place=Nord-Odal'\''>Nord-Odal</a> ★ Population: 5,100</p>' Innlandet
 +++ sed 's/href=\'\''/href="/; s/\'\''>/">/'
++++ printf '%s\t%s\n' '<p><a href='\''/place.sh?place=Nord-Odal'\''>Nord-Odal</a> ★ Population: 5,100</p>' Innlandet
 ++ modified_template='<p><a href='\''/place.sh?place=Nord-Odal'\''>Nord-Odal</a> ★ Population: 5,100</p>	Innlandet'
 ++ echo '<p><a href='\''/place.sh?place=Nord-Odal'\''>Nord-Odal</a> ★ Population: 5,100</p>	Innlandet'
 ++ IFS='	'
@@ -1190,8 +1190,8 @@
 ++ IFS='	'
 ++ read -r _ place county population
 ++ html_line='<p><a href='\''/place.sh?place=Skjåk'\''>Skjåk</a> ★ Population: 2,202</p>'
-+++ printf '%s\t%s\n' '<p><a href='\''/place.sh?place=Skjåk'\''>Skjåk</a> ★ Population: 2,202</p>' Innlandet
 +++ sed 's/href=\'\''/href="/; s/\'\''>/">/'
++++ printf '%s\t%s\n' '<p><a href='\''/place.sh?place=Skjåk'\''>Skjåk</a> ★ Population: 2,202</p>' Innlandet
 ++ modified_template='<p><a href='\''/place.sh?place=Skjåk'\''>Skjåk</a> ★ Population: 2,202</p>	Innlandet'
 ++ echo '<p><a href='\''/place.sh?place=Skjåk'\''>Skjåk</a> ★ Population: 2,202</p>	Innlandet'
 ++ IFS='	'
@@ -1316,43 +1316,43 @@
 ++ IFS='	'
 ++ read -r _ place county population
 ++ html_line='<p><a href='\''/place.sh?place=Øystre Slidre'\''>Øystre Slidre</a> ★ Population: 3,248</p>'
-+++ printf '%s\t%s\n' '<p><a href='\''/place.sh?place=Øystre Slidre'\''>Øystre Slidre</a> ★ Population: 3,248</p>' Innlandet
 +++ sed 's/href=\'\''/href="/; s/\'\''>/">/'
++++ printf '%s\t%s\n' '<p><a href='\''/place.sh?place=Øystre Slidre'\''>Øystre Slidre</a> ★ Population: 3,248</p>' Innlandet
 ++ modified_template='<p><a href='\''/place.sh?place=Øystre Slidre'\''>Øystre Slidre</a> ★ Population: 3,248</p>	Innlandet'
 ++ echo '<p><a href='\''/place.sh?place=Øystre Slidre'\''>Øystre Slidre</a> ★ Population: 3,248</p>	Innlandet'
 ++ IFS='	'
 ++ read -r _ place county population
 ++ html_line='<p><a href='\''/place.sh?place=Vang'\''>Vang</a> ★ Population: 1,596</p>'
-+++ printf '%s\t%s\n' '<p><a href='\''/place.sh?place=Vang'\''>Vang</a> ★ Population: 1,596</p>' Innlandet
 +++ sed 's/href=\'\''/href="/; s/\'\''>/">/'
++++ printf '%s\t%s\n' '<p><a href='\''/place.sh?place=Vang'\''>Vang</a> ★ Population: 1,596</p>' Innlandet
 ++ modified_template='<p><a href='\''/place.sh?place=Vang'\''>Vang</a> ★ Population: 1,596</p>	Innlandet'
 ++ echo '<p><a href='\''/place.sh?place=Vang'\''>Vang</a> ★ Population: 1,596</p>	Innlandet'
 ++ IFS='	'
 ++ read -r _ place county population
 ++ html_line='<p><a href='\''/place.sh?place=Horten'\''>Horten</a> ★ Population: 27,202</p>'
-+++ printf '%s\t%s\n' '<p><a href='\''/place.sh?place=Horten'\''>Horten</a> ★ Population: 27,202</p>' 'Vestfold og Telemark'
 +++ sed 's/href=\'\''/href="/; s/\'\''>/">/'
++++ printf '%s\t%s\n' '<p><a href='\''/place.sh?place=Horten'\''>Horten</a> ★ Population: 27,202</p>' 'Vestfold og Telemark'
 ++ modified_template='<p><a href='\''/place.sh?place=Horten'\''>Horten</a> ★ Population: 27,202</p>	Vestfold og Telemark'
 ++ echo '<p><a href='\''/place.sh?place=Horten'\''>Horten</a> ★ Population: 27,202</p>	Vestfold og Telemark'
 ++ IFS='	'
 ++ read -r _ place county population
 ++ html_line='<p><a href='\''/place.sh?place=Holmestrand'\''>Holmestrand</a> ★ Population: 14,037</p>'
-+++ printf '%s\t%s\n' '<p><a href='\''/place.sh?place=Holmestrand'\''>Holmestrand</a> ★ Population: 14,037</p>' 'Vestfold og Telemark'
 +++ sed 's/href=\'\''/href="/; s/\'\''>/">/'
++++ printf '%s\t%s\n' '<p><a href='\''/place.sh?place=Holmestrand'\''>Holmestrand</a> ★ Population: 14,037</p>' 'Vestfold og Telemark'
 ++ modified_template='<p><a href='\''/place.sh?place=Holmestrand'\''>Holmestrand</a> ★ Population: 14,037</p>	Vestfold og Telemark'
 ++ echo '<p><a href='\''/place.sh?place=Holmestrand'\''>Holmestrand</a> ★ Population: 14,037</p>	Vestfold og Telemark'
 ++ IFS='	'
 ++ read -r _ place county population
 ++ html_line='<p><a href='\''/place.sh?place=Tønsberg'\''>Tønsberg</a> ★ Population: 44,922</p>'
-+++ printf '%s\t%s\n' '<p><a href='\''/place.sh?place=Tønsberg'\''>Tønsberg</a> ★ Population: 44,922</p>' 'Vestfold og Telemark'
 +++ sed 's/href=\'\''/href="/; s/\'\''>/">/'
++++ printf '%s\t%s\n' '<p><a href='\''/place.sh?place=Tønsberg'\''>Tønsberg</a> ★ Population: 44,922</p>' 'Vestfold og Telemark'
 ++ modified_template='<p><a href='\''/place.sh?place=Tønsberg'\''>Tønsberg</a> ★ Population: 44,922</p>	Vestfold og Telemark'
 ++ echo '<p><a href='\''/place.sh?place=Tønsberg'\''>Tønsberg</a> ★ Population: 44,922</p>	Vestfold og Telemark'
 ++ IFS='	'
 ++ read -r _ place county population
 ++ html_line='<p><a href='\''/place.sh?place=Sandefjord'\''>Sandefjord</a> ★ Population: 62,019</p>'
-+++ sed 's/href=\'\''/href="/; s/\'\''>/">/'
 +++ printf '%s\t%s\n' '<p><a href='\''/place.sh?place=Sandefjord'\''>Sandefjord</a> ★ Population: 62,019</p>' 'Vestfold og Telemark'
++++ sed 's/href=\'\''/href="/; s/\'\''>/">/'
 ++ modified_template='<p><a href='\''/place.sh?place=Sandefjord'\''>Sandefjord</a> ★ Population: 62,019</p>	Vestfold og Telemark'
 ++ echo '<p><a href='\''/place.sh?place=Sandefjord'\''>Sandefjord</a> ★ Population: 62,019</p>	Vestfold og Telemark'
 ++ IFS='	'
@@ -1379,8 +1379,8 @@
 ++ IFS='	'
 ++ read -r _ place county population
 ++ html_line='<p><a href='\''/place.sh?place=Notodden'\''>Notodden</a> ★ Population: 12,757</p>'
-+++ printf '%s\t%s\n' '<p><a href='\''/place.sh?place=Notodden'\''>Notodden</a> ★ Population: 12,757</p>' 'Vestfold og Telemark'
 +++ sed 's/href=\'\''/href="/; s/\'\''>/">/'
++++ printf '%s\t%s\n' '<p><a href='\''/place.sh?place=Notodden'\''>Notodden</a> ★ Population: 12,757</p>' 'Vestfold og Telemark'
 ++ modified_template='<p><a href='\''/place.sh?place=Notodden'\''>Notodden</a> ★ Population: 12,757</p>	Vestfold og Telemark'
 ++ echo '<p><a href='\''/place.sh?place=Notodden'\''>Notodden</a> ★ Population: 12,757</p>	Vestfold og Telemark'
 ++ IFS='	'
@@ -1435,8 +1435,8 @@
 ++ IFS='	'
 ++ read -r _ place county population
 ++ html_line='<p><a href='\''/place.sh?place=Tinn'\''>Tinn</a> ★ Population: 5,894</p>'
-+++ printf '%s\t%s\n' '<p><a href='\''/place.sh?place=Tinn'\''>Tinn</a> ★ Population: 5,894</p>' 'Vestfold og Telemark'
 +++ sed 's/href=\'\''/href="/; s/\'\''>/">/'
++++ printf '%s\t%s\n' '<p><a href='\''/place.sh?place=Tinn'\''>Tinn</a> ★ Population: 5,894</p>' 'Vestfold og Telemark'
 ++ modified_template='<p><a href='\''/place.sh?place=Tinn'\''>Tinn</a> ★ Population: 5,894</p>	Vestfold og Telemark'
 ++ echo '<p><a href='\''/place.sh?place=Tinn'\''>Tinn</a> ★ Population: 5,894</p>	Vestfold og Telemark'
 ++ IFS='	'
@@ -1617,8 +1617,8 @@
 ++ IFS='	'
 ++ read -r _ place county population
 ++ html_line='<p><a href='\''/place.sh?place=Bykle'\''>Bykle</a> ★ Population: 952</p>'
-+++ sed 's/href=\'\''/href="/; s/\'\''>/">/'
 +++ printf '%s\t%s\n' '<p><a href='\''/place.sh?place=Bykle'\''>Bykle</a> ★ Population: 952</p>' Agder
++++ sed 's/href=\'\''/href="/; s/\'\''>/">/'
 ++ modified_template='<p><a href='\''/place.sh?place=Bykle'\''>Bykle</a> ★ Population: 952</p>	Agder'
 ++ echo '<p><a href='\''/place.sh?place=Bykle'\''>Bykle</a> ★ Population: 952</p>	Agder'
 ++ IFS='	'
@@ -3987,7 +3987,7 @@ body=$(
 
     awk -F '\''\t'\'' -v place="${place}" '\''
     $2 == place {
-        printf("<p>The forecasted weather for <i>%s</i>. Temperature: <b>%s°C</b> | Precipitation: <b>%smm</b> | Humidity: <b>%s%</b> | Last Updated: <i>%s</i><br><img src='\''${img_path}/%s.svg'\'' alt='\''%s'\''></p>", $9, $5, $6, $7, $11, $8, $8);
+        printf("<p>The forecasted weather for <i>%s</i>: Temperature: <b>%s°C</b> | Precipitation: <b>%smm</b> | Humidity: <b>%s%</b> | Last Updated: <i>%s</i><br><img src='\''${img_path}/%s.svg'\'' alt='\''%s'\''></p>", $9, $5, $6, $7, $11, $8, $8);
         exit;
     }'\'' "$data_file"
 )
@@ -4054,7 +4054,7 @@ body=$(
 
     awk -F '\''\t'\'' -v place="${place}" '\''
     $2 == place {
-        printf("<p>The forecasted weather for <i>%s</i>. Temperature: <b>%s°C</b> | Precipitation: <b>%smm</b> | Humidity: <b>%s%</b> | Last Updated: <i>%s</i><br><img src='\''${img_path}/%s.svg'\'' alt='\''%s'\''></p>", $9, $5, $6, $7, $11, $8, $8);
+        printf("<p>The forecasted weather for <i>%s</i>: Temperature: <b>%s°C</b> | Precipitation: <b>%smm</b> | Humidity: <b>%s%</b> | Last Updated: <i>%s</i><br><img src='\''${img_path}/%s.svg'\'' alt='\''%s'\''></p>", $9, $5, $6, $7, $11, $8, $8);
         exit;
     }'\'' "$data_file"
 )
