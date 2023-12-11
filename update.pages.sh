@@ -1,7 +1,7 @@
 #!/bin/bash
 
-exec 2>save_me.txt
-set -x
+# exec 2>save_me.txt
+# set -x
 
 index_data="${TMP_DIR}/places.as.data.txt"
 data_file="${DATA_DIR}/places.txt"
@@ -66,7 +66,7 @@ create_dynamic_page | sudo tee "$DEST_DIR/place.sh" > /dev/null
 # change file ownership to 'www-data' to limit the permission of what the user can access 
 sudo chown -R www-data:www-data "$DEST_DIR"
 
-# make sure executable files are executable
+# make sure the 'place.sh' are executable by changing permission
 sudo chmod +x "${DEST_DIR}/place.sh"
 
-exec 2>&-
+# exec 2>&-
