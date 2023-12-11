@@ -1,30 +1,37 @@
 #!/bin/bash
 
-# usi
+# exec 2>save_me.txt
+# set -x
+
 # 'classic' endpoint is to retrive the weather data formatted in XML, easier to parse using regex tools than JSON I assume
 API_BASE_URL='https://api.met.no/weatherapi/locationforecast/2.0/classic?'
 
 # loading utilities
-source "utilities/api.sh"
-source "utilities/html.sh"
+source "${UTIL_DIR}/api.sh"
+source "${UTIL_DIR}/html.sh"
 
 # using the municiplalities' coordinates (latitude and longitude) to extract and record forecasted temperature, precipitation and humidity for the next day (at midday)
 # for each record (aka, place), request/save the weather - expiresAt field doesn't exist or larger than time now
 
-data_file="data/places.txt"
-tmp_out_file="tmp/ewbash.txt"
+data_file="${DATA_DIR}/places.txt"
+tmp_out_file="${TMP_DIR}/zzz.txt"
 
-while IFS=$'\t' read -r url place lat lon temp rain humidity date_for date_updated date_expires; do
-
-    # if date_expires is empty, add
+while IFS=$'\t' read -r url place lat lon temp rain humidity symbol date_for date_to date_updated date_expires; do
+    # if date_expires is empty, add the current time to start the read loop
     if [[ -z "$date_expires" ]]; then
-        date_expires=$(date +'%s')
+        date_expires=$(date '+%s')
     fi
 
-    # if 'date_now' is equal or greater than 'date_expires', request fresh data
-    date_now=$(date +'%s')
+    # if 'date_now' is equal or greater than 'expires_timestamp', that translates the 'date_expires' that containes the Expires header (in future loops) to Unix time, request fresh data
+    date_now=$(date '+%s')
 
-    if (( date_now >= date_expires )); then
+    if [[ "$date_expires" =~ ^[0-9]+$ ]]; then
+        expires_timestamp="$date_expires"
+    else
+        expires_timestamp=$(date -d "$date_expires" '+%s')
+    fi
+    
+    if (( date_now >= expires_timestamp)); then
 
         # if date_updated isn't empty, use it; else use date_now
         if [[ -z "$date_updated" ]]; then
@@ -73,34 +80,29 @@ while IFS=$'\t' read -r url place lat lon temp rain humidity date_for date_updat
                     head -n 1 |\
                     sed -E 's|.*code="([^"]*)".*|\1|' )
 
-            # update 'date_updated' variable by taking the newly updated date via 'query_api' function, and update 'If-Modified-Since' header
-            # will "date_expires"
-            date_updated=$(grep -i "^date:" <<< "$head" | cut -d' ' -f2-)
-            date_expires=$(grep -i "^expires:" <<< "$head"| cut -d' ' -f2-)
+            # update 'date_updated' by obtaining the date (when requesting) in 'date' header, and update 'If-Modified-Since' header through 'query_api' function for next time you're going to request data
+            # obtain 'expires' header by finding the header that starts (^) with "expires", cut out the second field without the space before
+            # had to use 'tr' command with '-d' (--delete) to remove carraiage return characters (\r) as it forced 'date_expires' down a newline, which messed with the structure of the data file and resulted in stopping the read loop next time you'll run it
+            date_updated=$(grep -i "^date:" <<< "$head" | cut -d' ' -f2- | tr -d '\r\n')
+            date_expires=$(grep -i "^expires:" <<< "$head"| cut -d' ' -f2- | tr -d '\r\n')
 
             # 'logs.txt' reads each line when you attempt to fetch data for a place, and store info corresponding to the action of its status code 
-            echo "[LOG] $date_now 200 received fresh data for $place, humidity: $humidity, rain: $rain, temp: $temp" >> "logs/logs.txt"
-        
+            echo "[LOG] $date_updated 200 received fresh data for $place, humidity: $humidity, rain: $rain, temp: $temp" >> "${LOGS_DIR}/logs.txt"
+
         # status code 304: "Not Modified" - use the cached version of the resource instead of unnecessarily loading both the server and network if the data hasn't been updated
         elif ((status == 304)); then
-            echo "[LOG] $date_now 304 no fresh data for $place" >> "logs/logs.txt" 
+            echo "[LOG] $date_updated 304 no fresh data for $place" >> "${LOGS_DIR}/logs.txt" 
 
         else
-            # record error status codes
-            echo "[ERROR] $date_now $(head -n 1 <<< "$head")" >> "logs/logs.txt"
+            # record error status code
+            echo "[ERROR] $date_updated $(head -n 1 <<< "$head")" >> "${LOGS_DIR}/error_logs.txt"
         fi
     fi 
-  
+    
     printf "%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\n" "$url" "$place" "$lat" "$lon" "$temp" "$rain" "$humidity" "$symbol" "$date_for" "$date_to" "$date_updated" "$date_expires" >> "$tmp_out_file"
 done < "$data_file"
 
-mv "tmp/ewbash.txt" "data/places.txt"
-
-# if [[ -f "data/slay.txt" ]]; then
-    # check_data_midday=$(awk -F'\t' -v current_date="$(date +'%Y-%m-%dT%H:%M:%SZ')" '$9 < current_date { print $5 }' "data/slay.txt")
-    # if [[ -n "$check_data_midday" ]]; then
-       # echo "[ERROR] $date_now Existing data is up-to-date."
-    # fi
-# fi
+mv "$tmp_out_file" "$data_file"
 
 # TODO: throttle requests?
+# exec 2>&-

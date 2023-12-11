@@ -1,0 +1,51 @@
+#!/bin/bash
+
+data_file="%data_file_path%"
+desc_file="%desc_file_path%"
+page_template="%page_template%"
+this_dir="$( dirname "$0" )"
+log_file="$this_dir/logs.txt"
+img_path="assets/weather-icons"
+
+# 'QUERY_STRING' is an enviroment variable passed down the Common Gateway Interface (CGi) protocol, which enables web servers to execute programs/scripts that e.g. generate dynamic content in response to client requests
+# the variable contains the query parameters from the URL when a client makes a request to a CGI script
+
+# 'b%' to handle '/' being printed, '//%/\\x' to handle e.g. spaces (%20) when it needs to be represented in a URL-safe format;
+# aka. prepping the string for decoding of precent-encoded characters
+query_string="$(printf '%b' ${QUERY_STRING//%/\\x})"
+
+# extracting the value of the 'place' parameter by matches any sequenece after 'place=' except for '&' and '?'
+place=$(sed -E 's|place=([^&?]*)|\1|' <<< "$query_string")
+
+body=$(
+    awk -F '\t' -v place="${place}" '
+    $1 == place {
+        printf("<p><b>%s</b> has a population of <b>%s</b>. The area is <b>%skm²</b>, which might or might not be huge. Mayor is <b>%s</b>, who is a member of the <b>%s</b> party.</p>", $1, $2, $3, $4, $5);
+        exit;
+    }' "$desc_file"
+
+    awk -F '\t' -v place="${place}" '
+    $2 == place {
+        printf("<p>The forecasted weather for <i>%s</i>. Temperature: <b>%s°C</b> | Precipitation: <b>%smm</b> | Humidity: <b>%s%</b> | Last Updated: <i>%s</i><br><img src='${img_path}/%s.svg' alt='%s'></p>", $9, $5, $6, $7, $11, $8, $8);
+        exit;
+    }' "$data_file"
+)
+
+# returning content to Apache
+echo "Content-type: text/html"
+
+if [[ -z "$body" ]]; then
+    body="<h1>404 Not Found</h1>
+    <p>Requested page for ${place} was not found</p>"
+    echo "Status: 404 Not Found"
+    echo "[INFO] Place ${place} not found" >> "$log_file"
+else
+    echo "Status: 200 Okayish so far"
+    echo "[INFO] Returning weather for place ${place}" >> "$log_file"
+fi
+
+echo # seperate 'Content-type' header from the response body
+
+title="Weather for ${place}"
+html="$(sed "s|%page_title%|${title}|" <<< "$page_template")"
+echo "${html//%body%/${body}}"
