@@ -1,5 +1,5 @@
 # Exam for IDG1100
-The main assignment of our final grade (60%) for the **IDG1100** course in "Web Fundamentals" (December 2023). The task involved scraping coordinates of all Norwegian municipalities from Wikipedia, displaying general info regarding them on a webpage, and using a Weather API to show weather data forcasted at 12AM the next day by querying a page for each place listed,
+The main assignment of our final grade (60%) for "Web Fundamentals" (**IDG1100**). The task involved scraping coordinates of all Norwegian municipalities from Wikipedia, displaying general info regarding them on a webpage, and using a Weather API to show weather data forcasted at 12AM the next day by querying a page for each place listed,
 
 ## Notes
 I decided to track files in 'tmp' folder, that have been used to check the different stages of the process, and
